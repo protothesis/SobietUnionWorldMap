@@ -1,0 +1,169 @@
+<!DOCTYPE html>
+<html lang="en">
+<head>
+  <meta charset="UTF-8" />
+  <meta name="viewport" content="width=device-width, initial-scale=1.0" />
+  <title>Minecraft Atlas</title>
+
+  <!-- Leaflet -->
+  <link rel="stylesheet" href="https://unpkg.com/leaflet@1.9.4/dist/leaflet.css" />
+  <script src="https://unpkg.com/leaflet@1.9.4/dist/leaflet.js"></script>
+
+  <!-- Leaflet.markercluster -->
+  <link rel="stylesheet" href="https://unpkg.com/leaflet.markercluster@1.5.3/dist/MarkerCluster.css" />
+  <link rel="stylesheet" href="https://unpkg.com/leaflet.markercluster@1.5.3/dist/MarkerCluster.Default.css" />
+  <script src="https://unpkg.com/leaflet.markercluster@1.5.3/dist/leaflet.markercluster.js"></script>
+
+  <!-- Marked.js for markdown rendering -->
+  <script src="https://cdn.jsdelivr.net/npm/marked/marked.min.js"></script>
+
+  <!-- Google Fonts -->
+  <link rel="preconnect" href="https://fonts.googleapis.com" />
+  <link href="https://fonts.googleapis.com/css2?family=Cinzel:wght@400;600;700&family=Crimson+Pro:ital,wght@0,300;0,400;0,600;1,300;1,400&family=JetBrains+Mono:wght@400;500&display=swap" rel="stylesheet" />
+
+  <link rel="stylesheet" href="style.css" />
+</head>
+<body>
+
+<!-- ── Top bar ─────────────────────────────────────── -->
+<header id="topbar">
+  <div id="topbar-left">
+    <div id="logo">
+      <svg class="logo-icon" viewBox="0 0 24 24" fill="none" xmlns="http://www.w3.org/2000/svg">
+        <path d="M3 5a2 2 0 012-2h14a2 2 0 012 2v14a2 2 0 01-2 2H5a2 2 0 01-2-2V5z" stroke="currentColor" stroke-width="1.5"/>
+        <path d="M7 9l3 3-3 3M13 15h4" stroke="currentColor" stroke-width="1.5" stroke-linecap="round"/>
+      </svg>
+      <span class="logo-text">ATLAS</span>
+    </div>
+  </div>
+
+  <div id="topbar-center">
+    <div id="search-wrap">
+      <svg class="search-icon" viewBox="0 0 20 20" fill="none">
+        <circle cx="8.5" cy="8.5" r="5.5" stroke="currentColor" stroke-width="1.5"/>
+        <path d="M15 15l-3-3" stroke="currentColor" stroke-width="1.5" stroke-linecap="round"/>
+      </svg>
+      <input id="search-input" type="text" placeholder="Search markers…" autocomplete="off" />
+      <div id="search-results"></div>
+    </div>
+  </div>
+
+  <div id="topbar-right">
+    <span id="coord-display" class="mono">x: — &nbsp; z: —</span>
+    <button id="btn-add-mode" class="topbar-btn" title="Place new marker (or right-click map)">
+      <svg viewBox="0 0 20 20" fill="none">
+        <circle cx="10" cy="10" r="7.5" stroke="currentColor" stroke-width="1.5"/>
+        <path d="M10 6.5v7M6.5 10h7" stroke="currentColor" stroke-width="1.5" stroke-linecap="round"/>
+      </svg>
+      Add Marker
+    </button>
+  </div>
+</header>
+
+<!-- ── Map ─────────────────────────────────────────── -->
+<div id="map"></div>
+
+<!-- ── Sidebar / Info panel ────────────────────────── -->
+<aside id="info-panel" class="panel-closed">
+  <div id="panel-header">
+    <div id="panel-title-wrap">
+      <span id="panel-icon-display">📍</span>
+      <h2 id="panel-title">Marker</h2>
+    </div>
+    <div id="panel-actions">
+      <button id="btn-edit-marker" class="icon-btn" title="Edit">
+        <svg viewBox="0 0 20 20" fill="none"><path d="M14.5 3.5l2 2-9 9-3 1 1-3 9-9z" stroke="currentColor" stroke-width="1.4" stroke-linejoin="round"/></svg>
+      </button>
+      <button id="btn-delete-marker" class="icon-btn danger" title="Delete">
+        <svg viewBox="0 0 20 20" fill="none"><path d="M5 6h10l-1 11H6L5 6zM3 6h14M8 3h4" stroke="currentColor" stroke-width="1.4" stroke-linecap="round" stroke-linejoin="round"/></svg>
+      </button>
+      <button id="btn-close-panel" class="icon-btn" title="Close">
+        <svg viewBox="0 0 20 20" fill="none"><path d="M5 5l10 10M15 5L5 15" stroke="currentColor" stroke-width="1.5" stroke-linecap="round"/></svg>
+      </button>
+    </div>
+  </div>
+
+  <div id="panel-meta">
+    <span id="panel-coords" class="mono"></span>
+    <div id="panel-tags"></div>
+  </div>
+
+  <div id="panel-body-view" class="panel-section markdown-body"></div>
+
+  <!-- Edit form (hidden by default) -->
+  <div id="panel-edit-form" class="hidden">
+    <div class="form-group">
+      <label>Title</label>
+      <input id="edit-title" type="text" maxlength="120" />
+    </div>
+    <div class="form-row">
+      <div class="form-group">
+        <label>Icon</label>
+        <div id="icon-picker"></div>
+      </div>
+      <div class="form-group">
+        <label>Color</label>
+        <input id="edit-color" type="color" value="#e8c97a" />
+      </div>
+    </div>
+    <div class="form-group">
+      <label>Tags <span class="label-hint">(comma separated)</span></label>
+      <input id="edit-tags" type="text" placeholder="base, exploration, build…" />
+    </div>
+    <div class="form-group grow">
+      <label>Notes <span class="label-hint">(Markdown supported)</span></label>
+      <div id="editor-tabs">
+        <button class="editor-tab active" data-tab="write">Write</button>
+        <button class="editor-tab" data-tab="preview">Preview</button>
+      </div>
+      <textarea id="edit-body" placeholder="Write notes in Markdown…&#10;&#10;## Heading&#10;**bold**, *italic*, `code`&#10;- list item"></textarea>
+      <div id="edit-preview" class="markdown-body hidden"></div>
+    </div>
+    <div class="form-actions">
+      <button id="btn-save-marker" class="btn-primary">Save</button>
+      <button id="btn-cancel-edit" class="btn-ghost">Cancel</button>
+    </div>
+  </div>
+</aside>
+
+<!-- ── New marker modal ─────────────────────────────── -->
+<div id="modal-overlay" class="hidden">
+  <div id="modal-new-marker">
+    <h3>New Marker</h3>
+    <p id="modal-coords" class="mono"></p>
+    <div class="form-group">
+      <label>Title</label>
+      <input id="new-title" type="text" maxlength="120" placeholder="Name this location…" />
+    </div>
+    <div class="form-row">
+      <div class="form-group">
+        <label>Icon</label>
+        <div id="modal-icon-picker"></div>
+      </div>
+      <div class="form-group">
+        <label>Color</label>
+        <input id="new-color" type="color" value="#e8c97a" />
+      </div>
+    </div>
+    <div class="form-group">
+      <label>Tags</label>
+      <input id="new-tags" type="text" placeholder="base, exploration…" />
+    </div>
+    <div class="form-actions">
+      <button id="btn-create-marker" class="btn-primary">Place Marker</button>
+      <button id="btn-cancel-modal" class="btn-ghost">Cancel</button>
+    </div>
+  </div>
+</div>
+
+<!-- ── Tag filter bar ───────────────────────────────── -->
+<div id="tag-bar"></div>
+
+<!-- ── Scale indicator ─────────────────────────────── -->
+<div id="scale-legend">
+  <span id="scale-text"></span>
+</div>
+
+<script src="app.js"></script>
+</body>
+</html>
