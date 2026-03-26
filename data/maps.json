@@ -1,0 +1,4822 @@
+{
+  "world_name": "Sobiet Union - Copy",
+  "world_folder": "JtNhZmWmEAA=",
+  "maps": [
+    {
+      "id": -9199819947717,
+      "file": "tiles/map_-9199819947717.png",
+      "xCenter": -4096,
+      "zCenter": 0,
+      "scale": 4,
+      "bounds": {
+        "xMin": -5120,
+        "xMax": -3072,
+        "zMin": -1024,
+        "zMax": 1024,
+        "blocksWide": 2048
+      }
+    },
+    {
+      "id": -6472515712276,
+      "file": "tiles/map_-6472515712276.png",
+      "xCenter": 2048,
+      "zCenter": 2048,
+      "scale": 4,
+      "bounds": {
+        "xMin": 1024,
+        "xMax": 3072,
+        "zMin": 1024,
+        "zMax": 3072,
+        "blocksWide": 2048
+      }
+    },
+    {
+      "id": -3294239910802,
+      "file": "tiles/map_-3294239910802.png",
+      "xCenter": 4096,
+      "zCenter": 0,
+      "scale": 4,
+      "bounds": {
+        "xMin": 3072,
+        "xMax": 5120,
+        "zMin": -1024,
+        "zMax": 1024,
+        "blocksWide": 2048
+      }
+    },
+    {
+      "id": -3006477103684,
+      "file": "tiles/map_-3006477103684.png",
+      "xCenter": -2048,
+      "zCenter": 2048,
+      "scale": 4,
+      "bounds": {
+        "xMin": -3072,
+        "xMax": -1024,
+        "zMin": 1024,
+        "zMax": 3072,
+        "blocksWide": 2048
+      }
+    },
+    {
+      "id": -2628519978655,
+      "file": "tiles/map_-2628519978655.png",
+      "xCenter": -2048,
+      "zCenter": -2048,
+      "scale": 4,
+      "bounds": {
+        "xMin": -3072,
+        "xMax": -1024,
+        "zMin": -3072,
+        "zMax": -1024,
+        "blocksWide": 2048
+      }
+    },
+    {
+      "id": -2551210572884,
+      "file": "tiles/map_-2551210572884.png",
+      "xCenter": 0,
+      "zCenter": 0,
+      "scale": 4,
+      "bounds": {
+        "xMin": -1024,
+        "xMax": 1024,
+        "zMin": -1024,
+        "zMax": 1024,
+        "blocksWide": 2048
+      }
+    },
+    {
+      "id": -2499670932688,
+      "file": "tiles/map_-2499670932688.png",
+      "xCenter": -2048,
+      "zCenter": 0,
+      "scale": 4,
+      "bounds": {
+        "xMin": -3072,
+        "xMax": -1024,
+        "zMin": -1024,
+        "zMax": 1024,
+        "blocksWide": 2048
+      }
+    },
+    {
+      "id": -1954210119573,
+      "file": "tiles/map_-1954210119573.png",
+      "xCenter": 0,
+      "zCenter": -2048,
+      "scale": 4,
+      "bounds": {
+        "xMin": -1024,
+        "xMax": 1024,
+        "zMin": -3072,
+        "zMax": -1024,
+        "blocksWide": 2048
+      }
+    },
+    {
+      "id": -1017907248876,
+      "file": "tiles/map_-1017907248876.png",
+      "xCenter": 2048,
+      "zCenter": 0,
+      "scale": 4,
+      "bounds": {
+        "xMin": 1024,
+        "xMax": 3072,
+        "zMin": -1024,
+        "zMax": 1024,
+        "blocksWide": 2048
+      }
+    },
+    {
+      "id": -777389079974,
+      "file": "tiles/map_-777389079974.png",
+      "xCenter": 0,
+      "zCenter": 6144,
+      "scale": 4,
+      "bounds": {
+        "xMin": -1024,
+        "xMax": 1024,
+        "zMin": 5120,
+        "zMax": 7168,
+        "blocksWide": 2048
+      }
+    },
+    {
+      "id": -9199819947718,
+      "file": "tiles/map_-9199819947718.png",
+      "xCenter": -4096,
+      "zCenter": -1024,
+      "scale": 3,
+      "bounds": {
+        "xMin": -4608,
+        "xMax": -3584,
+        "zMin": -1536,
+        "zMax": -512,
+        "blocksWide": 1024
+      }
+    },
+    {
+      "id": -9191230012038,
+      "file": "tiles/map_-9191230012038.png",
+      "xCenter": -5120,
+      "zCenter": 0,
+      "scale": 3,
+      "bounds": {
+        "xMin": -5632,
+        "xMax": -4608,
+        "zMin": -512,
+        "zMax": 512,
+        "blocksWide": 1024
+      }
+    },
+    {
+      "id": -9143985373004,
+      "file": "tiles/map_-9143985373004.png",
+      "xCenter": -4096,
+      "zCenter": 0,
+      "scale": 3,
+      "bounds": {
+        "xMin": -4608,
+        "xMax": -3584,
+        "zMin": -512,
+        "zMax": 512,
+        "blocksWide": 1024
+      }
+    },
+    {
+      "id": -8856222563257,
+      "file": "tiles/map_-8856222563257.png",
+      "xCenter": -5120,
+      "zCenter": 2048,
+      "scale": 3,
+      "bounds": {
+        "xMin": -5632,
+        "xMax": -4608,
+        "zMin": 1536,
+        "zMax": 2560,
+        "blocksWide": 1024
+      }
+    },
+    {
+      "id": -8856222561974,
+      "file": "tiles/map_-8856222561974.png",
+      "xCenter": -6144,
+      "zCenter": 1024,
+      "scale": 3,
+      "bounds": {
+        "xMin": -6656,
+        "xMax": -5632,
+        "zMin": 512,
+        "zMax": 1536,
+        "blocksWide": 1024
+      }
+    },
+    {
+      "id": -8856222560529,
+      "file": "tiles/map_-8856222560529.png",
+      "xCenter": -7168,
+      "zCenter": 0,
+      "scale": 3,
+      "bounds": {
+        "xMin": -7680,
+        "xMax": -6656,
+        "zMin": -512,
+        "zMax": 512,
+        "blocksWide": 1024
+      }
+    },
+    {
+      "id": -8847632627697,
+      "file": "tiles/map_-8847632627697.png",
+      "xCenter": 4096,
+      "zCenter": -3072,
+      "scale": 3,
+      "bounds": {
+        "xMin": 3584,
+        "xMax": 4608,
+        "zMin": -3584,
+        "zMax": -2560,
+        "blocksWide": 1024
+      }
+    },
+    {
+      "id": -8847632627555,
+      "file": "tiles/map_-8847632627555.png",
+      "xCenter": 4096,
+      "zCenter": -4096,
+      "scale": 3,
+      "bounds": {
+        "xMin": 3584,
+        "xMax": 4608,
+        "zMin": -4608,
+        "zMax": -3584,
+        "blocksWide": 1024
+      }
+    },
+    {
+      "id": -8546984913558,
+      "file": "tiles/map_-8546984913558.png",
+      "xCenter": 1024,
+      "zCenter": 5120,
+      "scale": 3,
+      "bounds": {
+        "xMin": 512,
+        "xMax": 1536,
+        "zMin": 4608,
+        "zMax": 5632,
+        "blocksWide": 1024
+      }
+    },
+    {
+      "id": -8546984911680,
+      "file": "tiles/map_-8546984911680.png",
+      "xCenter": 1024,
+      "zCenter": 3072,
+      "scale": 3,
+      "bounds": {
+        "xMin": 512,
+        "xMax": 1536,
+        "zMin": 2560,
+        "zMax": 3584,
+        "blocksWide": 1024
+      }
+    },
+    {
+      "id": -8546984910357,
+      "file": "tiles/map_-8546984910357.png",
+      "xCenter": 2048,
+      "zCenter": 3072,
+      "scale": 3,
+      "bounds": {
+        "xMin": 1536,
+        "xMax": 2560,
+        "zMin": 2560,
+        "zMax": 3584,
+        "blocksWide": 1024
+      }
+    },
+    {
+      "id": -8546984907304,
+      "file": "tiles/map_-8546984907304.png",
+      "xCenter": 0,
+      "zCenter": 4096,
+      "scale": 3,
+      "bounds": {
+        "xMin": -512,
+        "xMax": 512,
+        "zMin": 3584,
+        "zMax": 4608,
+        "blocksWide": 1024
+      }
+    },
+    {
+      "id": -8418135900087,
+      "file": "tiles/map_-8418135900087.png",
+      "xCenter": 0,
+      "zCenter": 0,
+      "scale": 3,
+      "bounds": {
+        "xMin": -512,
+        "xMax": 512,
+        "zMin": -512,
+        "zMax": 512,
+        "blocksWide": 1024
+      }
+    },
+    {
+      "id": -7056631267120,
+      "file": "tiles/map_-7056631267120.png",
+      "xCenter": -3072,
+      "zCenter": 2048,
+      "scale": 3,
+      "bounds": {
+        "xMin": -3584,
+        "xMax": -2560,
+        "zMin": 1536,
+        "zMax": 2560,
+        "blocksWide": 1024
+      }
+    },
+    {
+      "id": -7056631265908,
+      "file": "tiles/map_-7056631265908.png",
+      "xCenter": -3072,
+      "zCenter": 3072,
+      "scale": 3,
+      "bounds": {
+        "xMin": -3584,
+        "xMax": -2560,
+        "zMin": 2560,
+        "zMax": 3584,
+        "blocksWide": 1024
+      }
+    },
+    {
+      "id": -7056631262585,
+      "file": "tiles/map_-7056631262585.png",
+      "xCenter": -3072,
+      "zCenter": 1024,
+      "scale": 3,
+      "bounds": {
+        "xMin": -3584,
+        "xMax": -2560,
+        "zMin": 512,
+        "zMax": 1536,
+        "blocksWide": 1024
+      }
+    },
+    {
+      "id": -7056631261491,
+      "file": "tiles/map_-7056631261491.png",
+      "xCenter": -4096,
+      "zCenter": 2048,
+      "scale": 3,
+      "bounds": {
+        "xMin": -4608,
+        "xMax": -3584,
+        "zMin": 1536,
+        "zMax": 2560,
+        "blocksWide": 1024
+      }
+    },
+    {
+      "id": -7052336299536,
+      "file": "tiles/map_-7052336299536.png",
+      "xCenter": 0,
+      "zCenter": -3072,
+      "scale": 3,
+      "bounds": {
+        "xMin": -512,
+        "xMax": 512,
+        "zMin": -3584,
+        "zMax": -2560,
+        "blocksWide": 1024
+      }
+    },
+    {
+      "id": -7043746363825,
+      "file": "tiles/map_-7043746363825.png",
+      "xCenter": 3072,
+      "zCenter": -2048,
+      "scale": 3,
+      "bounds": {
+        "xMin": 2560,
+        "xMax": 3584,
+        "zMin": -2560,
+        "zMax": -1536,
+        "blocksWide": 1024
+      }
+    },
+    {
+      "id": -7043746363302,
+      "file": "tiles/map_-7043746363302.png",
+      "xCenter": 3072,
+      "zCenter": -3072,
+      "scale": 3,
+      "bounds": {
+        "xMin": 2560,
+        "xMax": 3584,
+        "zMin": -3584,
+        "zMax": -2560,
+        "blocksWide": 1024
+      }
+    },
+    {
+      "id": -7043746362794,
+      "file": "tiles/map_-7043746362794.png",
+      "xCenter": 2048,
+      "zCenter": -3072,
+      "scale": 3,
+      "bounds": {
+        "xMin": 1536,
+        "xMax": 2560,
+        "zMin": -3584,
+        "zMax": -2560,
+        "blocksWide": 1024
+      }
+    },
+    {
+      "id": -6743098654282,
+      "file": "tiles/map_-6743098654282.png",
+      "xCenter": -2048,
+      "zCenter": -3072,
+      "scale": 3,
+      "bounds": {
+        "xMin": -2560,
+        "xMax": -1536,
+        "zMin": -3584,
+        "zMax": -2560,
+        "blocksWide": 1024
+      }
+    },
+    {
+      "id": -6743098652795,
+      "file": "tiles/map_-6743098652795.png",
+      "xCenter": -1024,
+      "zCenter": -3072,
+      "scale": 3,
+      "bounds": {
+        "xMin": -1536,
+        "xMax": -512,
+        "zMin": -3584,
+        "zMax": -2560,
+        "blocksWide": 1024
+      }
+    },
+    {
+      "id": -6743098647351,
+      "file": "tiles/map_-6743098647351.png",
+      "xCenter": -2048,
+      "zCenter": -4096,
+      "scale": 3,
+      "bounds": {
+        "xMin": -2560,
+        "xMax": -1536,
+        "zMin": -4608,
+        "zMax": -3584,
+        "blocksWide": 1024
+      }
+    },
+    {
+      "id": -6708738915077,
+      "file": "tiles/map_-6708738915077.png",
+      "xCenter": -3072,
+      "zCenter": -1024,
+      "scale": 3,
+      "bounds": {
+        "xMin": -3584,
+        "xMax": -2560,
+        "zMin": -1536,
+        "zMax": -512,
+        "blocksWide": 1024
+      }
+    },
+    {
+      "id": -6708738914068,
+      "file": "tiles/map_-6708738914068.png",
+      "xCenter": -3072,
+      "zCenter": 0,
+      "scale": 3,
+      "bounds": {
+        "xMin": -3584,
+        "xMax": -2560,
+        "zMin": -512,
+        "zMax": 512,
+        "blocksWide": 1024
+      }
+    },
+    {
+      "id": -6687264078671,
+      "file": "tiles/map_-6687264078671.png",
+      "xCenter": -2048,
+      "zCenter": 3072,
+      "scale": 3,
+      "bounds": {
+        "xMin": -2560,
+        "xMax": -1536,
+        "zMin": 2560,
+        "zMax": 3584,
+        "blocksWide": 1024
+      }
+    },
+    {
+      "id": -6687264076724,
+      "file": "tiles/map_-6687264076724.png",
+      "xCenter": -1024,
+      "zCenter": 3072,
+      "scale": 3,
+      "bounds": {
+        "xMin": -1536,
+        "xMax": -512,
+        "zMin": 2560,
+        "zMax": 3584,
+        "blocksWide": 1024
+      }
+    },
+    {
+      "id": -6670084208702,
+      "file": "tiles/map_-6670084208702.png",
+      "xCenter": 3072,
+      "zCenter": 1024,
+      "scale": 3,
+      "bounds": {
+        "xMin": 2560,
+        "xMax": 3584,
+        "zMin": 512,
+        "zMax": 1536,
+        "blocksWide": 1024
+      }
+    },
+    {
+      "id": -6661494276074,
+      "file": "tiles/map_-6661494276074.png",
+      "xCenter": 3072,
+      "zCenter": -1024,
+      "scale": 3,
+      "bounds": {
+        "xMin": 2560,
+        "xMax": 3584,
+        "zMin": -1536,
+        "zMax": -512,
+        "blocksWide": 1024
+      }
+    },
+    {
+      "id": -6562710027602,
+      "file": "tiles/map_-6562710027602.png",
+      "xCenter": 3072,
+      "zCenter": 0,
+      "scale": 3,
+      "bounds": {
+        "xMin": 2560,
+        "xMax": 3584,
+        "zMin": -512,
+        "zMax": 512,
+        "blocksWide": 1024
+      }
+    },
+    {
+      "id": -6549825123457,
+      "file": "tiles/map_-6549825123457.png",
+      "xCenter": 3072,
+      "zCenter": 2048,
+      "scale": 3,
+      "bounds": {
+        "xMin": 2560,
+        "xMax": 3584,
+        "zMin": 1536,
+        "zMax": 2560,
+        "blocksWide": 1024
+      }
+    },
+    {
+      "id": -6528350287857,
+      "file": "tiles/map_-6528350287857.png",
+      "xCenter": 1024,
+      "zCenter": -3072,
+      "scale": 3,
+      "bounds": {
+        "xMin": 512,
+        "xMax": 1536,
+        "zMin": -3584,
+        "zMax": -2560,
+        "blocksWide": 1024
+      }
+    },
+    {
+      "id": -6515465384828,
+      "file": "tiles/map_-6515465384828.png",
+      "xCenter": -3072,
+      "zCenter": -3072,
+      "scale": 3,
+      "bounds": {
+        "xMin": -3584,
+        "xMax": -2560,
+        "zMin": -3584,
+        "zMax": -2560,
+        "blocksWide": 1024
+      }
+    },
+    {
+      "id": -6506875444577,
+      "file": "tiles/map_-6506875444577.png",
+      "xCenter": -3072,
+      "zCenter": -2048,
+      "scale": 3,
+      "bounds": {
+        "xMin": -3584,
+        "xMax": -2560,
+        "zMin": -2560,
+        "zMax": -1536,
+        "blocksWide": 1024
+      }
+    },
+    {
+      "id": -6476810675718,
+      "file": "tiles/map_-6476810675718.png",
+      "xCenter": 3072,
+      "zCenter": 3072,
+      "scale": 3,
+      "bounds": {
+        "xMin": 2560,
+        "xMax": 3584,
+        "zMin": 2560,
+        "zMax": 3584,
+        "blocksWide": 1024
+      }
+    },
+    {
+      "id": -6472515712277,
+      "file": "tiles/map_-6472515712277.png",
+      "xCenter": 2048,
+      "zCenter": 2048,
+      "scale": 3,
+      "bounds": {
+        "xMin": 1536,
+        "xMax": 2560,
+        "zMin": 1536,
+        "zMax": 2560,
+        "blocksWide": 1024
+      }
+    },
+    {
+      "id": -3311419783806,
+      "file": "tiles/map_-3311419783806.png",
+      "xCenter": 4096,
+      "zCenter": 0,
+      "scale": 3,
+      "bounds": {
+        "xMin": 3584,
+        "xMax": 4608,
+        "zMin": -512,
+        "zMax": 512,
+        "blocksWide": 1024
+      }
+    },
+    {
+      "id": -2967822397886,
+      "file": "tiles/map_-2967822397886.png",
+      "xCenter": 1024,
+      "zCenter": -2048,
+      "scale": 3,
+      "bounds": {
+        "xMin": 512,
+        "xMax": 1536,
+        "zMin": -2560,
+        "zMax": -1536,
+        "blocksWide": 1024
+      }
+    },
+    {
+      "id": -2894807942185,
+      "file": "tiles/map_-2894807942185.png",
+      "xCenter": -2048,
+      "zCenter": 2048,
+      "scale": 3,
+      "bounds": {
+        "xMin": -2560,
+        "xMax": -1536,
+        "zMin": 1536,
+        "zMax": 2560,
+        "blocksWide": 1024
+      }
+    },
+    {
+      "id": -2894807936164,
+      "file": "tiles/map_-2894807936164.png",
+      "xCenter": 0,
+      "zCenter": 3072,
+      "scale": 3,
+      "bounds": {
+        "xMin": -512,
+        "xMax": 512,
+        "zMin": 2560,
+        "zMax": 3584,
+        "blocksWide": 1024
+      }
+    },
+    {
+      "id": -2894807930400,
+      "file": "tiles/map_-2894807930400.png",
+      "xCenter": 0,
+      "zCenter": -2048,
+      "scale": 3,
+      "bounds": {
+        "xMin": -512,
+        "xMax": 512,
+        "zMin": -2560,
+        "zMax": -1536,
+        "blocksWide": 1024
+      }
+    },
+    {
+      "id": -2894807922122,
+      "file": "tiles/map_-2894807922122.png",
+      "xCenter": -1024,
+      "zCenter": -2048,
+      "scale": 3,
+      "bounds": {
+        "xMin": -1536,
+        "xMax": -512,
+        "zMin": -2560,
+        "zMax": -1536,
+        "blocksWide": 1024
+      }
+    },
+    {
+      "id": -2894807921141,
+      "file": "tiles/map_-2894807921141.png",
+      "xCenter": -2048,
+      "zCenter": -2048,
+      "scale": 3,
+      "bounds": {
+        "xMin": -2560,
+        "xMax": -1536,
+        "zMin": -2560,
+        "zMax": -1536,
+        "blocksWide": 1024
+      }
+    },
+    {
+      "id": -2890512985468,
+      "file": "tiles/map_-2890512985468.png",
+      "xCenter": 1024,
+      "zCenter": 2048,
+      "scale": 3,
+      "bounds": {
+        "xMin": 512,
+        "xMax": 1536,
+        "zMin": 1536,
+        "zMax": 2560,
+        "blocksWide": 1024
+      }
+    },
+    {
+      "id": -2890512984807,
+      "file": "tiles/map_-2890512984807.png",
+      "xCenter": 2048,
+      "zCenter": 1024,
+      "scale": 3,
+      "bounds": {
+        "xMin": 1536,
+        "xMax": 2560,
+        "zMin": 512,
+        "zMax": 1536,
+        "blocksWide": 1024
+      }
+    },
+    {
+      "id": -2787433774903,
+      "file": "tiles/map_-2787433774903.png",
+      "xCenter": 2048,
+      "zCenter": -2048,
+      "scale": 3,
+      "bounds": {
+        "xMin": 1536,
+        "xMax": 2560,
+        "zMin": -2560,
+        "zMax": -1536,
+        "blocksWide": 1024
+      }
+    },
+    {
+      "id": -2778843840275,
+      "file": "tiles/map_-2778843840275.png",
+      "xCenter": 2048,
+      "zCenter": -1024,
+      "scale": 3,
+      "bounds": {
+        "xMin": 1536,
+        "xMax": 2560,
+        "zMin": -1536,
+        "zMax": -512,
+        "blocksWide": 1024
+      }
+    },
+    {
+      "id": -2765958928485,
+      "file": "tiles/map_-2765958928485.png",
+      "xCenter": 0,
+      "zCenter": 2048,
+      "scale": 3,
+      "bounds": {
+        "xMin": -512,
+        "xMax": 512,
+        "zMin": 1536,
+        "zMax": 2560,
+        "blocksWide": 1024
+      }
+    },
+    {
+      "id": -2765958916038,
+      "file": "tiles/map_-2765958916038.png",
+      "xCenter": 2048,
+      "zCenter": 0,
+      "scale": 3,
+      "bounds": {
+        "xMin": 1536,
+        "xMax": 2560,
+        "zMin": -512,
+        "zMax": 512,
+        "blocksWide": 1024
+      }
+    },
+    {
+      "id": -2765958909458,
+      "file": "tiles/map_-2765958909458.png",
+      "xCenter": -1024,
+      "zCenter": 2048,
+      "scale": 3,
+      "bounds": {
+        "xMin": -1536,
+        "xMax": -512,
+        "zMin": 1536,
+        "zMax": 2560,
+        "blocksWide": 1024
+      }
+    },
+    {
+      "id": -2727304217188,
+      "file": "tiles/map_-2727304217188.png",
+      "xCenter": -2048,
+      "zCenter": -1024,
+      "scale": 3,
+      "bounds": {
+        "xMin": -2560,
+        "xMax": -1536,
+        "zMin": -1536,
+        "zMax": -512,
+        "blocksWide": 1024
+      }
+    },
+    {
+      "id": -2628519984965,
+      "file": "tiles/map_-2628519984965.png",
+      "xCenter": -2048,
+      "zCenter": 1024,
+      "scale": 3,
+      "bounds": {
+        "xMin": -2560,
+        "xMax": -1536,
+        "zMin": 512,
+        "zMax": 1536,
+        "blocksWide": 1024
+      }
+    },
+    {
+      "id": -2628519978656,
+      "file": "tiles/map_-2628519978656.png",
+      "xCenter": -1024,
+      "zCenter": -1024,
+      "scale": 3,
+      "bounds": {
+        "xMin": -1536,
+        "xMax": -512,
+        "zMin": -1536,
+        "zMax": -512,
+        "blocksWide": 1024
+      }
+    },
+    {
+      "id": -2551210572885,
+      "file": "tiles/map_-2551210572885.png",
+      "xCenter": -1024,
+      "zCenter": 1024,
+      "scale": 3,
+      "bounds": {
+        "xMin": -1536,
+        "xMax": -512,
+        "zMin": 512,
+        "zMax": 1536,
+        "blocksWide": 1024
+      }
+    },
+    {
+      "id": -2499670934709,
+      "file": "tiles/map_-2499670934709.png",
+      "xCenter": -2048,
+      "zCenter": 0,
+      "scale": 3,
+      "bounds": {
+        "xMin": -2560,
+        "xMax": -1536,
+        "zMin": -512,
+        "zMax": 512,
+        "blocksWide": 1024
+      }
+    },
+    {
+      "id": -2396591750624,
+      "file": "tiles/map_-2396591750624.png",
+      "xCenter": 4096,
+      "zCenter": -5120,
+      "scale": 3,
+      "bounds": {
+        "xMin": 3584,
+        "xMax": 4608,
+        "zMin": -5632,
+        "zMax": -4608,
+        "blocksWide": 1024
+      }
+    },
+    {
+      "id": -2375116913878,
+      "file": "tiles/map_-2375116913878.png",
+      "xCenter": 2048,
+      "zCenter": -4096,
+      "scale": 3,
+      "bounds": {
+        "xMin": 1536,
+        "xMax": 2560,
+        "zMin": -4608,
+        "zMax": -3584,
+        "blocksWide": 1024
+      }
+    },
+    {
+      "id": -2375116913610,
+      "file": "tiles/map_-2375116913610.png",
+      "xCenter": 2048,
+      "zCenter": -5120,
+      "scale": 3,
+      "bounds": {
+        "xMin": 1536,
+        "xMax": 2560,
+        "zMin": -5632,
+        "zMax": -4608,
+        "blocksWide": 1024
+      }
+    },
+    {
+      "id": -1017907247734,
+      "file": "tiles/map_-1017907247734.png",
+      "xCenter": 1024,
+      "zCenter": -1024,
+      "scale": 3,
+      "bounds": {
+        "xMin": 512,
+        "xMax": 1536,
+        "zMin": -1536,
+        "zMax": -512,
+        "blocksWide": 1024
+      }
+    },
+    {
+      "id": -777389079975,
+      "file": "tiles/map_-777389079975.png",
+      "xCenter": -1024,
+      "zCenter": 6144,
+      "scale": 3,
+      "bounds": {
+        "xMin": -1536,
+        "xMax": -512,
+        "zMin": 5632,
+        "zMax": 6656,
+        "blocksWide": 1024
+      }
+    },
+    {
+      "id": -588410517334,
+      "file": "tiles/map_-588410517334.png",
+      "xCenter": 1024,
+      "zCenter": 1024,
+      "scale": 3,
+      "bounds": {
+        "xMin": 512,
+        "xMax": 1536,
+        "zMin": 512,
+        "zMax": 1536,
+        "blocksWide": 1024
+      }
+    },
+    {
+      "id": -532575944406,
+      "file": "tiles/map_-532575944406.png",
+      "xCenter": -1024,
+      "zCenter": 0,
+      "scale": 3,
+      "bounds": {
+        "xMin": -1536,
+        "xMax": -512,
+        "zMin": -512,
+        "zMax": 512,
+        "blocksWide": 1024
+      }
+    },
+    {
+      "id": -485331302644,
+      "file": "tiles/map_-485331302644.png",
+      "xCenter": 0,
+      "zCenter": -1024,
+      "scale": 3,
+      "bounds": {
+        "xMin": -512,
+        "xMax": 512,
+        "zMin": -1536,
+        "zMax": -512,
+        "blocksWide": 1024
+      }
+    },
+    {
+      "id": -313532612368,
+      "file": "tiles/map_-313532612368.png",
+      "xCenter": 0,
+      "zCenter": 1024,
+      "scale": 3,
+      "bounds": {
+        "xMin": -512,
+        "xMax": 512,
+        "zMin": 512,
+        "zMax": 1536,
+        "blocksWide": 1024
+      }
+    },
+    {
+      "id": -154618816659,
+      "file": "tiles/map_-154618816659.png",
+      "xCenter": 1024,
+      "zCenter": 0,
+      "scale": 3,
+      "bounds": {
+        "xMin": 512,
+        "xMax": 1536,
+        "zMin": -512,
+        "zMax": 512,
+        "blocksWide": 1024
+      }
+    },
+    {
+      "id": -9156870274931,
+      "file": "tiles/map_-9156870274931.png",
+      "xCenter": -4096,
+      "zCenter": 2048,
+      "scale": 2,
+      "bounds": {
+        "xMin": -4352,
+        "xMax": -3840,
+        "zMin": 1792,
+        "zMax": 2304,
+        "blocksWide": 512
+      }
+    },
+    {
+      "id": -9156870274926,
+      "file": "tiles/map_-9156870274926.png",
+      "xCenter": -7168,
+      "zCenter": 14848,
+      "scale": 2,
+      "bounds": {
+        "xMin": -7424,
+        "xMax": -6912,
+        "zMin": 14592,
+        "zMax": 15104,
+        "blocksWide": 512
+      }
+    },
+    {
+      "id": -9156870274720,
+      "file": "tiles/map_-9156870274720.png",
+      "xCenter": -2560,
+      "zCenter": -512,
+      "scale": 2,
+      "bounds": {
+        "xMin": -2816,
+        "xMax": -2304,
+        "zMin": -768,
+        "zMax": -256,
+        "blocksWide": 512
+      }
+    },
+    {
+      "id": -9088150797335,
+      "file": "tiles/map_-9088150797335.png",
+      "xCenter": -3584,
+      "zCenter": 0,
+      "scale": 2,
+      "bounds": {
+        "xMin": -3840,
+        "xMax": -3328,
+        "zMin": -256,
+        "zMax": 256,
+        "blocksWide": 512
+      }
+    },
+    {
+      "id": -9028021249962,
+      "file": "tiles/map_-9028021249962.png",
+      "xCenter": -3584,
+      "zCenter": -512,
+      "scale": 2,
+      "bounds": {
+        "xMin": -3840,
+        "xMax": -3328,
+        "zMin": -768,
+        "zMax": -256,
+        "blocksWide": 512
+      }
+    },
+    {
+      "id": -9028021249927,
+      "file": "tiles/map_-9028021249927.png",
+      "xCenter": -4096,
+      "zCenter": -512,
+      "scale": 2,
+      "bounds": {
+        "xMin": -4352,
+        "xMax": -3840,
+        "zMin": -768,
+        "zMax": -256,
+        "blocksWide": 512
+      }
+    },
+    {
+      "id": -8993661514857,
+      "file": "tiles/map_-8993661514857.png",
+      "xCenter": 2048,
+      "zCenter": 4096,
+      "scale": 2,
+      "bounds": {
+        "xMin": 1792,
+        "xMax": 2304,
+        "zMin": 3840,
+        "zMax": 4352,
+        "blocksWide": 512
+      }
+    },
+    {
+      "id": -8993661514852,
+      "file": "tiles/map_-8993661514852.png",
+      "xCenter": 2560,
+      "zCenter": 4096,
+      "scale": 2,
+      "bounds": {
+        "xMin": 2304,
+        "xMax": 2816,
+        "zMin": 3840,
+        "zMax": 4352,
+        "blocksWide": 512
+      }
+    },
+    {
+      "id": -8993661514192,
+      "file": "tiles/map_-8993661514192.png",
+      "xCenter": 3072,
+      "zCenter": 5632,
+      "scale": 2,
+      "bounds": {
+        "xMin": 2816,
+        "xMax": 3328,
+        "zMin": 5376,
+        "zMax": 5888,
+        "blocksWide": 512
+      }
+    },
+    {
+      "id": -8993661514187,
+      "file": "tiles/map_-8993661514187.png",
+      "xCenter": 2560,
+      "zCenter": 5632,
+      "scale": 2,
+      "bounds": {
+        "xMin": 2304,
+        "xMax": 2816,
+        "zMin": 5376,
+        "zMax": 5888,
+        "blocksWide": 512
+      }
+    },
+    {
+      "id": -8856222562126,
+      "file": "tiles/map_-8856222562126.png",
+      "xCenter": -5120,
+      "zCenter": 2560,
+      "scale": 2,
+      "bounds": {
+        "xMin": -5376,
+        "xMax": -4864,
+        "zMin": 2304,
+        "zMax": 2816,
+        "blocksWide": 512
+      }
+    },
+    {
+      "id": -8851927594763,
+      "file": "tiles/map_-8851927594763.png",
+      "xCenter": 4096,
+      "zCenter": -2048,
+      "scale": 2,
+      "bounds": {
+        "xMin": 3840,
+        "xMax": 4352,
+        "zMin": -2304,
+        "zMax": -1792,
+        "blocksWide": 512
+      }
+    },
+    {
+      "id": -8851927594758,
+      "file": "tiles/map_-8851927594758.png",
+      "xCenter": 10752,
+      "zCenter": -3072,
+      "scale": 2,
+      "bounds": {
+        "xMin": 10496,
+        "xMax": 11008,
+        "zMin": -3328,
+        "zMax": -2816,
+        "blocksWide": 512
+      }
+    },
+    {
+      "id": -8847632627824,
+      "file": "tiles/map_-8847632627824.png",
+      "xCenter": 3584,
+      "zCenter": -3072,
+      "scale": 2,
+      "bounds": {
+        "xMin": 3328,
+        "xMax": 3840,
+        "zMin": -3328,
+        "zMax": -2816,
+        "blocksWide": 512
+      }
+    },
+    {
+      "id": -8847632627698,
+      "file": "tiles/map_-8847632627698.png",
+      "xCenter": 4096,
+      "zCenter": -3072,
+      "scale": 2,
+      "bounds": {
+        "xMin": 3840,
+        "xMax": 4352,
+        "zMin": -3328,
+        "zMax": -2816,
+        "blocksWide": 512
+      }
+    },
+    {
+      "id": -8546984913559,
+      "file": "tiles/map_-8546984913559.png",
+      "xCenter": 1024,
+      "zCenter": 4608,
+      "scale": 2,
+      "bounds": {
+        "xMin": 768,
+        "xMax": 1280,
+        "zMin": 4352,
+        "zMax": 4864,
+        "blocksWide": 512
+      }
+    },
+    {
+      "id": -8546984911681,
+      "file": "tiles/map_-8546984911681.png",
+      "xCenter": 1536,
+      "zCenter": 3584,
+      "scale": 2,
+      "bounds": {
+        "xMin": 1280,
+        "xMax": 1792,
+        "zMin": 3328,
+        "zMax": 3840,
+        "blocksWide": 512
+      }
+    },
+    {
+      "id": -8546984910358,
+      "file": "tiles/map_-8546984910358.png",
+      "xCenter": 2048,
+      "zCenter": 2560,
+      "scale": 2,
+      "bounds": {
+        "xMin": 1792,
+        "xMax": 2304,
+        "zMin": 2304,
+        "zMax": 2816,
+        "blocksWide": 512
+      }
+    },
+    {
+      "id": -8546984907305,
+      "file": "tiles/map_-8546984907305.png",
+      "xCenter": -512,
+      "zCenter": 4096,
+      "scale": 2,
+      "bounds": {
+        "xMin": -768,
+        "xMax": -256,
+        "zMin": 3840,
+        "zMax": 4352,
+        "blocksWide": 512
+      }
+    },
+    {
+      "id": -8478265440799,
+      "file": "tiles/map_-8478265440799.png",
+      "xCenter": 512,
+      "zCenter": 4096,
+      "scale": 2,
+      "bounds": {
+        "xMin": 256,
+        "xMax": 768,
+        "zMin": 3840,
+        "zMax": 4352,
+        "blocksWide": 512
+      }
+    },
+    {
+      "id": -7730941132610,
+      "file": "tiles/map_-7730941132610.png",
+      "xCenter": 0,
+      "zCenter": -4608,
+      "scale": 2,
+      "bounds": {
+        "xMin": -256,
+        "xMax": 256,
+        "zMin": -4864,
+        "zMax": -4352,
+        "blocksWide": 512
+      }
+    },
+    {
+      "id": -7666516622945,
+      "file": "tiles/map_-7666516622945.png",
+      "xCenter": 512,
+      "zCenter": -1536,
+      "scale": 2,
+      "bounds": {
+        "xMin": 256,
+        "xMax": 768,
+        "zMin": -1792,
+        "zMax": -1280,
+        "blocksWide": 512
+      }
+    },
+    {
+      "id": -6884832566517,
+      "file": "tiles/map_-6884832566517.png",
+      "xCenter": -5632,
+      "zCenter": -1536,
+      "scale": 2,
+      "bounds": {
+        "xMin": -5888,
+        "xMax": -5376,
+        "zMin": -1792,
+        "zMax": -1280,
+        "blocksWide": 512
+      }
+    },
+    {
+      "id": -6884832566512,
+      "file": "tiles/map_-6884832566512.png",
+      "xCenter": -4608,
+      "zCenter": -14848,
+      "scale": 2,
+      "bounds": {
+        "xMin": -4864,
+        "xMax": -4352,
+        "zMin": -15104,
+        "zMax": -14592,
+        "blocksWide": 512
+      }
+    },
+    {
+      "id": -6803228195890,
+      "file": "tiles/map_-6803228195890.png",
+      "xCenter": 2048,
+      "zCenter": 1024,
+      "scale": 2,
+      "bounds": {
+        "xMin": 1792,
+        "xMax": 2304,
+        "zMin": 768,
+        "zMax": 1280,
+        "blocksWide": 512
+      }
+    },
+    {
+      "id": -6803228194320,
+      "file": "tiles/map_-6803228194320.png",
+      "xCenter": -2048,
+      "zCenter": 512,
+      "scale": 2,
+      "bounds": {
+        "xMin": -2304,
+        "xMax": -1792,
+        "zMin": 256,
+        "zMax": 768,
+        "blocksWide": 512
+      }
+    },
+    {
+      "id": -6743098652791,
+      "file": "tiles/map_-6743098652791.png",
+      "xCenter": -512,
+      "zCenter": -4096,
+      "scale": 2,
+      "bounds": {
+        "xMin": -768,
+        "xMax": -256,
+        "zMin": -4352,
+        "zMax": -3840,
+        "blocksWide": 512
+      }
+    },
+    {
+      "id": -6562710026140,
+      "file": "tiles/map_-6562710026140.png",
+      "xCenter": 2048,
+      "zCenter": 512,
+      "scale": 2,
+      "bounds": {
+        "xMin": 1792,
+        "xMax": 2304,
+        "zMin": 256,
+        "zMax": 768,
+        "blocksWide": 512
+      }
+    },
+    {
+      "id": -6506875444578,
+      "file": "tiles/map_-6506875444578.png",
+      "xCenter": -3072,
+      "zCenter": -2560,
+      "scale": 2,
+      "bounds": {
+        "xMin": -3328,
+        "xMax": -2816,
+        "zMin": -2816,
+        "zMax": -2304,
+        "blocksWide": 512
+      }
+    },
+    {
+      "id": -6498285516227,
+      "file": "tiles/map_-6498285516227.png",
+      "xCenter": -2560,
+      "zCenter": -2560,
+      "scale": 2,
+      "bounds": {
+        "xMin": -2816,
+        "xMax": -2304,
+        "zMin": -2816,
+        "zMax": -2304,
+        "blocksWide": 512
+      }
+    },
+    {
+      "id": -6472515712278,
+      "file": "tiles/map_-6472515712278.png",
+      "xCenter": 2560,
+      "zCenter": 2048,
+      "scale": 2,
+      "bounds": {
+        "xMin": 2304,
+        "xMax": 2816,
+        "zMin": 1792,
+        "zMax": 2304,
+        "blocksWide": 512
+      }
+    },
+    {
+      "id": -5317169505880,
+      "file": "tiles/map_-5317169505880.png",
+      "xCenter": -1024,
+      "zCenter": -2560,
+      "scale": 2,
+      "bounds": {
+        "xMin": -1280,
+        "xMax": -768,
+        "zMin": -2816,
+        "zMax": -2304,
+        "blocksWide": 512
+      }
+    },
+    {
+      "id": -4385161607560,
+      "file": "tiles/map_-4385161607560.png",
+      "xCenter": -512,
+      "zCenter": -1536,
+      "scale": 2,
+      "bounds": {
+        "xMin": -768,
+        "xMax": -256,
+        "zMin": -1792,
+        "zMax": -1280,
+        "blocksWide": 512
+      }
+    },
+    {
+      "id": -3393024155432,
+      "file": "tiles/map_-3393024155432.png",
+      "xCenter": 3072,
+      "zCenter": 512,
+      "scale": 2,
+      "bounds": {
+        "xMin": 2816,
+        "xMax": 3328,
+        "zMin": 256,
+        "zMax": 768,
+        "blocksWide": 512
+      }
+    },
+    {
+      "id": -3311419783807,
+      "file": "tiles/map_-3311419783807.png",
+      "xCenter": 3584,
+      "zCenter": 512,
+      "scale": 2,
+      "bounds": {
+        "xMin": 3328,
+        "xMax": 3840,
+        "zMin": 256,
+        "zMax": 768,
+        "blocksWide": 512
+      }
+    },
+    {
+      "id": -2972117365629,
+      "file": "tiles/map_-2972117365629.png",
+      "xCenter": -1536,
+      "zCenter": 1536,
+      "scale": 2,
+      "bounds": {
+        "xMin": -1792,
+        "xMax": -1280,
+        "zMin": 1280,
+        "zMax": 1792,
+        "blocksWide": 512
+      }
+    },
+    {
+      "id": -2907692849565,
+      "file": "tiles/map_-2907692849565.png",
+      "xCenter": -512,
+      "zCenter": 2560,
+      "scale": 2,
+      "bounds": {
+        "xMin": -768,
+        "xMax": -256,
+        "zMin": 2304,
+        "zMax": 2816,
+        "blocksWide": 512
+      }
+    },
+    {
+      "id": -2907692842945,
+      "file": "tiles/map_-2907692842945.png",
+      "xCenter": -2048,
+      "zCenter": 3072,
+      "scale": 2,
+      "bounds": {
+        "xMin": -2304,
+        "xMax": -1792,
+        "zMin": 2816,
+        "zMax": 3328,
+        "blocksWide": 512
+      }
+    },
+    {
+      "id": -2894807947752,
+      "file": "tiles/map_-2894807947752.png",
+      "xCenter": 1536,
+      "zCenter": 512,
+      "scale": 2,
+      "bounds": {
+        "xMin": 1280,
+        "xMax": 1792,
+        "zMin": 256,
+        "zMax": 768,
+        "blocksWide": 512
+      }
+    },
+    {
+      "id": -2894807942186,
+      "file": "tiles/map_-2894807942186.png",
+      "xCenter": -1536,
+      "zCenter": 2048,
+      "scale": 2,
+      "bounds": {
+        "xMin": -1792,
+        "xMax": -1280,
+        "zMin": 1792,
+        "zMax": 2304,
+        "blocksWide": 512
+      }
+    },
+    {
+      "id": -2894807936165,
+      "file": "tiles/map_-2894807936165.png",
+      "xCenter": 0,
+      "zCenter": 2560,
+      "scale": 2,
+      "bounds": {
+        "xMin": -256,
+        "xMax": 256,
+        "zMin": 2304,
+        "zMax": 2816,
+        "blocksWide": 512
+      }
+    },
+    {
+      "id": -2894807921142,
+      "file": "tiles/map_-2894807921142.png",
+      "xCenter": -1536,
+      "zCenter": -2048,
+      "scale": 2,
+      "bounds": {
+        "xMin": -1792,
+        "xMax": -1280,
+        "zMin": -2304,
+        "zMax": -1792,
+        "blocksWide": 512
+      }
+    },
+    {
+      "id": -2890512984808,
+      "file": "tiles/map_-2890512984808.png",
+      "xCenter": 1536,
+      "zCenter": 1536,
+      "scale": 2,
+      "bounds": {
+        "xMin": 1280,
+        "xMax": 1792,
+        "zMin": 1280,
+        "zMax": 1792,
+        "blocksWide": 512
+      }
+    },
+    {
+      "id": -2813203574670,
+      "file": "tiles/map_-2813203574670.png",
+      "xCenter": 512,
+      "zCenter": 3072,
+      "scale": 2,
+      "bounds": {
+        "xMin": 256,
+        "xMax": 768,
+        "zMin": 2816,
+        "zMax": 3328,
+        "blocksWide": 512
+      }
+    },
+    {
+      "id": -2765958928486,
+      "file": "tiles/map_-2765958928486.png",
+      "xCenter": 0,
+      "zCenter": 2048,
+      "scale": 2,
+      "bounds": {
+        "xMin": -256,
+        "xMax": 256,
+        "zMin": 1792,
+        "zMax": 2304,
+        "blocksWide": 512
+      }
+    },
+    {
+      "id": -2727304211296,
+      "file": "tiles/map_-2727304211296.png",
+      "xCenter": 0,
+      "zCenter": 512,
+      "scale": 2,
+      "bounds": {
+        "xMin": -256,
+        "xMax": 256,
+        "zMin": 256,
+        "zMax": 768,
+        "blocksWide": 512
+      }
+    },
+    {
+      "id": -2628519984966,
+      "file": "tiles/map_-2628519984966.png",
+      "xCenter": -1536,
+      "zCenter": 1024,
+      "scale": 2,
+      "bounds": {
+        "xMin": -1792,
+        "xMax": -1280,
+        "zMin": 768,
+        "zMax": 1280,
+        "blocksWide": 512
+      }
+    },
+    {
+      "id": -2551210572886,
+      "file": "tiles/map_-2551210572886.png",
+      "xCenter": -512,
+      "zCenter": 1024,
+      "scale": 2,
+      "bounds": {
+        "xMin": -768,
+        "xMax": -256,
+        "zMin": 768,
+        "zMax": 1280,
+        "blocksWide": 512
+      }
+    },
+    {
+      "id": -2499670932690,
+      "file": "tiles/map_-2499670932690.png",
+      "xCenter": -1536,
+      "zCenter": 0,
+      "scale": 2,
+      "bounds": {
+        "xMin": -1792,
+        "xMax": -1280,
+        "zMin": -256,
+        "zMax": 256,
+        "blocksWide": 512
+      }
+    },
+    {
+      "id": -2396591750625,
+      "file": "tiles/map_-2396591750625.png",
+      "xCenter": 4096,
+      "zCenter": -5120,
+      "scale": 2,
+      "bounds": {
+        "xMin": 3840,
+        "xMax": 4352,
+        "zMin": -5376,
+        "zMax": -4864,
+        "blocksWide": 512
+      }
+    },
+    {
+      "id": -2388001811122,
+      "file": "tiles/map_-2388001811122.png",
+      "xCenter": 3584,
+      "zCenter": -3584,
+      "scale": 2,
+      "bounds": {
+        "xMin": 3328,
+        "xMax": 3840,
+        "zMin": -3840,
+        "zMax": -3328,
+        "blocksWide": 512
+      }
+    },
+    {
+      "id": -2375116913879,
+      "file": "tiles/map_-2375116913879.png",
+      "xCenter": 2048,
+      "zCenter": -4608,
+      "scale": 2,
+      "bounds": {
+        "xMin": 1792,
+        "xMax": 2304,
+        "zMin": -4864,
+        "zMax": -4352,
+        "blocksWide": 512
+      }
+    },
+    {
+      "id": -2323577304971,
+      "file": "tiles/map_-2323577304971.png",
+      "xCenter": 3584,
+      "zCenter": -5632,
+      "scale": 2,
+      "bounds": {
+        "xMin": 3328,
+        "xMax": 3840,
+        "zMin": -5888,
+        "zMax": -5376,
+        "blocksWide": 512
+      }
+    },
+    {
+      "id": -2323577304966,
+      "file": "tiles/map_-2323577304966.png",
+      "xCenter": 14336,
+      "zCenter": -4608,
+      "scale": 2,
+      "bounds": {
+        "xMin": 14080,
+        "xMax": 14592,
+        "zMin": -4864,
+        "zMax": -4352,
+        "blocksWide": 512
+      }
+    },
+    {
+      "id": -2267742730476,
+      "file": "tiles/map_-2267742730476.png",
+      "xCenter": 2560,
+      "zCenter": -3584,
+      "scale": 2,
+      "bounds": {
+        "xMin": 2304,
+        "xMax": 2816,
+        "zMin": -3840,
+        "zMax": -3328,
+        "blocksWide": 512
+      }
+    },
+    {
+      "id": -2267742730219,
+      "file": "tiles/map_-2267742730219.png",
+      "xCenter": 2048,
+      "zCenter": -3584,
+      "scale": 2,
+      "bounds": {
+        "xMin": 1792,
+        "xMax": 2304,
+        "zMin": -3840,
+        "zMax": -3328,
+        "blocksWide": 512
+      }
+    },
+    {
+      "id": -2259152787184,
+      "file": "tiles/map_-2259152787184.png",
+      "xCenter": 1536,
+      "zCenter": -2560,
+      "scale": 2,
+      "bounds": {
+        "xMin": 1280,
+        "xMax": 1792,
+        "zMin": -2816,
+        "zMax": -2304,
+        "blocksWide": 512
+      }
+    },
+    {
+      "id": -2254857822410,
+      "file": "tiles/map_-2254857822410.png",
+      "xCenter": -1536,
+      "zCenter": -3072,
+      "scale": 2,
+      "bounds": {
+        "xMin": -1792,
+        "xMax": -1280,
+        "zMin": -3328,
+        "zMax": -2816,
+        "blocksWide": 512
+      }
+    },
+    {
+      "id": -2207613190105,
+      "file": "tiles/map_-2207613190105.png",
+      "xCenter": 2048,
+      "zCenter": -2048,
+      "scale": 2,
+      "bounds": {
+        "xMin": 1792,
+        "xMax": 2304,
+        "zMin": -2304,
+        "zMax": -1792,
+        "blocksWide": 512
+      }
+    },
+    {
+      "id": -2207613189868,
+      "file": "tiles/map_-2207613189868.png",
+      "xCenter": -512,
+      "zCenter": -4608,
+      "scale": 2,
+      "bounds": {
+        "xMin": -768,
+        "xMax": -256,
+        "zMin": -4864,
+        "zMax": -4352,
+        "blocksWide": 512
+      }
+    },
+    {
+      "id": -1958505084704,
+      "file": "tiles/map_-1958505084704.png",
+      "xCenter": -512,
+      "zCenter": -2560,
+      "scale": 2,
+      "bounds": {
+        "xMin": -768,
+        "xMax": -256,
+        "zMin": -2816,
+        "zMax": -2304,
+        "blocksWide": 512
+      }
+    },
+    {
+      "id": -1760936584966,
+      "file": "tiles/map_-1760936584966.png",
+      "xCenter": 0,
+      "zCenter": -1536,
+      "scale": 2,
+      "bounds": {
+        "xMin": -256,
+        "xMax": 256,
+        "zMin": -1792,
+        "zMax": -1280,
+        "blocksWide": 512
+      }
+    },
+    {
+      "id": -1739461734676,
+      "file": "tiles/map_-1739461734676.png",
+      "xCenter": -512,
+      "zCenter": -512,
+      "scale": 2,
+      "bounds": {
+        "xMin": -768,
+        "xMax": -256,
+        "zMin": -768,
+        "zMax": -256,
+        "blocksWide": 512
+      }
+    },
+    {
+      "id": -798863914573,
+      "file": "tiles/map_-798863914573.png",
+      "xCenter": 1536,
+      "zCenter": 2048,
+      "scale": 2,
+      "bounds": {
+        "xMin": 1280,
+        "xMax": 1792,
+        "zMin": 1792,
+        "zMax": 2304,
+        "blocksWide": 512
+      }
+    },
+    {
+      "id": -794568949573,
+      "file": "tiles/map_-794568949573.png",
+      "xCenter": 0,
+      "zCenter": -1024,
+      "scale": 2,
+      "bounds": {
+        "xMin": -256,
+        "xMax": 256,
+        "zMin": -1280,
+        "zMax": -768,
+        "blocksWide": 512
+      }
+    },
+    {
+      "id": -794568949373,
+      "file": "tiles/map_-794568949373.png",
+      "xCenter": -1024,
+      "zCenter": 4096,
+      "scale": 2,
+      "bounds": {
+        "xMin": -1280,
+        "xMax": -768,
+        "zMin": 3840,
+        "zMax": 4352,
+        "blocksWide": 512
+      }
+    },
+    {
+      "id": -777389079976,
+      "file": "tiles/map_-777389079976.png",
+      "xCenter": -1024,
+      "zCenter": 6144,
+      "scale": 2,
+      "bounds": {
+        "xMin": -1280,
+        "xMax": -768,
+        "zMin": 5888,
+        "zMax": 6400,
+        "blocksWide": 512
+      }
+    },
+    {
+      "id": -764504177777,
+      "file": "tiles/map_-764504177777.png",
+      "xCenter": -512,
+      "zCenter": 6144,
+      "scale": 2,
+      "bounds": {
+        "xMin": -768,
+        "xMax": -256,
+        "zMin": 5888,
+        "zMax": 6400,
+        "blocksWide": 512
+      }
+    },
+    {
+      "id": -751619273817,
+      "file": "tiles/map_-751619273817.png",
+      "xCenter": -512,
+      "zCenter": 5632,
+      "scale": 2,
+      "bounds": {
+        "xMin": -768,
+        "xMax": -256,
+        "zMin": 5376,
+        "zMax": 5888,
+        "blocksWide": 512
+      }
+    },
+    {
+      "id": -700079667846,
+      "file": "tiles/map_-700079667846.png",
+      "xCenter": 1024,
+      "zCenter": 3072,
+      "scale": 2,
+      "bounds": {
+        "xMin": 768,
+        "xMax": 1280,
+        "zMin": 2816,
+        "zMax": 3328,
+        "blocksWide": 512
+      }
+    },
+    {
+      "id": -691489733545,
+      "file": "tiles/map_-691489733545.png",
+      "xCenter": 2048,
+      "zCenter": 1536,
+      "scale": 2,
+      "bounds": {
+        "xMin": 1792,
+        "xMax": 2304,
+        "zMin": 1280,
+        "zMax": 1792,
+        "blocksWide": 512
+      }
+    },
+    {
+      "id": -532575943806,
+      "file": "tiles/map_-532575943806.png",
+      "xCenter": -3072,
+      "zCenter": 2048,
+      "scale": 2,
+      "bounds": {
+        "xMin": -3328,
+        "xMax": -2816,
+        "zMin": 1792,
+        "zMax": 2304,
+        "blocksWide": 512
+      }
+    },
+    {
+      "id": -313532612369,
+      "file": "tiles/map_-313532612369.png",
+      "xCenter": 512,
+      "zCenter": 512,
+      "scale": 2,
+      "bounds": {
+        "xMin": 256,
+        "xMax": 768,
+        "zMin": 256,
+        "zMax": 768,
+        "blocksWide": 512
+      }
+    },
+    {
+      "id": -9088150797336,
+      "file": "tiles/map_-9088150797336.png",
+      "xCenter": -3840,
+      "zCenter": 256,
+      "scale": 1,
+      "bounds": {
+        "xMin": -3968,
+        "xMax": -3712,
+        "zMin": 128,
+        "zMax": 384,
+        "blocksWide": 256
+      }
+    },
+    {
+      "id": -8847632627699,
+      "file": "tiles/map_-8847632627699.png",
+      "xCenter": 4096,
+      "zCenter": -3328,
+      "scale": 1,
+      "bounds": {
+        "xMin": 3968,
+        "xMax": 4224,
+        "zMin": -3456,
+        "zMax": -3200,
+        "blocksWide": 256
+      }
+    },
+    {
+      "id": -8546984913560,
+      "file": "tiles/map_-8546984913560.png",
+      "xCenter": 1024,
+      "zCenter": 4608,
+      "scale": 1,
+      "bounds": {
+        "xMin": 896,
+        "xMax": 1152,
+        "zMin": 4480,
+        "zMax": 4736,
+        "blocksWide": 256
+      }
+    },
+    {
+      "id": -8546984911682,
+      "file": "tiles/map_-8546984911682.png",
+      "xCenter": 1280,
+      "zCenter": 3584,
+      "scale": 1,
+      "bounds": {
+        "xMin": 1152,
+        "xMax": 1408,
+        "zMin": 3456,
+        "zMax": 3712,
+        "blocksWide": 256
+      }
+    },
+    {
+      "id": -8546984910359,
+      "file": "tiles/map_-8546984910359.png",
+      "xCenter": 2048,
+      "zCenter": 2816,
+      "scale": 1,
+      "bounds": {
+        "xMin": 1920,
+        "xMax": 2176,
+        "zMin": 2688,
+        "zMax": 2944,
+        "blocksWide": 256
+      }
+    },
+    {
+      "id": -8546984907306,
+      "file": "tiles/map_-8546984907306.png",
+      "xCenter": -512,
+      "zCenter": 4096,
+      "scale": 1,
+      "bounds": {
+        "xMin": -640,
+        "xMax": -384,
+        "zMin": 3968,
+        "zMax": 4224,
+        "blocksWide": 256
+      }
+    },
+    {
+      "id": -8478265440800,
+      "file": "tiles/map_-8478265440800.png",
+      "xCenter": 256,
+      "zCenter": 4352,
+      "scale": 1,
+      "bounds": {
+        "xMin": 128,
+        "xMax": 384,
+        "zMin": 4224,
+        "zMax": 4480,
+        "blocksWide": 256
+      }
+    },
+    {
+      "id": -7043746362796,
+      "file": "tiles/map_-7043746362796.png",
+      "xCenter": 2560,
+      "zCenter": -3584,
+      "scale": 1,
+      "bounds": {
+        "xMin": 2432,
+        "xMax": 2688,
+        "zMin": -3712,
+        "zMax": -3456,
+        "blocksWide": 256
+      }
+    },
+    {
+      "id": -6476810675720,
+      "file": "tiles/map_-6476810675720.png",
+      "xCenter": 3328,
+      "zCenter": 3072,
+      "scale": 1,
+      "bounds": {
+        "xMin": 3200,
+        "xMax": 3456,
+        "zMin": 2944,
+        "zMax": 3200,
+        "blocksWide": 256
+      }
+    },
+    {
+      "id": -6472515712279,
+      "file": "tiles/map_-6472515712279.png",
+      "xCenter": 2560,
+      "zCenter": 2304,
+      "scale": 1,
+      "bounds": {
+        "xMin": 2432,
+        "xMax": 2688,
+        "zMin": 2176,
+        "zMax": 2432,
+        "blocksWide": 256
+      }
+    },
+    {
+      "id": -3311419783808,
+      "file": "tiles/map_-3311419783808.png",
+      "xCenter": 3840,
+      "zCenter": 512,
+      "scale": 1,
+      "bounds": {
+        "xMin": 3712,
+        "xMax": 3968,
+        "zMin": 384,
+        "zMax": 640,
+        "blocksWide": 256
+      }
+    },
+    {
+      "id": -3294239910805,
+      "file": "tiles/map_-3294239910805.png",
+      "xCenter": 3328,
+      "zCenter": 512,
+      "scale": 1,
+      "bounds": {
+        "xMin": 3200,
+        "xMax": 3456,
+        "zMin": 384,
+        "zMax": 640,
+        "blocksWide": 256
+      }
+    },
+    {
+      "id": -3019362008394,
+      "file": "tiles/map_-3019362008394.png",
+      "xCenter": -3840,
+      "zCenter": 1792,
+      "scale": 1,
+      "bounds": {
+        "xMin": -3968,
+        "xMax": -3712,
+        "zMin": 1664,
+        "zMax": 1920,
+        "blocksWide": 256
+      }
+    },
+    {
+      "id": -2967822397888,
+      "file": "tiles/map_-2967822397888.png",
+      "xCenter": 512,
+      "zCenter": -1536,
+      "scale": 1,
+      "bounds": {
+        "xMin": 384,
+        "xMax": 640,
+        "zMin": -1664,
+        "zMax": -1408,
+        "blocksWide": 256
+      }
+    },
+    {
+      "id": -2907692842946,
+      "file": "tiles/map_-2907692842946.png",
+      "xCenter": -1792,
+      "zCenter": 3072,
+      "scale": 1,
+      "bounds": {
+        "xMin": -1920,
+        "xMax": -1664,
+        "zMin": 2944,
+        "zMax": 3200,
+        "blocksWide": 256
+      }
+    },
+    {
+      "id": -2894807942187,
+      "file": "tiles/map_-2894807942187.png",
+      "xCenter": -1792,
+      "zCenter": 2048,
+      "scale": 1,
+      "bounds": {
+        "xMin": -1920,
+        "xMax": -1664,
+        "zMin": 1920,
+        "zMax": 2176,
+        "blocksWide": 256
+      }
+    },
+    {
+      "id": -2894807936166,
+      "file": "tiles/map_-2894807936166.png",
+      "xCenter": 256,
+      "zCenter": 2560,
+      "scale": 1,
+      "bounds": {
+        "xMin": 128,
+        "xMax": 384,
+        "zMin": 2432,
+        "zMax": 2688,
+        "blocksWide": 256
+      }
+    },
+    {
+      "id": -2894807930402,
+      "file": "tiles/map_-2894807930402.png",
+      "xCenter": -256,
+      "zCenter": -1792,
+      "scale": 1,
+      "bounds": {
+        "xMin": -384,
+        "xMax": -128,
+        "zMin": -1920,
+        "zMax": -1664,
+        "blocksWide": 256
+      }
+    },
+    {
+      "id": -2894807921143,
+      "file": "tiles/map_-2894807921143.png",
+      "xCenter": -1792,
+      "zCenter": -1792,
+      "scale": 1,
+      "bounds": {
+        "xMin": -1920,
+        "xMax": -1664,
+        "zMin": -1920,
+        "zMax": -1664,
+        "blocksWide": 256
+      }
+    },
+    {
+      "id": -2890512984809,
+      "file": "tiles/map_-2890512984809.png",
+      "xCenter": 1792,
+      "zCenter": 1536,
+      "scale": 1,
+      "bounds": {
+        "xMin": 1664,
+        "xMax": 1920,
+        "zMin": 1408,
+        "zMax": 1664,
+        "blocksWide": 256
+      }
+    },
+    {
+      "id": -2873333119410,
+      "file": "tiles/map_-2873333119410.png",
+      "xCenter": 0,
+      "zCenter": 0,
+      "scale": 1,
+      "bounds": {
+        "xMin": -128,
+        "xMax": 128,
+        "zMin": -128,
+        "zMax": 128,
+        "blocksWide": 256
+      }
+    },
+    {
+      "id": -2869038153150,
+      "file": "tiles/map_-2869038153150.png",
+      "xCenter": -768,
+      "zCenter": 1024,
+      "scale": 1,
+      "bounds": {
+        "xMin": -896,
+        "xMax": -640,
+        "zMin": 896,
+        "zMax": 1152,
+        "blocksWide": 256
+      }
+    },
+    {
+      "id": -2765958928487,
+      "file": "tiles/map_-2765958928487.png",
+      "xCenter": 256,
+      "zCenter": 2048,
+      "scale": 1,
+      "bounds": {
+        "xMin": 128,
+        "xMax": 384,
+        "zMin": 1920,
+        "zMax": 2176,
+        "blocksWide": 256
+      }
+    },
+    {
+      "id": -2765958916040,
+      "file": "tiles/map_-2765958916040.png",
+      "xCenter": 1792,
+      "zCenter": 512,
+      "scale": 1,
+      "bounds": {
+        "xMin": 1664,
+        "xMax": 1920,
+        "zMin": 384,
+        "zMax": 640,
+        "blocksWide": 256
+      }
+    },
+    {
+      "id": -2765958909460,
+      "file": "tiles/map_-2765958909460.png",
+      "xCenter": -768,
+      "zCenter": 2304,
+      "scale": 1,
+      "bounds": {
+        "xMin": -896,
+        "xMax": -640,
+        "zMin": 2176,
+        "zMax": 2432,
+        "blocksWide": 256
+      }
+    },
+    {
+      "id": -2727304211337,
+      "file": "tiles/map_-2727304211337.png",
+      "xCenter": 256,
+      "zCenter": 512,
+      "scale": 1,
+      "bounds": {
+        "xMin": 128,
+        "xMax": 384,
+        "zMin": 384,
+        "zMax": 640,
+        "blocksWide": 256
+      }
+    },
+    {
+      "id": -2628519984967,
+      "file": "tiles/map_-2628519984967.png",
+      "xCenter": -1792,
+      "zCenter": 768,
+      "scale": 1,
+      "bounds": {
+        "xMin": -1920,
+        "xMax": -1664,
+        "zMin": 640,
+        "zMax": 896,
+        "blocksWide": 256
+      }
+    },
+    {
+      "id": -2551210572887,
+      "file": "tiles/map_-2551210572887.png",
+      "xCenter": -512,
+      "zCenter": 1024,
+      "scale": 1,
+      "bounds": {
+        "xMin": -640,
+        "xMax": -384,
+        "zMin": 896,
+        "zMax": 1152,
+        "blocksWide": 256
+      }
+    },
+    {
+      "id": -2512555856202,
+      "file": "tiles/map_-2512555856202.png",
+      "xCenter": 256,
+      "zCenter": 256,
+      "scale": 1,
+      "bounds": {
+        "xMin": 128,
+        "xMax": 384,
+        "zMin": 128,
+        "zMax": 384,
+        "blocksWide": 256
+      }
+    },
+    {
+      "id": -2499670932691,
+      "file": "tiles/map_-2499670932691.png",
+      "xCenter": -1792,
+      "zCenter": 256,
+      "scale": 1,
+      "bounds": {
+        "xMin": -1920,
+        "xMax": -1664,
+        "zMin": 128,
+        "zMax": 384,
+        "blocksWide": 256
+      }
+    },
+    {
+      "id": -2396591750626,
+      "file": "tiles/map_-2396591750626.png",
+      "xCenter": 3840,
+      "zCenter": -5120,
+      "scale": 1,
+      "bounds": {
+        "xMin": 3712,
+        "xMax": 3968,
+        "zMin": -5248,
+        "zMax": -4992,
+        "blocksWide": 256
+      }
+    },
+    {
+      "id": -2388001811123,
+      "file": "tiles/map_-2388001811123.png",
+      "xCenter": 3584,
+      "zCenter": -3840,
+      "scale": 1,
+      "bounds": {
+        "xMin": 3456,
+        "xMax": 3712,
+        "zMin": -3968,
+        "zMax": -3712,
+        "blocksWide": 256
+      }
+    },
+    {
+      "id": -2375116913880,
+      "file": "tiles/map_-2375116913880.png",
+      "xCenter": 2304,
+      "zCenter": -4608,
+      "scale": 1,
+      "bounds": {
+        "xMin": 2176,
+        "xMax": 2432,
+        "zMin": -4736,
+        "zMax": -4480,
+        "blocksWide": 256
+      }
+    },
+    {
+      "id": -2375116913612,
+      "file": "tiles/map_-2375116913612.png",
+      "xCenter": 2304,
+      "zCenter": -4864,
+      "scale": 1,
+      "bounds": {
+        "xMin": 2176,
+        "xMax": 2432,
+        "zMin": -4992,
+        "zMax": -4736,
+        "blocksWide": 256
+      }
+    },
+    {
+      "id": -2267742730220,
+      "file": "tiles/map_-2267742730220.png",
+      "xCenter": 1792,
+      "zCenter": -3840,
+      "scale": 1,
+      "bounds": {
+        "xMin": 1664,
+        "xMax": 1920,
+        "zMin": -3968,
+        "zMax": -3712,
+        "blocksWide": 256
+      }
+    },
+    {
+      "id": -2259152787185,
+      "file": "tiles/map_-2259152787185.png",
+      "xCenter": 1792,
+      "zCenter": -2304,
+      "scale": 1,
+      "bounds": {
+        "xMin": 1664,
+        "xMax": 1920,
+        "zMin": -2432,
+        "zMax": -2176,
+        "blocksWide": 256
+      }
+    },
+    {
+      "id": -2207613190106,
+      "file": "tiles/map_-2207613190106.png",
+      "xCenter": 2304,
+      "zCenter": -2048,
+      "scale": 1,
+      "bounds": {
+        "xMin": 2176,
+        "xMax": 2432,
+        "zMin": -2176,
+        "zMax": -1920,
+        "blocksWide": 256
+      }
+    },
+    {
+      "id": -2022929588151,
+      "file": "tiles/map_-2022929588151.png",
+      "xCenter": 768,
+      "zCenter": -1792,
+      "scale": 1,
+      "bounds": {
+        "xMin": 640,
+        "xMax": 896,
+        "zMin": -1920,
+        "zMax": -1664,
+        "blocksWide": 256
+      }
+    },
+    {
+      "id": -1958505084705,
+      "file": "tiles/map_-1958505084705.png",
+      "xCenter": -256,
+      "zCenter": -2816,
+      "scale": 1,
+      "bounds": {
+        "xMin": -384,
+        "xMax": -128,
+        "zMin": -2944,
+        "zMax": -2688,
+        "blocksWide": 256
+      }
+    },
+    {
+      "id": -1958505078486,
+      "file": "tiles/map_-1958505078486.png",
+      "xCenter": -1024,
+      "zCenter": -2304,
+      "scale": 1,
+      "bounds": {
+        "xMin": -1152,
+        "xMax": -896,
+        "zMin": -2432,
+        "zMax": -2176,
+        "blocksWide": 256
+      }
+    },
+    {
+      "id": -1760936584967,
+      "file": "tiles/map_-1760936584967.png",
+      "xCenter": 256,
+      "zCenter": -1536,
+      "scale": 1,
+      "bounds": {
+        "xMin": 128,
+        "xMax": 384,
+        "zMin": -1664,
+        "zMax": -1408,
+        "blocksWide": 256
+      }
+    },
+    {
+      "id": -1739461734677,
+      "file": "tiles/map_-1739461734677.png",
+      "xCenter": -768,
+      "zCenter": -512,
+      "scale": 1,
+      "bounds": {
+        "xMin": -896,
+        "xMax": -640,
+        "zMin": -640,
+        "zMax": -384,
+        "blocksWide": 256
+      }
+    },
+    {
+      "id": -1327144892052,
+      "file": "tiles/map_-1327144892052.png",
+      "xCenter": -512,
+      "zCenter": -512,
+      "scale": 1,
+      "bounds": {
+        "xMin": -640,
+        "xMax": -384,
+        "zMin": -640,
+        "zMax": -384,
+        "blocksWide": 256
+      }
+    },
+    {
+      "id": -1017907247736,
+      "file": "tiles/map_-1017907247736.png",
+      "xCenter": 768,
+      "zCenter": -1280,
+      "scale": 1,
+      "bounds": {
+        "xMin": 640,
+        "xMax": 896,
+        "zMin": -1408,
+        "zMax": -1152,
+        "blocksWide": 256
+      }
+    },
+    {
+      "id": -798863914574,
+      "file": "tiles/map_-798863914574.png",
+      "xCenter": 1280,
+      "zCenter": 2048,
+      "scale": 1,
+      "bounds": {
+        "xMin": 1152,
+        "xMax": 1408,
+        "zMin": 1920,
+        "zMax": 2176,
+        "blocksWide": 256
+      }
+    },
+    {
+      "id": -777389079977,
+      "file": "tiles/map_-777389079977.png",
+      "xCenter": -1024,
+      "zCenter": 6144,
+      "scale": 1,
+      "bounds": {
+        "xMin": -1152,
+        "xMax": -896,
+        "zMin": 6016,
+        "zMax": 6272,
+        "blocksWide": 256
+      }
+    },
+    {
+      "id": -721554505650,
+      "file": "tiles/map_-721554505650.png",
+      "xCenter": -256,
+      "zCenter": 6400,
+      "scale": 1,
+      "bounds": {
+        "xMin": -384,
+        "xMax": -128,
+        "zMin": 6272,
+        "zMax": 6528,
+        "blocksWide": 256
+      }
+    },
+    {
+      "id": -700079667847,
+      "file": "tiles/map_-700079667847.png",
+      "xCenter": 1024,
+      "zCenter": 3072,
+      "scale": 1,
+      "bounds": {
+        "xMin": 896,
+        "xMax": 1152,
+        "zMin": 2944,
+        "zMax": 3200,
+        "blocksWide": 256
+      }
+    },
+    {
+      "id": -652835026506,
+      "file": "tiles/map_-652835026506.png",
+      "xCenter": 1792,
+      "zCenter": 2560,
+      "scale": 1,
+      "bounds": {
+        "xMin": 1664,
+        "xMax": 1920,
+        "zMin": 2432,
+        "zMax": 2688,
+        "blocksWide": 256
+      }
+    },
+    {
+      "id": -485331302646,
+      "file": "tiles/map_-485331302646.png",
+      "xCenter": 0,
+      "zCenter": -1024,
+      "scale": 1,
+      "bounds": {
+        "xMin": -128,
+        "xMax": 128,
+        "zMin": -1152,
+        "zMax": -896,
+        "blocksWide": 256
+      }
+    },
+    {
+      "id": -313532612370,
+      "file": "tiles/map_-313532612370.png",
+      "xCenter": 256,
+      "zCenter": 768,
+      "scale": 1,
+      "bounds": {
+        "xMin": 128,
+        "xMax": 384,
+        "zMin": 640,
+        "zMax": 896,
+        "blocksWide": 256
+      }
+    },
+    {
+      "id": -9199819947721,
+      "file": "tiles/map_-9199819947721.png",
+      "xCenter": -3712,
+      "zCenter": -768,
+      "scale": 0,
+      "bounds": {
+        "xMin": -3776,
+        "xMax": -3648,
+        "zMin": -832,
+        "zMax": -704,
+        "blocksWide": 128
+      }
+    },
+    {
+      "id": -9191230012041,
+      "file": "tiles/map_-9191230012041.png",
+      "xCenter": -4864,
+      "zCenter": 256,
+      "scale": 0,
+      "bounds": {
+        "xMin": -4928,
+        "xMax": -4800,
+        "zMin": 192,
+        "zMax": 320,
+        "blocksWide": 128
+      }
+    },
+    {
+      "id": -9143985373007,
+      "file": "tiles/map_-9143985373007.png",
+      "xCenter": -3712,
+      "zCenter": 256,
+      "scale": 0,
+      "bounds": {
+        "xMin": -3776,
+        "xMax": -3648,
+        "zMin": 192,
+        "zMax": 320,
+        "blocksWide": 128
+      }
+    },
+    {
+      "id": -9143985369399,
+      "file": "tiles/map_-9143985369399.png",
+      "xCenter": -3584,
+      "zCenter": 640,
+      "scale": 0,
+      "bounds": {
+        "xMin": -3648,
+        "xMax": -3520,
+        "zMin": 576,
+        "zMax": 704,
+        "blocksWide": 128
+      }
+    },
+    {
+      "id": -9028021252416,
+      "file": "tiles/map_-9028021252416.png",
+      "xCenter": -3584,
+      "zCenter": -128,
+      "scale": 0,
+      "bounds": {
+        "xMin": -3648,
+        "xMax": -3520,
+        "zMin": -192,
+        "zMax": -64,
+        "blocksWide": 128
+      }
+    },
+    {
+      "id": -8856222563260,
+      "file": "tiles/map_-8856222563260.png",
+      "xCenter": -4992,
+      "zCenter": 1920,
+      "scale": 0,
+      "bounds": {
+        "xMin": -5056,
+        "xMax": -4928,
+        "zMin": 1856,
+        "zMax": 1984,
+        "blocksWide": 128
+      }
+    },
+    {
+      "id": -8856222561977,
+      "file": "tiles/map_-8856222561977.png",
+      "xCenter": -6144,
+      "zCenter": 1408,
+      "scale": 0,
+      "bounds": {
+        "xMin": -6208,
+        "xMax": -6080,
+        "zMin": 1344,
+        "zMax": 1472,
+        "blocksWide": 128
+      }
+    },
+    {
+      "id": -8856222560532,
+      "file": "tiles/map_-8856222560532.png",
+      "xCenter": -7680,
+      "zCenter": -384,
+      "scale": 0,
+      "bounds": {
+        "xMin": -7744,
+        "xMax": -7616,
+        "zMin": -448,
+        "zMax": -320,
+        "blocksWide": 128
+      }
+    },
+    {
+      "id": -8847632627826,
+      "file": "tiles/map_-8847632627826.png",
+      "xCenter": 3712,
+      "zCenter": -3200,
+      "scale": 0,
+      "bounds": {
+        "xMin": 3648,
+        "xMax": 3776,
+        "zMin": -3264,
+        "zMax": -3136,
+        "blocksWide": 128
+      }
+    },
+    {
+      "id": -8847632627700,
+      "file": "tiles/map_-8847632627700.png",
+      "xCenter": 3968,
+      "zCenter": -3200,
+      "scale": 0,
+      "bounds": {
+        "xMin": 3904,
+        "xMax": 4032,
+        "zMin": -3264,
+        "zMax": -3136,
+        "blocksWide": 128
+      }
+    },
+    {
+      "id": -8847632627558,
+      "file": "tiles/map_-8847632627558.png",
+      "xCenter": 4224,
+      "zCenter": -3584,
+      "scale": 0,
+      "bounds": {
+        "xMin": 4160,
+        "xMax": 4288,
+        "zMin": -3648,
+        "zMax": -3520,
+        "blocksWide": 128
+      }
+    },
+    {
+      "id": -8546984913561,
+      "file": "tiles/map_-8546984913561.png",
+      "xCenter": 896,
+      "zCenter": 4608,
+      "scale": 0,
+      "bounds": {
+        "xMin": 832,
+        "xMax": 960,
+        "zMin": 4544,
+        "zMax": 4672,
+        "blocksWide": 128
+      }
+    },
+    {
+      "id": -8546984911683,
+      "file": "tiles/map_-8546984911683.png",
+      "xCenter": 1280,
+      "zCenter": 3584,
+      "scale": 0,
+      "bounds": {
+        "xMin": 1216,
+        "xMax": 1344,
+        "zMin": 3520,
+        "zMax": 3648,
+        "blocksWide": 128
+      }
+    },
+    {
+      "id": -8546984910360,
+      "file": "tiles/map_-8546984910360.png",
+      "xCenter": 1920,
+      "zCenter": 2688,
+      "scale": 0,
+      "bounds": {
+        "xMin": 1856,
+        "xMax": 1984,
+        "zMin": 2624,
+        "zMax": 2752,
+        "blocksWide": 128
+      }
+    },
+    {
+      "id": -8546984907307,
+      "file": "tiles/map_-8546984907307.png",
+      "xCenter": -384,
+      "zCenter": 3968,
+      "scale": 0,
+      "bounds": {
+        "xMin": -448,
+        "xMax": -320,
+        "zMin": 3904,
+        "zMax": 4032,
+        "blocksWide": 128
+      }
+    },
+    {
+      "id": -8478265440801,
+      "file": "tiles/map_-8478265440801.png",
+      "xCenter": 256,
+      "zCenter": 4224,
+      "scale": 0,
+      "bounds": {
+        "xMin": 192,
+        "xMax": 320,
+        "zMin": 4160,
+        "zMax": 4288,
+        "blocksWide": 128
+      }
+    },
+    {
+      "id": -7056631267123,
+      "file": "tiles/map_-7056631267123.png",
+      "xCenter": -2560,
+      "zCenter": 1792,
+      "scale": 0,
+      "bounds": {
+        "xMin": -2624,
+        "xMax": -2496,
+        "zMin": 1728,
+        "zMax": 1856,
+        "blocksWide": 128
+      }
+    },
+    {
+      "id": -7056631265911,
+      "file": "tiles/map_-7056631265911.png",
+      "xCenter": -3328,
+      "zCenter": 2688,
+      "scale": 0,
+      "bounds": {
+        "xMin": -3392,
+        "xMax": -3264,
+        "zMin": 2624,
+        "zMax": 2752,
+        "blocksWide": 128
+      }
+    },
+    {
+      "id": -7056631262588,
+      "file": "tiles/map_-7056631262588.png",
+      "xCenter": -2944,
+      "zCenter": 1408,
+      "scale": 0,
+      "bounds": {
+        "xMin": -3008,
+        "xMax": -2880,
+        "zMin": 1344,
+        "zMax": 1472,
+        "blocksWide": 128
+      }
+    },
+    {
+      "id": -7056631261494,
+      "file": "tiles/map_-7056631261494.png",
+      "xCenter": -3712,
+      "zCenter": 1792,
+      "scale": 0,
+      "bounds": {
+        "xMin": -3776,
+        "xMax": -3648,
+        "zMin": 1728,
+        "zMax": 1856,
+        "blocksWide": 128
+      }
+    },
+    {
+      "id": -7056631261160,
+      "file": "tiles/map_-7056631261160.png",
+      "xCenter": -3584,
+      "zCenter": 1408,
+      "scale": 0,
+      "bounds": {
+        "xMin": -3648,
+        "xMax": -3520,
+        "zMin": 1344,
+        "zMax": 1472,
+        "blocksWide": 128
+      }
+    },
+    {
+      "id": -7052336299539,
+      "file": "tiles/map_-7052336299539.png",
+      "xCenter": 384,
+      "zCenter": -3200,
+      "scale": 0,
+      "bounds": {
+        "xMin": 320,
+        "xMax": 448,
+        "zMin": -3264,
+        "zMax": -3136,
+        "blocksWide": 128
+      }
+    },
+    {
+      "id": -7043746365229,
+      "file": "tiles/map_-7043746365229.png",
+      "xCenter": -256,
+      "zCenter": 896,
+      "scale": 0,
+      "bounds": {
+        "xMin": -320,
+        "xMax": -192,
+        "zMin": 832,
+        "zMax": 960,
+        "blocksWide": 128
+      }
+    },
+    {
+      "id": -7043746365207,
+      "file": "tiles/map_-7043746365207.png",
+      "xCenter": -256,
+      "zCenter": 1024,
+      "scale": 0,
+      "bounds": {
+        "xMin": -320,
+        "xMax": -192,
+        "zMin": 960,
+        "zMax": 1088,
+        "blocksWide": 128
+      }
+    },
+    {
+      "id": -7043746365193,
+      "file": "tiles/map_-7043746365193.png",
+      "xCenter": -384,
+      "zCenter": 1024,
+      "scale": 0,
+      "bounds": {
+        "xMin": -448,
+        "xMax": -320,
+        "zMin": 960,
+        "zMax": 1088,
+        "blocksWide": 128
+      }
+    },
+    {
+      "id": -7043746365033,
+      "file": "tiles/map_-7043746365033.png",
+      "xCenter": -768,
+      "zCenter": 640,
+      "scale": 0,
+      "bounds": {
+        "xMin": -832,
+        "xMax": -704,
+        "zMin": 576,
+        "zMax": 704,
+        "blocksWide": 128
+      }
+    },
+    {
+      "id": -7043746365001,
+      "file": "tiles/map_-7043746365001.png",
+      "xCenter": -640,
+      "zCenter": 640,
+      "scale": 0,
+      "bounds": {
+        "xMin": -704,
+        "xMax": -576,
+        "zMin": 576,
+        "zMax": 704,
+        "blocksWide": 128
+      }
+    },
+    {
+      "id": -7043746364964,
+      "file": "tiles/map_-7043746364964.png",
+      "xCenter": -512,
+      "zCenter": 768,
+      "scale": 0,
+      "bounds": {
+        "xMin": -576,
+        "xMax": -448,
+        "zMin": 704,
+        "zMax": 832,
+        "blocksWide": 128
+      }
+    },
+    {
+      "id": -7043746364773,
+      "file": "tiles/map_-7043746364773.png",
+      "xCenter": -384,
+      "zCenter": 768,
+      "scale": 0,
+      "bounds": {
+        "xMin": -448,
+        "xMax": -320,
+        "zMin": 704,
+        "zMax": 832,
+        "blocksWide": 128
+      }
+    },
+    {
+      "id": -7043746364758,
+      "file": "tiles/map_-7043746364758.png",
+      "xCenter": -256,
+      "zCenter": 768,
+      "scale": 0,
+      "bounds": {
+        "xMin": -320,
+        "xMax": -192,
+        "zMin": 704,
+        "zMax": 832,
+        "blocksWide": 128
+      }
+    },
+    {
+      "id": -7043746364720,
+      "file": "tiles/map_-7043746364720.png",
+      "xCenter": -256,
+      "zCenter": 640,
+      "scale": 0,
+      "bounds": {
+        "xMin": -320,
+        "xMax": -192,
+        "zMin": 576,
+        "zMax": 704,
+        "blocksWide": 128
+      }
+    },
+    {
+      "id": -7043746364689,
+      "file": "tiles/map_-7043746364689.png",
+      "xCenter": -384,
+      "zCenter": 640,
+      "scale": 0,
+      "bounds": {
+        "xMin": -448,
+        "xMax": -320,
+        "zMin": 576,
+        "zMax": 704,
+        "blocksWide": 128
+      }
+    },
+    {
+      "id": -7043746364604,
+      "file": "tiles/map_-7043746364604.png",
+      "xCenter": -512,
+      "zCenter": 640,
+      "scale": 0,
+      "bounds": {
+        "xMin": -576,
+        "xMax": -448,
+        "zMin": 576,
+        "zMax": 704,
+        "blocksWide": 128
+      }
+    },
+    {
+      "id": -7043746363828,
+      "file": "tiles/map_-7043746363828.png",
+      "xCenter": 2944,
+      "zCenter": -1920,
+      "scale": 0,
+      "bounds": {
+        "xMin": 2880,
+        "xMax": 3008,
+        "zMin": -1984,
+        "zMax": -1856,
+        "blocksWide": 128
+      }
+    },
+    {
+      "id": -7043746363305,
+      "file": "tiles/map_-7043746363305.png",
+      "xCenter": 3456,
+      "zCenter": -2688,
+      "scale": 0,
+      "bounds": {
+        "xMin": 3392,
+        "xMax": 3520,
+        "zMin": -2752,
+        "zMax": -2624,
+        "blocksWide": 128
+      }
+    },
+    {
+      "id": -7043746362797,
+      "file": "tiles/map_-7043746362797.png",
+      "xCenter": 2560,
+      "zCenter": -3456,
+      "scale": 0,
+      "bounds": {
+        "xMin": 2496,
+        "xMax": 2624,
+        "zMin": -3520,
+        "zMax": -3392,
+        "blocksWide": 128
+      }
+    },
+    {
+      "id": -6944962113648,
+      "file": "tiles/map_-6944962113648.png",
+      "xCenter": -2176,
+      "zCenter": -2944,
+      "scale": 0,
+      "bounds": {
+        "xMin": -2240,
+        "xMax": -2112,
+        "zMin": -3008,
+        "zMax": -2880,
+        "blocksWide": 128
+      }
+    },
+    {
+      "id": -6743098654285,
+      "file": "tiles/map_-6743098654285.png",
+      "xCenter": -2432,
+      "zCenter": -2688,
+      "scale": 0,
+      "bounds": {
+        "xMin": -2496,
+        "xMax": -2368,
+        "zMin": -2752,
+        "zMax": -2624,
+        "blocksWide": 128
+      }
+    },
+    {
+      "id": -6743098652798,
+      "file": "tiles/map_-6743098652798.png",
+      "xCenter": -1408,
+      "zCenter": -3200,
+      "scale": 0,
+      "bounds": {
+        "xMin": -1472,
+        "xMax": -1344,
+        "zMin": -3264,
+        "zMax": -3136,
+        "blocksWide": 128
+      }
+    },
+    {
+      "id": -6743098647354,
+      "file": "tiles/map_-6743098647354.png",
+      "xCenter": -2048,
+      "zCenter": -3968,
+      "scale": 0,
+      "bounds": {
+        "xMin": -2112,
+        "xMax": -1984,
+        "zMin": -4032,
+        "zMax": -3904,
+        "blocksWide": 128
+      }
+    },
+    {
+      "id": -6708738915080,
+      "file": "tiles/map_-6708738915080.png",
+      "xCenter": -3072,
+      "zCenter": -1408,
+      "scale": 0,
+      "bounds": {
+        "xMin": -3136,
+        "xMax": -3008,
+        "zMin": -1472,
+        "zMax": -1344,
+        "blocksWide": 128
+      }
+    },
+    {
+      "id": -6708738914071,
+      "file": "tiles/map_-6708738914071.png",
+      "xCenter": -3200,
+      "zCenter": -384,
+      "scale": 0,
+      "bounds": {
+        "xMin": -3264,
+        "xMax": -3136,
+        "zMin": -448,
+        "zMax": -320,
+        "blocksWide": 128
+      }
+    },
+    {
+      "id": -6687264078674,
+      "file": "tiles/map_-6687264078674.png",
+      "xCenter": -2176,
+      "zCenter": 2560,
+      "scale": 0,
+      "bounds": {
+        "xMin": -2240,
+        "xMax": -2112,
+        "zMin": 2496,
+        "zMax": 2624,
+        "blocksWide": 128
+      }
+    },
+    {
+      "id": -6687264076727,
+      "file": "tiles/map_-6687264076727.png",
+      "xCenter": -1152,
+      "zCenter": 3584,
+      "scale": 0,
+      "bounds": {
+        "xMin": -1216,
+        "xMax": -1088,
+        "zMin": 3520,
+        "zMax": 3648,
+        "blocksWide": 128
+      }
+    },
+    {
+      "id": -6670084208705,
+      "file": "tiles/map_-6670084208705.png",
+      "xCenter": 2816,
+      "zCenter": 1408,
+      "scale": 0,
+      "bounds": {
+        "xMin": 2752,
+        "xMax": 2880,
+        "zMin": 1344,
+        "zMax": 1472,
+        "blocksWide": 128
+      }
+    },
+    {
+      "id": -6661494276077,
+      "file": "tiles/map_-6661494276077.png",
+      "xCenter": 2816,
+      "zCenter": -640,
+      "scale": 0,
+      "bounds": {
+        "xMin": 2752,
+        "xMax": 2880,
+        "zMin": -704,
+        "zMax": -576,
+        "blocksWide": 128
+      }
+    },
+    {
+      "id": -6562710027605,
+      "file": "tiles/map_-6562710027605.png",
+      "xCenter": 2688,
+      "zCenter": -256,
+      "scale": 0,
+      "bounds": {
+        "xMin": 2624,
+        "xMax": 2752,
+        "zMin": -320,
+        "zMax": -192,
+        "blocksWide": 128
+      }
+    },
+    {
+      "id": -6549825123460,
+      "file": "tiles/map_-6549825123460.png",
+      "xCenter": 2688,
+      "zCenter": 1664,
+      "scale": 0,
+      "bounds": {
+        "xMin": 2624,
+        "xMax": 2752,
+        "zMin": 1600,
+        "zMax": 1728,
+        "blocksWide": 128
+      }
+    },
+    {
+      "id": -6528350287860,
+      "file": "tiles/map_-6528350287860.png",
+      "xCenter": 896,
+      "zCenter": -3328,
+      "scale": 0,
+      "bounds": {
+        "xMin": 832,
+        "xMax": 960,
+        "zMin": -3392,
+        "zMax": -3264,
+        "blocksWide": 128
+      }
+    },
+    {
+      "id": -6515465384831,
+      "file": "tiles/map_-6515465384831.png",
+      "xCenter": -2816,
+      "zCenter": -2688,
+      "scale": 0,
+      "bounds": {
+        "xMin": -2880,
+        "xMax": -2752,
+        "zMin": -2752,
+        "zMax": -2624,
+        "blocksWide": 128
+      }
+    },
+    {
+      "id": -6506875444580,
+      "file": "tiles/map_-6506875444580.png",
+      "xCenter": -2816,
+      "zCenter": -2560,
+      "scale": 0,
+      "bounds": {
+        "xMin": -2880,
+        "xMax": -2752,
+        "zMin": -2624,
+        "zMax": -2496,
+        "blocksWide": 128
+      }
+    },
+    {
+      "id": -6476810675721,
+      "file": "tiles/map_-6476810675721.png",
+      "xCenter": 3200,
+      "zCenter": 3072,
+      "scale": 0,
+      "bounds": {
+        "xMin": 3136,
+        "xMax": 3264,
+        "zMin": 3008,
+        "zMax": 3136,
+        "blocksWide": 128
+      }
+    },
+    {
+      "id": -6476810673780,
+      "file": "tiles/map_-6476810673780.png",
+      "xCenter": 2304,
+      "zCenter": 2688,
+      "scale": 0,
+      "bounds": {
+        "xMin": 2240,
+        "xMax": 2368,
+        "zMin": 2624,
+        "zMax": 2752,
+        "blocksWide": 128
+      }
+    },
+    {
+      "id": -6472515712280,
+      "file": "tiles/map_-6472515712280.png",
+      "xCenter": 2432,
+      "zCenter": 2176,
+      "scale": 0,
+      "bounds": {
+        "xMin": 2368,
+        "xMax": 2496,
+        "zMin": 2112,
+        "zMax": 2240,
+        "blocksWide": 128
+      }
+    },
+    {
+      "id": -6442450940535,
+      "file": "tiles/map_-6442450940535.png",
+      "xCenter": -768,
+      "zCenter": -384,
+      "scale": 0,
+      "bounds": {
+        "xMin": -832,
+        "xMax": -704,
+        "zMin": -448,
+        "zMax": -320,
+        "blocksWide": 128
+      }
+    },
+    {
+      "id": -6442450934743,
+      "file": "tiles/map_-6442450934743.png",
+      "xCenter": -256,
+      "zCenter": 1536,
+      "scale": 0,
+      "bounds": {
+        "xMin": -320,
+        "xMax": -192,
+        "zMin": 1472,
+        "zMax": 1600,
+        "blocksWide": 128
+      }
+    },
+    {
+      "id": -6442450934697,
+      "file": "tiles/map_-6442450934697.png",
+      "xCenter": -384,
+      "zCenter": 1536,
+      "scale": 0,
+      "bounds": {
+        "xMin": -448,
+        "xMax": -320,
+        "zMin": 1472,
+        "zMax": 1600,
+        "blocksWide": 128
+      }
+    },
+    {
+      "id": -6420976105985,
+      "file": "tiles/map_-6420976105985.png",
+      "xCenter": -768,
+      "zCenter": 1024,
+      "scale": 0,
+      "bounds": {
+        "xMin": -832,
+        "xMax": -704,
+        "zMin": 960,
+        "zMax": 1088,
+        "blocksWide": 128
+      }
+    },
+    {
+      "id": -6420976105966,
+      "file": "tiles/map_-6420976105966.png",
+      "xCenter": -768,
+      "zCenter": 768,
+      "scale": 0,
+      "bounds": {
+        "xMin": -832,
+        "xMax": -704,
+        "zMin": 704,
+        "zMax": 832,
+        "blocksWide": 128
+      }
+    },
+    {
+      "id": -6395206301990,
+      "file": "tiles/map_-6395206301990.png",
+      "xCenter": -640,
+      "zCenter": 896,
+      "scale": 0,
+      "bounds": {
+        "xMin": -704,
+        "xMax": -576,
+        "zMin": 832,
+        "zMax": 960,
+        "blocksWide": 128
+      }
+    },
+    {
+      "id": -6395206301920,
+      "file": "tiles/map_-6395206301920.png",
+      "xCenter": -512,
+      "zCenter": 1024,
+      "scale": 0,
+      "bounds": {
+        "xMin": -576,
+        "xMax": -448,
+        "zMin": 960,
+        "zMax": 1088,
+        "blocksWide": 128
+      }
+    },
+    {
+      "id": -6395206301484,
+      "file": "tiles/map_-6395206301484.png",
+      "xCenter": -384,
+      "zCenter": 896,
+      "scale": 0,
+      "bounds": {
+        "xMin": -448,
+        "xMax": -320,
+        "zMin": 832,
+        "zMax": 960,
+        "blocksWide": 128
+      }
+    },
+    {
+      "id": -6395206301380,
+      "file": "tiles/map_-6395206301380.png",
+      "xCenter": -768,
+      "zCenter": 896,
+      "scale": 0,
+      "bounds": {
+        "xMin": -832,
+        "xMax": -704,
+        "zMin": 832,
+        "zMax": 960,
+        "blocksWide": 128
+      }
+    },
+    {
+      "id": -6395206301308,
+      "file": "tiles/map_-6395206301308.png",
+      "xCenter": -640,
+      "zCenter": 1024,
+      "scale": 0,
+      "bounds": {
+        "xMin": -704,
+        "xMax": -576,
+        "zMin": 960,
+        "zMax": 1088,
+        "blocksWide": 128
+      }
+    },
+    {
+      "id": -6369436498385,
+      "file": "tiles/map_-6369436498385.png",
+      "xCenter": -512,
+      "zCenter": 896,
+      "scale": 0,
+      "bounds": {
+        "xMin": -576,
+        "xMax": -448,
+        "zMin": 832,
+        "zMax": 960,
+        "blocksWide": 128
+      }
+    },
+    {
+      "id": -6369436493474,
+      "file": "tiles/map_-6369436493474.png",
+      "xCenter": -640,
+      "zCenter": 768,
+      "scale": 0,
+      "bounds": {
+        "xMin": -704,
+        "xMax": -576,
+        "zMin": 704,
+        "zMax": 832,
+        "blocksWide": 128
+      }
+    },
+    {
+      "id": -4642859637294,
+      "file": "tiles/map_-4642859637294.png",
+      "xCenter": -384,
+      "zCenter": -384,
+      "scale": 0,
+      "bounds": {
+        "xMin": -448,
+        "xMax": -320,
+        "zMin": -448,
+        "zMax": -320,
+        "blocksWide": 128
+      }
+    },
+    {
+      "id": -3393024152314,
+      "file": "tiles/map_-3393024152314.png",
+      "xCenter": 2816,
+      "zCenter": 384,
+      "scale": 0,
+      "bounds": {
+        "xMin": 2752,
+        "xMax": 2880,
+        "zMin": 320,
+        "zMax": 448,
+        "blocksWide": 128
+      }
+    },
+    {
+      "id": -3311419783809,
+      "file": "tiles/map_-3311419783809.png",
+      "xCenter": 3712,
+      "zCenter": 384,
+      "scale": 0,
+      "bounds": {
+        "xMin": 3648,
+        "xMax": 3776,
+        "zMin": 320,
+        "zMax": 448,
+        "blocksWide": 128
+      }
+    },
+    {
+      "id": -3294239910806,
+      "file": "tiles/map_-3294239910806.png",
+      "xCenter": 3328,
+      "zCenter": 512,
+      "scale": 0,
+      "bounds": {
+        "xMin": 3264,
+        "xMax": 3392,
+        "zMin": 448,
+        "zMax": 576,
+        "blocksWide": 128
+      }
+    },
+    {
+      "id": -3204045602280,
+      "file": "tiles/map_-3204045602280.png",
+      "xCenter": 2688,
+      "zCenter": 1024,
+      "scale": 0,
+      "bounds": {
+        "xMin": 2624,
+        "xMax": 2752,
+        "zMin": 960,
+        "zMax": 1088,
+        "blocksWide": 128
+      }
+    },
+    {
+      "id": -3049426777574,
+      "file": "tiles/map_-3049426777574.png",
+      "xCenter": 128,
+      "zCenter": -128,
+      "scale": 0,
+      "bounds": {
+        "xMin": 64,
+        "xMax": 192,
+        "zMin": -192,
+        "zMax": -64,
+        "blocksWide": 128
+      }
+    },
+    {
+      "id": -3049426775643,
+      "file": "tiles/map_-3049426775643.png",
+      "xCenter": 128,
+      "zCenter": -512,
+      "scale": 0,
+      "bounds": {
+        "xMin": 64,
+        "xMax": 192,
+        "zMin": -576,
+        "zMax": -448,
+        "blocksWide": 128
+      }
+    },
+    {
+      "id": -3006477103697,
+      "file": "tiles/map_-3006477103697.png",
+      "xCenter": -2688,
+      "zCenter": 2176,
+      "scale": 0,
+      "bounds": {
+        "xMin": -2752,
+        "xMax": -2624,
+        "zMin": 2112,
+        "zMax": 2240,
+        "blocksWide": 128
+      }
+    },
+    {
+      "id": -3002182139522,
+      "file": "tiles/map_-3002182139522.png",
+      "xCenter": -1152,
+      "zCenter": 1408,
+      "scale": 0,
+      "bounds": {
+        "xMin": -1216,
+        "xMax": -1088,
+        "zMin": 1344,
+        "zMax": 1472,
+        "blocksWide": 128
+      }
+    },
+    {
+      "id": -2980707290845,
+      "file": "tiles/map_-2980707290845.png",
+      "xCenter": 640,
+      "zCenter": -1792,
+      "scale": 0,
+      "bounds": {
+        "xMin": 576,
+        "xMax": 704,
+        "zMin": -1856,
+        "zMax": -1728,
+        "blocksWide": 128
+      }
+    },
+    {
+      "id": -2967822397889,
+      "file": "tiles/map_-2967822397889.png",
+      "xCenter": 512,
+      "zCenter": -1536,
+      "scale": 0,
+      "bounds": {
+        "xMin": 448,
+        "xMax": 576,
+        "zMin": -1600,
+        "zMax": -1472,
+        "blocksWide": 128
+      }
+    },
+    {
+      "id": -2907692849567,
+      "file": "tiles/map_-2907692849567.png",
+      "xCenter": -640,
+      "zCenter": 2560,
+      "scale": 0,
+      "bounds": {
+        "xMin": -704,
+        "xMax": -576,
+        "zMin": 2496,
+        "zMax": 2624,
+        "blocksWide": 128
+      }
+    },
+    {
+      "id": -2907692842952,
+      "file": "tiles/map_-2907692842952.png",
+      "xCenter": -1792,
+      "zCenter": 3072,
+      "scale": 0,
+      "bounds": {
+        "xMin": -1856,
+        "xMax": -1728,
+        "zMin": 3008,
+        "zMax": 3136,
+        "blocksWide": 128
+      }
+    },
+    {
+      "id": -2907692829127,
+      "file": "tiles/map_-2907692829127.png",
+      "xCenter": 1664,
+      "zCenter": 3072,
+      "scale": 0,
+      "bounds": {
+        "xMin": 1600,
+        "xMax": 1728,
+        "zMin": 3008,
+        "zMax": 3136,
+        "blocksWide": 128
+      }
+    },
+    {
+      "id": -2894807952046,
+      "file": "tiles/map_-2894807952046.png",
+      "xCenter": 1536,
+      "zCenter": 1664,
+      "scale": 0,
+      "bounds": {
+        "xMin": 1472,
+        "xMax": 1600,
+        "zMin": 1600,
+        "zMax": 1728,
+        "blocksWide": 128
+      }
+    },
+    {
+      "id": -2894807951459,
+      "file": "tiles/map_-2894807951459.png",
+      "xCenter": -896,
+      "zCenter": 896,
+      "scale": 0,
+      "bounds": {
+        "xMin": -960,
+        "xMax": -832,
+        "zMin": 832,
+        "zMax": 960,
+        "blocksWide": 128
+      }
+    },
+    {
+      "id": -2894807942188,
+      "file": "tiles/map_-2894807942188.png",
+      "xCenter": -1792,
+      "zCenter": 1920,
+      "scale": 0,
+      "bounds": {
+        "xMin": -1856,
+        "xMax": -1728,
+        "zMin": 1856,
+        "zMax": 1984,
+        "blocksWide": 128
+      }
+    },
+    {
+      "id": -2894807936167,
+      "file": "tiles/map_-2894807936167.png",
+      "xCenter": 256,
+      "zCenter": 2560,
+      "scale": 0,
+      "bounds": {
+        "xMin": 192,
+        "xMax": 320,
+        "zMin": 2496,
+        "zMax": 2624,
+        "blocksWide": 128
+      }
+    },
+    {
+      "id": -2894807930403,
+      "file": "tiles/map_-2894807930403.png",
+      "xCenter": -256,
+      "zCenter": -1664,
+      "scale": 0,
+      "bounds": {
+        "xMin": -320,
+        "xMax": -192,
+        "zMin": -1728,
+        "zMax": -1600,
+        "blocksWide": 128
+      }
+    },
+    {
+      "id": -2894807922125,
+      "file": "tiles/map_-2894807922125.png",
+      "xCenter": -640,
+      "zCenter": -2432,
+      "scale": 0,
+      "bounds": {
+        "xMin": -704,
+        "xMax": -576,
+        "zMin": -2496,
+        "zMax": -2368,
+        "blocksWide": 128
+      }
+    },
+    {
+      "id": -2894807921144,
+      "file": "tiles/map_-2894807921144.png",
+      "xCenter": -1664,
+      "zCenter": -1792,
+      "scale": 0,
+      "bounds": {
+        "xMin": -1728,
+        "xMax": -1600,
+        "zMin": -1856,
+        "zMax": -1728,
+        "blocksWide": 128
+      }
+    },
+    {
+      "id": -2890512985471,
+      "file": "tiles/map_-2890512985471.png",
+      "xCenter": 640,
+      "zCenter": 1664,
+      "scale": 0,
+      "bounds": {
+        "xMin": 576,
+        "xMax": 704,
+        "zMin": 1600,
+        "zMax": 1728,
+        "blocksWide": 128
+      }
+    },
+    {
+      "id": -2890512984810,
+      "file": "tiles/map_-2890512984810.png",
+      "xCenter": 1664,
+      "zCenter": 1408,
+      "scale": 0,
+      "bounds": {
+        "xMin": 1600,
+        "xMax": 1728,
+        "zMin": 1344,
+        "zMax": 1472,
+        "blocksWide": 128
+      }
+    },
+    {
+      "id": -2873333119411,
+      "file": "tiles/map_-2873333119411.png",
+      "xCenter": 0,
+      "zCenter": 0,
+      "scale": 0,
+      "bounds": {
+        "xMin": -64,
+        "xMax": 64,
+        "zMin": -64,
+        "zMax": 64,
+        "blocksWide": 128
+      }
+    },
+    {
+      "id": -2864743186195,
+      "file": "tiles/map_-2864743186195.png",
+      "xCenter": 256,
+      "zCenter": 384,
+      "scale": 0,
+      "bounds": {
+        "xMin": 192,
+        "xMax": 320,
+        "zMin": 320,
+        "zMax": 448,
+        "blocksWide": 128
+      }
+    },
+    {
+      "id": -2864743186059,
+      "file": "tiles/map_-2864743186059.png",
+      "xCenter": 256,
+      "zCenter": 512,
+      "scale": 0,
+      "bounds": {
+        "xMin": 192,
+        "xMax": 320,
+        "zMin": 448,
+        "zMax": 576,
+        "blocksWide": 128
+      }
+    },
+    {
+      "id": -2813203570329,
+      "file": "tiles/map_-2813203570329.png",
+      "xCenter": 2048,
+      "zCenter": 896,
+      "scale": 0,
+      "bounds": {
+        "xMin": 1984,
+        "xMax": 2112,
+        "zMin": 832,
+        "zMax": 960,
+        "blocksWide": 128
+      }
+    },
+    {
+      "id": -2813203560038,
+      "file": "tiles/map_-2813203560038.png",
+      "xCenter": 128,
+      "zCenter": 1024,
+      "scale": 0,
+      "bounds": {
+        "xMin": 64,
+        "xMax": 192,
+        "zMin": 960,
+        "zMax": 1088,
+        "blocksWide": 128
+      }
+    },
+    {
+      "id": -2787433774906,
+      "file": "tiles/map_-2787433774906.png",
+      "xCenter": 2176,
+      "zCenter": -1792,
+      "scale": 0,
+      "bounds": {
+        "xMin": 2112,
+        "xMax": 2240,
+        "zMin": -1856,
+        "zMax": -1728,
+        "blocksWide": 128
+      }
+    },
+    {
+      "id": -2778843840278,
+      "file": "tiles/map_-2778843840278.png",
+      "xCenter": 2176,
+      "zCenter": -512,
+      "scale": 0,
+      "bounds": {
+        "xMin": 2112,
+        "xMax": 2240,
+        "zMin": -576,
+        "zMax": -448,
+        "blocksWide": 128
+      }
+    },
+    {
+      "id": -2765958928488,
+      "file": "tiles/map_-2765958928488.png",
+      "xCenter": 128,
+      "zCenter": 1920,
+      "scale": 0,
+      "bounds": {
+        "xMin": 64,
+        "xMax": 192,
+        "zMin": 1856,
+        "zMax": 1984,
+        "blocksWide": 128
+      }
+    },
+    {
+      "id": -2765958916041,
+      "file": "tiles/map_-2765958916041.png",
+      "xCenter": 1664,
+      "zCenter": 384,
+      "scale": 0,
+      "bounds": {
+        "xMin": 1600,
+        "xMax": 1728,
+        "zMin": 320,
+        "zMax": 448,
+        "blocksWide": 128
+      }
+    },
+    {
+      "id": -2765958909461,
+      "file": "tiles/map_-2765958909461.png",
+      "xCenter": -640,
+      "zCenter": 2304,
+      "scale": 0,
+      "bounds": {
+        "xMin": -704,
+        "xMax": -576,
+        "zMin": 2240,
+        "zMax": 2368,
+        "blocksWide": 128
+      }
+    },
+    {
+      "id": -2765958899576,
+      "file": "tiles/map_-2765958899576.png",
+      "xCenter": 512,
+      "zCenter": 2560,
+      "scale": 0,
+      "bounds": {
+        "xMin": 448,
+        "xMax": 576,
+        "zMin": 2496,
+        "zMax": 2624,
+        "blocksWide": 128
+      }
+    },
+    {
+      "id": -2727304217191,
+      "file": "tiles/map_-2727304217191.png",
+      "xCenter": -1792,
+      "zCenter": -1408,
+      "scale": 0,
+      "bounds": {
+        "xMin": -1856,
+        "xMax": -1728,
+        "zMin": -1472,
+        "zMax": -1344,
+        "blocksWide": 128
+      }
+    },
+    {
+      "id": -2628519984968,
+      "file": "tiles/map_-2628519984968.png",
+      "xCenter": -1664,
+      "zCenter": 768,
+      "scale": 0,
+      "bounds": {
+        "xMin": -1728,
+        "xMax": -1600,
+        "zMin": 704,
+        "zMax": 832,
+        "blocksWide": 128
+      }
+    },
+    {
+      "id": -2628519978659,
+      "file": "tiles/map_-2628519978659.png",
+      "xCenter": -1280,
+      "zCenter": -1280,
+      "scale": 0,
+      "bounds": {
+        "xMin": -1344,
+        "xMax": -1216,
+        "zMin": -1344,
+        "zMax": -1216,
+        "blocksWide": 128
+      }
+    },
+    {
+      "id": -2538325671414,
+      "file": "tiles/map_-2538325671414.png",
+      "xCenter": 1024,
+      "zCenter": 640,
+      "scale": 0,
+      "bounds": {
+        "xMin": 960,
+        "xMax": 1088,
+        "zMin": 576,
+        "zMax": 704,
+        "blocksWide": 128
+      }
+    },
+    {
+      "id": -2529735731429,
+      "file": "tiles/map_-2529735731429.png",
+      "xCenter": -768,
+      "zCenter": -256,
+      "scale": 0,
+      "bounds": {
+        "xMin": -832,
+        "xMax": -704,
+        "zMin": -320,
+        "zMax": -192,
+        "blocksWide": 128
+      }
+    },
+    {
+      "id": -2512555856203,
+      "file": "tiles/map_-2512555856203.png",
+      "xCenter": 256,
+      "zCenter": 128,
+      "scale": 0,
+      "bounds": {
+        "xMin": 192,
+        "xMax": 320,
+        "zMin": 64,
+        "zMax": 192,
+        "blocksWide": 128
+      }
+    },
+    {
+      "id": -2499670937536,
+      "file": "tiles/map_-2499670937536.png",
+      "xCenter": -384,
+      "zCenter": -512,
+      "scale": 0,
+      "bounds": {
+        "xMin": -448,
+        "xMax": -320,
+        "zMin": -576,
+        "zMax": -448,
+        "blocksWide": 128
+      }
+    },
+    {
+      "id": -2499670934712,
+      "file": "tiles/map_-2499670934712.png",
+      "xCenter": -1664,
+      "zCenter": 128,
+      "scale": 0,
+      "bounds": {
+        "xMin": -1728,
+        "xMax": -1600,
+        "zMin": 64,
+        "zMax": 192,
+        "blocksWide": 128
+      }
+    },
+    {
+      "id": -2396591750627,
+      "file": "tiles/map_-2396591750627.png",
+      "xCenter": 3840,
+      "zCenter": -5120,
+      "scale": 0,
+      "bounds": {
+        "xMin": 3776,
+        "xMax": 3904,
+        "zMin": -5184,
+        "zMax": -5056,
+        "blocksWide": 128
+      }
+    },
+    {
+      "id": -2388001811124,
+      "file": "tiles/map_-2388001811124.png",
+      "xCenter": 3584,
+      "zCenter": -3712,
+      "scale": 0,
+      "bounds": {
+        "xMin": 3520,
+        "xMax": 3648,
+        "zMin": -3776,
+        "zMax": -3648,
+        "blocksWide": 128
+      }
+    },
+    {
+      "id": -2375116913881,
+      "file": "tiles/map_-2375116913881.png",
+      "xCenter": 2304,
+      "zCenter": -4608,
+      "scale": 0,
+      "bounds": {
+        "xMin": 2240,
+        "xMax": 2368,
+        "zMin": -4672,
+        "zMax": -4544,
+        "blocksWide": 128
+      }
+    },
+    {
+      "id": -2375116913613,
+      "file": "tiles/map_-2375116913613.png",
+      "xCenter": 2304,
+      "zCenter": -4864,
+      "scale": 0,
+      "bounds": {
+        "xMin": 2240,
+        "xMax": 2368,
+        "zMin": -4928,
+        "zMax": -4800,
+        "blocksWide": 128
+      }
+    },
+    {
+      "id": -2267742730478,
+      "file": "tiles/map_-2267742730478.png",
+      "xCenter": 2432,
+      "zCenter": -3584,
+      "scale": 0,
+      "bounds": {
+        "xMin": 2368,
+        "xMax": 2496,
+        "zMin": -3648,
+        "zMax": -3520,
+        "blocksWide": 128
+      }
+    },
+    {
+      "id": -2267742730221,
+      "file": "tiles/map_-2267742730221.png",
+      "xCenter": 1792,
+      "zCenter": -3840,
+      "scale": 0,
+      "bounds": {
+        "xMin": 1728,
+        "xMax": 1856,
+        "zMin": -3904,
+        "zMax": -3776,
+        "blocksWide": 128
+      }
+    },
+    {
+      "id": -2259152787186,
+      "file": "tiles/map_-2259152787186.png",
+      "xCenter": 1664,
+      "zCenter": -2304,
+      "scale": 0,
+      "bounds": {
+        "xMin": 1600,
+        "xMax": 1728,
+        "zMin": -2368,
+        "zMax": -2240,
+        "blocksWide": 128
+      }
+    },
+    {
+      "id": -2246267891636,
+      "file": "tiles/map_-2246267891636.png",
+      "xCenter": 1280,
+      "zCenter": -2816,
+      "scale": 0,
+      "bounds": {
+        "xMin": 1216,
+        "xMax": 1344,
+        "zMin": -2880,
+        "zMax": -2752,
+        "blocksWide": 128
+      }
+    },
+    {
+      "id": -2207613190107,
+      "file": "tiles/map_-2207613190107.png",
+      "xCenter": 2304,
+      "zCenter": -2048,
+      "scale": 0,
+      "bounds": {
+        "xMin": 2240,
+        "xMax": 2368,
+        "zMin": -2112,
+        "zMax": -1984,
+        "blocksWide": 128
+      }
+    },
+    {
+      "id": -2018634624249,
+      "file": "tiles/map_-2018634624249.png",
+      "xCenter": 512,
+      "zCenter": -2304,
+      "scale": 0,
+      "bounds": {
+        "xMin": 448,
+        "xMax": 576,
+        "zMin": -2368,
+        "zMax": -2240,
+        "blocksWide": 128
+      }
+    },
+    {
+      "id": -1958505084706,
+      "file": "tiles/map_-1958505084706.png",
+      "xCenter": -256,
+      "zCenter": -2816,
+      "scale": 0,
+      "bounds": {
+        "xMin": -320,
+        "xMax": -192,
+        "zMin": -2880,
+        "zMax": -2752,
+        "blocksWide": 128
+      }
+    },
+    {
+      "id": -1958505078487,
+      "file": "tiles/map_-1958505078487.png",
+      "xCenter": -1024,
+      "zCenter": -2304,
+      "scale": 0,
+      "bounds": {
+        "xMin": -1088,
+        "xMax": -960,
+        "zMin": -2368,
+        "zMax": -2240,
+        "blocksWide": 128
+      }
+    },
+    {
+      "id": -1760936584968,
+      "file": "tiles/map_-1760936584968.png",
+      "xCenter": 128,
+      "zCenter": -1536,
+      "scale": 0,
+      "bounds": {
+        "xMin": 64,
+        "xMax": 192,
+        "zMin": -1600,
+        "zMax": -1472,
+        "blocksWide": 128
+      }
+    },
+    {
+      "id": -1739461734678,
+      "file": "tiles/map_-1739461734678.png",
+      "xCenter": -640,
+      "zCenter": -512,
+      "scale": 0,
+      "bounds": {
+        "xMin": -704,
+        "xMax": -576,
+        "zMin": -576,
+        "zMax": -448,
+        "blocksWide": 128
+      }
+    },
+    {
+      "id": -1099511626605,
+      "file": "tiles/map_-1099511626605.png",
+      "xCenter": 128,
+      "zCenter": -384,
+      "scale": 0,
+      "bounds": {
+        "xMin": 64,
+        "xMax": 192,
+        "zMin": -448,
+        "zMax": -320,
+        "blocksWide": 128
+      }
+    },
+    {
+      "id": -1017907248880,
+      "file": "tiles/map_-1017907248880.png",
+      "xCenter": 1280,
+      "zCenter": -896,
+      "scale": 0,
+      "bounds": {
+        "xMin": 1216,
+        "xMax": 1344,
+        "zMin": -960,
+        "zMax": -832,
+        "blocksWide": 128
+      }
+    },
+    {
+      "id": -1017907247737,
+      "file": "tiles/map_-1017907247737.png",
+      "xCenter": 640,
+      "zCenter": -1152,
+      "scale": 0,
+      "bounds": {
+        "xMin": 576,
+        "xMax": 704,
+        "zMin": -1216,
+        "zMax": -1088,
+        "blocksWide": 128
+      }
+    },
+    {
+      "id": -1017907247596,
+      "file": "tiles/map_-1017907247596.png",
+      "xCenter": 640,
+      "zCenter": -1280,
+      "scale": 0,
+      "bounds": {
+        "xMin": 576,
+        "xMax": 704,
+        "zMin": -1344,
+        "zMax": -1216,
+        "blocksWide": 128
+      }
+    },
+    {
+      "id": -1017907247531,
+      "file": "tiles/map_-1017907247531.png",
+      "xCenter": 768,
+      "zCenter": -1152,
+      "scale": 0,
+      "bounds": {
+        "xMin": 704,
+        "xMax": 832,
+        "zMin": -1216,
+        "zMax": -1088,
+        "blocksWide": 128
+      }
+    },
+    {
+      "id": -880468293726,
+      "file": "tiles/map_-880468293726.png",
+      "xCenter": 512,
+      "zCenter": -896,
+      "scale": 0,
+      "bounds": {
+        "xMin": 448,
+        "xMax": 576,
+        "zMin": -960,
+        "zMax": -832,
+        "blocksWide": 128
+      }
+    },
+    {
+      "id": -798863914575,
+      "file": "tiles/map_-798863914575.png",
+      "xCenter": 1408,
+      "zCenter": 2048,
+      "scale": 0,
+      "bounds": {
+        "xMin": 1344,
+        "xMax": 1472,
+        "zMin": 1984,
+        "zMax": 2112,
+        "blocksWide": 128
+      }
+    },
+    {
+      "id": -794568949335,
+      "file": "tiles/map_-794568949335.png",
+      "xCenter": 1280,
+      "zCenter": 1408,
+      "scale": 0,
+      "bounds": {
+        "xMin": 1216,
+        "xMax": 1344,
+        "zMin": 1344,
+        "zMax": 1472,
+        "blocksWide": 128
+      }
+    },
+    {
+      "id": -777389079978,
+      "file": "tiles/map_-777389079978.png",
+      "xCenter": -896,
+      "zCenter": 6144,
+      "scale": 0,
+      "bounds": {
+        "xMin": -960,
+        "xMax": -832,
+        "zMin": 6080,
+        "zMax": 6208,
+        "blocksWide": 128
+      }
+    },
+    {
+      "id": -721554505651,
+      "file": "tiles/map_-721554505651.png",
+      "xCenter": -384,
+      "zCenter": 6272,
+      "scale": 0,
+      "bounds": {
+        "xMin": -448,
+        "xMax": -320,
+        "zMin": 6208,
+        "zMax": 6336,
+        "blocksWide": 128
+      }
+    },
+    {
+      "id": -700079667848,
+      "file": "tiles/map_-700079667848.png",
+      "xCenter": 896,
+      "zCenter": 3072,
+      "scale": 0,
+      "bounds": {
+        "xMin": 832,
+        "xMax": 960,
+        "zMin": 3008,
+        "zMax": 3136,
+        "blocksWide": 128
+      }
+    },
+    {
+      "id": -652835026507,
+      "file": "tiles/map_-652835026507.png",
+      "xCenter": 1920,
+      "zCenter": 2560,
+      "scale": 0,
+      "bounds": {
+        "xMin": 1856,
+        "xMax": 1984,
+        "zMin": 2496,
+        "zMax": 2624,
+        "blocksWide": 128
+      }
+    },
+    {
+      "id": -588410517337,
+      "file": "tiles/map_-588410517337.png",
+      "xCenter": 640,
+      "zCenter": 1024,
+      "scale": 0,
+      "bounds": {
+        "xMin": 576,
+        "xMax": 704,
+        "zMin": 960,
+        "zMax": 1088,
+        "blocksWide": 128
+      }
+    },
+    {
+      "id": -588410516887,
+      "file": "tiles/map_-588410516887.png",
+      "xCenter": -1024,
+      "zCenter": 1152,
+      "scale": 0,
+      "bounds": {
+        "xMin": -1088,
+        "xMax": -960,
+        "zMin": 1088,
+        "zMax": 1216,
+        "blocksWide": 128
+      }
+    },
+    {
+      "id": -532575944409,
+      "file": "tiles/map_-532575944409.png",
+      "xCenter": -640,
+      "zCenter": 384,
+      "scale": 0,
+      "bounds": {
+        "xMin": -704,
+        "xMax": -576,
+        "zMin": 320,
+        "zMax": 448,
+        "blocksWide": 128
+      }
+    },
+    {
+      "id": -532575942775,
+      "file": "tiles/map_-532575942775.png",
+      "xCenter": -1280,
+      "zCenter": -384,
+      "scale": 0,
+      "bounds": {
+        "xMin": -1344,
+        "xMax": -1216,
+        "zMin": -448,
+        "zMax": -320,
+        "blocksWide": 128
+      }
+    },
+    {
+      "id": -485331302647,
+      "file": "tiles/map_-485331302647.png",
+      "xCenter": 0,
+      "zCenter": -896,
+      "scale": 0,
+      "bounds": {
+        "xMin": -64,
+        "xMax": 64,
+        "zMin": -960,
+        "zMax": -832,
+        "blocksWide": 128
+      }
+    },
+    {
+      "id": -442381629610,
+      "file": "tiles/map_-442381629610.png",
+      "xCenter": 256,
+      "zCenter": 0,
+      "scale": 0,
+      "bounds": {
+        "xMin": 192,
+        "xMax": 320,
+        "zMin": -64,
+        "zMax": 64,
+        "blocksWide": 128
+      }
+    },
+    {
+      "id": -313532612371,
+      "file": "tiles/map_-313532612371.png",
+      "xCenter": 384,
+      "zCenter": 640,
+      "scale": 0,
+      "bounds": {
+        "xMin": 320,
+        "xMax": 448,
+        "zMin": 576,
+        "zMax": 704,
+        "blocksWide": 128
+      }
+    },
+    {
+      "id": -154618816662,
+      "file": "tiles/map_-154618816662.png",
+      "xCenter": 640,
+      "zCenter": 256,
+      "scale": 0,
+      "bounds": {
+        "xMin": 576,
+        "xMax": 704,
+        "zMin": 192,
+        "zMax": 320,
+        "blocksWide": 128
+      }
+    },
+    {
+      "id": -107374181892,
+      "file": "tiles/map_-107374181892.png",
+      "xCenter": 128,
+      "zCenter": 512,
+      "scale": 0,
+      "bounds": {
+        "xMin": 64,
+        "xMax": 192,
+        "zMin": 448,
+        "zMax": 576,
+        "blocksWide": 128
+      }
+    },
+    {
+      "id": -107374181841,
+      "file": "tiles/map_-107374181841.png",
+      "xCenter": 128,
+      "zCenter": 384,
+      "scale": 0,
+      "bounds": {
+        "xMin": 64,
+        "xMax": 192,
+        "zMin": 320,
+        "zMax": 448,
+        "blocksWide": 128
+      }
+    }
+  ]
+}
