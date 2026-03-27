@@ -94,6 +94,23 @@ html, body {
   color: var(--gold);
   text-shadow: 0 0 20px var(--gold-glow);
 }
+#world-name {
+  font-family: var(--font-body);
+  font-size: 13px;
+  font-style: italic;
+  color: var(--text-secondary);
+  letter-spacing: 0.03em;
+  max-width: 200px;
+  overflow: hidden;
+  text-overflow: ellipsis;
+  white-space: nowrap;
+}
+#world-name:not(:empty)::before {
+  content: '—';
+  margin: 0 8px;
+  color: var(--text-muted);
+  font-style: normal;
+}
 
 /* Search */
 #search-wrap {
@@ -214,6 +231,7 @@ html, body {
 
 /* Grid overlay */
 .leaflet-tile-pane { image-rendering: pixelated; }
+.map-tile { image-rendering: pixelated; }
 
 /* ── Custom markers ────────────────────────────────────────────── */
 .atlas-marker {
@@ -653,6 +671,97 @@ textarea {
 }
 .leaflet-popup-tip { background: var(--bg-raised) !important; }
 .leaflet-popup-content { margin: 10px 14px !important; }
+
+/* ── Layers dropdown ───────────────────────────────────────────── */
+#layers-dropdown-wrap {
+  position: relative;
+}
+
+#layers-panel {
+  position: absolute;
+  top: calc(100% + 6px);
+  right: 0;
+  width: 220px;
+  background: var(--bg-panel);
+  border: 1px solid var(--border-hi);
+  border-radius: var(--radius-lg);
+  box-shadow: var(--shadow-deep);
+  z-index: 2000;
+  overflow: hidden;
+  animation: slide-up 0.15s cubic-bezier(0.34,1.2,0.64,1);
+}
+
+.layers-section {
+  padding: 12px 14px;
+  border-bottom: 1px solid var(--border);
+}
+.layers-section:last-child { border-bottom: none; }
+
+.layers-section-label {
+  font-family: var(--font-mono);
+  font-size: 10px;
+  text-transform: uppercase;
+  letter-spacing: 0.12em;
+  color: var(--text-muted);
+  margin-bottom: 8px;
+}
+
+/* Dimension radio buttons */
+.dim-group {
+  display: flex;
+  gap: 4px;
+}
+.dim-btn {
+  flex: 1;
+  padding: 5px 4px;
+  background: var(--bg-surface);
+  border: 1px solid var(--border);
+  border-radius: var(--radius);
+  color: var(--text-secondary);
+  font-family: var(--font-mono);
+  font-size: 11px;
+  cursor: pointer;
+  transition: all 0.15s;
+  text-align: center;
+}
+.dim-btn:hover { border-color: var(--border-hi); color: var(--text-primary); }
+.dim-btn.active {
+  background: var(--gold-glow);
+  border-color: var(--gold-dim);
+  color: var(--gold);
+}
+
+/* Layer toggle checkboxes */
+.layer-toggle {
+  display: flex;
+  align-items: center;
+  gap: 8px;
+  padding: 4px 0;
+  cursor: pointer;
+  color: var(--text-secondary);
+  font-family: var(--font-body);
+  font-size: 14px;
+  transition: color 0.15s;
+}
+.layer-toggle:hover { color: var(--text-primary); }
+.layer-toggle input[type="checkbox"] {
+  width: 14px; height: 14px;
+  accent-color: var(--gold);
+  cursor: pointer;
+  flex-shrink: 0;
+}
+
+/* ── Source badge ───────────────────────────────────────────────── */
+#panel-source-badge {
+  padding: 5px 20px;
+  background: var(--bg-surface);
+  border-bottom: 1px solid var(--border);
+  font-family: var(--font-mono);
+  font-size: 11px;
+  letter-spacing: 0.06em;
+  color: var(--text-muted);
+  flex-shrink: 0;
+}
 
 /* ── Utilities ─────────────────────────────────────────────────── */
 .hidden { display: none !important; }
