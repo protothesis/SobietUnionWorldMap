@@ -83,6 +83,14 @@
           </label>
         </div>
         <div class="layers-section">
+          <div class="layers-section-label">Map Scales</div>
+          <label class="layer-toggle">
+            <input type="checkbox" id="toggle-auto-scale" />
+            <span>Auto-scale by zoom</span>
+          </label>
+          <div id="scale-toggles"></div>
+        </div>
+        <div class="layers-section">
           <div class="layers-section-label">Marker Layers</div>
           <label class="layer-toggle">
             <input type="checkbox" id="toggle-frame-pins" checked />
@@ -136,6 +144,7 @@
 
   <div id="panel-meta">
     <span id="panel-coords" class="mono"></span>
+    <div id="panel-map-info" class="hidden"></div>
     <div id="panel-tags"></div>
   </div>
 
@@ -147,7 +156,13 @@
       <label>Title</label>
       <input id="edit-title" type="text" maxlength="120" />
     </div>
-    <div class="form-row">
+    <!-- Type picker (user markers only) -->
+    <div id="edit-type-row" class="form-group hidden">
+      <label>Type</label>
+      <div id="edit-type-picker"></div>
+    </div>
+    <!-- Icon + color (locked/derived markers only) -->
+    <div id="edit-icon-row" class="form-row hidden">
       <div class="form-group">
         <label>Icon</label>
         <div id="icon-picker"></div>
@@ -186,18 +201,12 @@
       <label>Title</label>
       <input id="new-title" type="text" maxlength="120" placeholder="Name this location…" />
     </div>
-    <div class="form-row">
-      <div class="form-group">
-        <label>Icon</label>
-        <div id="modal-icon-picker"></div>
-      </div>
-      <div class="form-group">
-        <label>Color</label>
-        <input id="new-color" type="color" value="#e8c97a" />
-      </div>
+    <div class="form-group">
+      <label>Type</label>
+      <div id="modal-type-picker"></div>
     </div>
     <div class="form-group">
-      <label>Tags</label>
+      <label>Tags <span class="label-hint">(comma separated)</span></label>
       <input id="new-tags" type="text" placeholder="base, exploration…" />
     </div>
     <div class="form-actions">
@@ -209,6 +218,11 @@
 
 <!-- ── Tag filter bar ───────────────────────────────── -->
 <div id="tag-bar"></div>
+
+<!-- ── Tile loading indicator ───────────────────────── -->
+<div id="tile-loading" class="hidden">
+  <span id="tile-loading-text"></span>
+</div>
 
 <!-- ── Scale indicator ─────────────────────────────── -->
 <div id="scale-legend">
