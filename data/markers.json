@@ -1,72 +1,129 @@
 [
   {
-    "id": "b38de98c-662e-4605-8390-1b4f0eaf456f",
-    "x": 23,
-    "z": 9,
-    "title": "World Spawn",
+    "id": "ebdedd17-dcd3-4282-9ba1-5a17c0d4907e",
+    "x": -455,
+    "z": -207,
+    "title": "Shelter",
     "icon": "🏠",
-    "color": "#75ea43",
-    "body": "# The Arbor\n\nNew players will spawn in at the top of a little treehouse cabin. \nA worldmap of the surrounding region is just in view to the north. ",
+    "color": "#8d6e63",
+    "pinType": "shelter",
+    "body": "",
     "tags": [
-      "base"
+      "shelter"
     ],
-    "created": "2026-03-26T09:54:58.067317+00:00",
-    "updated": "2026-03-26T09:56:59.114453+00:00"
+    "source": "user",
+    "locked": false,
+    "derivedFrom": null,
+    "created": "2026-03-28T11:29:35.779120+00:00",
+    "updated": "2026-03-29T03:11:46.459796+00:00"
   },
   {
-    "id": "f7ee2e14-1c14-4771-b7d8-dc34c17ab1a0",
-    "x": -5600,
-    "z": -1791,
-    "title": "Treasure Maps!",
-    "icon": "📍",
-    "color": "#e87878",
-    "body": "# Treasure Maps\n\nI guess technically these are called explorer maps...\n\nthey popped up after my vibe coding pass was working. \ni think they could be separated out onto their own layer of this map if that is desired. \n\notherwise itd be simple to remove them from the output entirely. ",
+    "id": "a2edeb84-3210-4108-bcf5-842c0fbfdd00",
+    "x": -319,
+    "z": -211,
+    "title": "Skeleton Spawner",
+    "icon": "💀",
+    "color": "#ef5350",
+    "pinType": "spawner",
+    "body": "zingaba only appears in this comment",
     "tags": [
-      "treasure"
+      "spawner",
+      "monster"
     ],
-    "created": "2026-03-26T10:11:09.512878+00:00",
-    "updated": "2026-03-26T10:12:51.493942+00:00"
+    "source": "user",
+    "locked": false,
+    "derivedFrom": null,
+    "created": "2026-03-28T11:29:48.973061+00:00",
+    "updated": "2026-03-29T03:13:23.101352+00:00"
   },
   {
-    "id": "378108ea-d9e2-4c91-aa23-6d0765a06cba",
-    "x": 109,
-    "z": -375,
-    "title": "Nether Map",
-    "icon": "⚙️",
-    "color": "#ec6c27",
-    "body": "Probably would do away with the nether map layer... thats what we're looking at here. ",
+    "id": "97505e31-92e8-4d71-b3fb-86e20f6797f4",
+    "x": -420,
+    "z": -208,
+    "title": "Village",
+    "icon": "🏘️",
+    "color": "#a26a3f",
+    "pinType": "village",
+    "body": "",
     "tags": [
-      "Nether"
+      "village"
     ],
-    "created": "2026-03-26T10:15:50.956608+00:00",
-    "updated": "2026-03-26T10:16:14.086293+00:00"
+    "source": "user",
+    "locked": false,
+    "derivedFrom": null,
+    "created": "2026-03-28T11:35:52.667169+00:00",
+    "updated": "2026-03-29T03:13:03.037474+00:00"
   },
   {
-    "id": "1e37bed5-9817-463e-ad3d-ef047bfa8da7",
-    "x": -2187,
-    "z": 1782,
-    "title": "Nether Portal",
-    "icon": "🔮",
-    "color": "#ae00ff",
-    "body": "# Nether Portal Markers\n\n## SLT\n\nA whole layer with all known Nether portals on the surface, and that wouldnt be complete without the NetherRail 3 digit shortcodes!",
+    "id": "799efa8b-2cc2-474a-a913-a49afe9efdbe",
+    "x": -387,
+    "z": -208,
+    "title": "Portal",
+    "icon": "🌀",
+    "color": "#ba17df",
+    "pinType": "portal",
+    "body": "",
     "tags": [
       "portal"
     ],
-    "created": "2026-03-26T10:17:19.103276+00:00",
-    "updated": "2026-03-26T10:18:19.061868+00:00"
+    "source": "user",
+    "locked": false,
+    "derivedFrom": null,
+    "created": "2026-03-28T11:35:55.473687+00:00",
+    "updated": "2026-03-29T03:13:10.297934+00:00"
   },
   {
-    "id": "b7e83c34-9b5d-44b5-9f56-a74b9ff4b02f",
-    "x": -1897,
-    "z": 104,
-    "title": "LGT Portal",
-    "icon": "🔮",
-    "color": "#ca0ff0",
-    "body": "# LGT Portal\n\nthis version of the map was made before the lighthouse was even developed i think. wowzers!",
+    "id": "c653e6bd-5846-4891-85fd-fdfc7f423afd",
+    "x": -286,
+    "z": -210,
+    "title": "POI",
+    "icon": "🔷",
+    "color": "#8bd3f5",
+    "pinType": "poi",
+    "body": "",
     "tags": [
-      "portal"
+      "poi"
     ],
-    "created": "2026-03-26T10:19:03.392761+00:00",
-    "updated": "2026-03-26T10:19:35.728013+00:00"
+    "source": "user",
+    "locked": false,
+    "derivedFrom": null,
+    "created": "2026-03-28T11:37:18.370578+00:00",
+    "updated": "2026-03-29T03:13:26.220498+00:00"
+  },
+  {
+    "id": "c6aa0c38-ddf4-4e79-a2a0-6143d923cfa1",
+    "x": -352,
+    "z": -208,
+    "title": "Landmark",
+    "icon": "⛰️",
+    "color": "#749274",
+    "pinType": "landmark",
+    "body": "",
+    "tags": [
+      "landmark"
+    ],
+    "source": "user",
+    "locked": false,
+    "derivedFrom": null,
+    "created": "2026-03-28T11:39:27.458669+00:00",
+    "updated": "2026-03-29T03:13:20.508464+00:00"
+  },
+  {
+    "id": "aa10920b-7dae-4346-8d2e-09a41cd7130a",
+    "x": -494,
+    "z": -210,
+    "title": "Default",
+    "icon": "🔴",
+    "color": "#ed2d2d",
+    "pinType": "default",
+    "body": "",
+    "tags": [
+      "default"
+    ],
+    "source": "user",
+    "locked": false,
+    "derivedFrom": null,
+    "created": "2026-03-29T03:12:51.285944+00:00",
+    "updated": "2026-03-29T03:12:51.285963+00:00"
   }
 ]

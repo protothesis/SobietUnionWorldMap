@@ -1,11 +1,333 @@
 {
-  "world_name": "Sobiet Union - Copy",
-  "world_folder": "JtNhZmWmEAA=",
+  "world_name": "Sobiet Union 01/29/25",
+  "world_folder": "q2c5m6e7Rm8=",
   "maps": [
     {
-      "id": -9199819947717,
+      "id": -9599251906058,
       "parentMapId": -1,
-      "file": "tiles/map_-9199819947717.png",
+      "file": "tiles/map_-9599251906058.png",
+      "xCenter": -2048,
+      "zCenter": -8192,
+      "scale": 4,
+      "width": 128,
+      "height": 128,
+      "bounds": {
+        "xMin": -3072,
+        "xMax": -1024,
+        "zMin": -9216,
+        "zMax": -7168,
+        "blocksWide": 2048
+      },
+      "dimension": 0,
+      "dimensionName": "overworld",
+      "fullyExplored": false,
+      "mapLocked": false,
+      "unlimitedTracking": false,
+      "inferredType": "standard",
+      "decorations": [
+        {
+          "rot": 8,
+          "type": 1,
+          "typeName": "frame",
+          "x": 102,
+          "y": -102,
+          "blockX": -1238,
+          "blockY": 66,
+          "blockZ": -9003
+        }
+      ]
+    },
+    {
+      "id": -9530532420362,
+      "parentMapId": -1,
+      "file": "tiles/map_-9530532420362.png",
+      "xCenter": 0,
+      "zCenter": -8192,
+      "scale": 4,
+      "width": 128,
+      "height": 128,
+      "bounds": {
+        "xMin": -1024,
+        "xMax": 1024,
+        "zMin": -9216,
+        "zMax": -7168,
+        "blocksWide": 2048
+      },
+      "dimension": 0,
+      "dimensionName": "overworld",
+      "fullyExplored": false,
+      "mapLocked": false,
+      "unlimitedTracking": false,
+      "inferredType": "standard",
+      "decorations": [
+        {
+          "rot": 4,
+          "type": 1,
+          "typeName": "frame",
+          "x": -14,
+          "y": -108,
+          "blockX": -115,
+          "blockY": 92,
+          "blockZ": -9063
+        },
+        {
+          "rot": 8,
+          "type": 1,
+          "typeName": "frame",
+          "x": 102,
+          "y": 62,
+          "blockX": 812,
+          "blockY": 88,
+          "blockZ": -7695
+        },
+        {
+          "rot": 8,
+          "type": 1,
+          "typeName": "frame",
+          "x": 52,
+          "y": 52,
+          "blockX": 411,
+          "blockY": 63,
+          "blockZ": -7770
+        }
+      ]
+    },
+    {
+      "id": -9517647522731,
+      "parentMapId": -1,
+      "file": "tiles/map_-9517647522731.png",
+      "xCenter": 2048,
+      "zCenter": -8192,
+      "scale": 4,
+      "width": 128,
+      "height": 128,
+      "bounds": {
+        "xMin": 1024,
+        "xMax": 3072,
+        "zMin": -9216,
+        "zMax": -7168,
+        "blocksWide": 2048
+      },
+      "dimension": 0,
+      "dimensionName": "overworld",
+      "fullyExplored": false,
+      "mapLocked": false,
+      "unlimitedTracking": false,
+      "inferredType": "standard",
+      "decorations": [
+        {
+          "rot": 8,
+          "type": 1,
+          "typeName": "frame",
+          "x": 56,
+          "y": 36,
+          "blockX": 2494,
+          "blockY": 66,
+          "blockZ": -7899
+        }
+      ]
+    },
+    {
+      "id": -9440338113604,
+      "parentMapId": -1,
+      "file": "tiles/map_-9440338113604.png",
+      "xCenter": -4096,
+      "zCenter": -2048,
+      "scale": 4,
+      "width": 128,
+      "height": 128,
+      "bounds": {
+        "xMin": -5120,
+        "xMax": -3072,
+        "zMin": -3072,
+        "zMax": -1024,
+        "blocksWide": 2048
+      },
+      "dimension": 0,
+      "dimensionName": "overworld",
+      "fullyExplored": false,
+      "mapLocked": false,
+      "unlimitedTracking": false,
+      "inferredType": "standard",
+      "decorations": []
+    },
+    {
+      "id": -9436043147783,
+      "parentMapId": -1,
+      "file": "tiles/map_-9436043147783.png",
+      "xCenter": 2048,
+      "zCenter": -6144,
+      "scale": 4,
+      "width": 128,
+      "height": 128,
+      "bounds": {
+        "xMin": 1024,
+        "xMax": 3072,
+        "zMin": -7168,
+        "zMax": -5120,
+        "blocksWide": 2048
+      },
+      "dimension": 0,
+      "dimensionName": "overworld",
+      "fullyExplored": false,
+      "mapLocked": false,
+      "unlimitedTracking": false,
+      "inferredType": "standard",
+      "decorations": [
+        {
+          "rot": 0,
+          "type": 1,
+          "typeName": "frame",
+          "x": 80,
+          "y": -88,
+          "blockX": 2688,
+          "blockY": 70,
+          "blockZ": -6846
+        }
+      ]
+    },
+    {
+      "id": -9436043138604,
+      "parentMapId": -1,
+      "file": "tiles/map_-9436043138604.png",
+      "xCenter": -4096,
+      "zCenter": -6144,
+      "scale": 4,
+      "width": 128,
+      "height": 128,
+      "bounds": {
+        "xMin": -5120,
+        "xMax": -3072,
+        "zMin": -7168,
+        "zMax": -5120,
+        "blocksWide": 2048
+      },
+      "dimension": 0,
+      "dimensionName": "overworld",
+      "fullyExplored": false,
+      "mapLocked": false,
+      "unlimitedTracking": false,
+      "inferredType": "standard",
+      "decorations": []
+    },
+    {
+      "id": -9436043136430,
+      "parentMapId": -1,
+      "file": "tiles/map_-9436043136430.png",
+      "xCenter": -4096,
+      "zCenter": -4096,
+      "scale": 4,
+      "width": 128,
+      "height": 128,
+      "bounds": {
+        "xMin": -5120,
+        "xMax": -3072,
+        "zMin": -5120,
+        "zMax": -3072,
+        "blocksWide": 2048
+      },
+      "dimension": 0,
+      "dimensionName": "overworld",
+      "fullyExplored": false,
+      "mapLocked": false,
+      "unlimitedTracking": false,
+      "inferredType": "standard",
+      "decorations": []
+    },
+    {
+      "id": -9384503540366,
+      "parentMapId": -1,
+      "file": "tiles/map_-9384503540366.png",
+      "xCenter": 0,
+      "zCenter": -6144,
+      "scale": 4,
+      "width": 128,
+      "height": 128,
+      "bounds": {
+        "xMin": -1024,
+        "xMax": 1024,
+        "zMin": -7168,
+        "zMax": -5120,
+        "blocksWide": 2048
+      },
+      "dimension": 0,
+      "dimensionName": "overworld",
+      "fullyExplored": false,
+      "mapLocked": false,
+      "unlimitedTracking": false,
+      "inferredType": "standard",
+      "decorations": [
+        {
+          "rot": 4,
+          "type": 1,
+          "typeName": "frame",
+          "x": 50,
+          "y": 6,
+          "blockX": 402,
+          "blockY": 150,
+          "blockZ": -6098
+        },
+        {
+          "rot": 4,
+          "type": 1,
+          "typeName": "frame",
+          "x": 94,
+          "y": 12,
+          "blockX": 756,
+          "blockY": 62,
+          "blockZ": -6049
+        }
+      ]
+    },
+    {
+      "id": -9221294783549,
+      "parentMapId": -1,
+      "file": "tiles/map_-9221294783549.png",
+      "xCenter": -2048,
+      "zCenter": -6144,
+      "scale": 4,
+      "width": 128,
+      "height": 128,
+      "bounds": {
+        "xMin": -3072,
+        "xMax": -1024,
+        "zMin": -7168,
+        "zMax": -5120,
+        "blocksWide": 2048
+      },
+      "dimension": 0,
+      "dimensionName": "overworld",
+      "fullyExplored": false,
+      "mapLocked": false,
+      "unlimitedTracking": false,
+      "inferredType": "standard",
+      "decorations": [
+        {
+          "rot": 12,
+          "type": 1,
+          "typeName": "frame",
+          "x": -124,
+          "y": -100,
+          "blockX": -3046,
+          "blockY": 100,
+          "blockZ": -6941
+        },
+        {
+          "rot": 8,
+          "type": 1,
+          "typeName": "frame",
+          "x": 74,
+          "y": -82,
+          "blockX": -1458,
+          "blockY": 68,
+          "blockZ": -6800
+        }
+      ]
+    },
+    {
+      "id": -9028021252412,
+      "parentMapId": -1,
+      "file": "tiles/map_-9028021252412.png",
       "xCenter": -4096,
       "zCenter": 0,
       "scale": 4,
@@ -25,6 +347,111 @@
       "unlimitedTracking": false,
       "inferredType": "standard",
       "decorations": []
+    },
+    {
+      "id": -7052336299535,
+      "parentMapId": -1,
+      "file": "tiles/map_-7052336299535.png",
+      "xCenter": 0,
+      "zCenter": -4096,
+      "scale": 4,
+      "width": 128,
+      "height": 128,
+      "bounds": {
+        "xMin": -1024,
+        "xMax": 1024,
+        "zMin": -5120,
+        "zMax": -3072,
+        "blocksWide": 2048
+      },
+      "dimension": 0,
+      "dimensionName": "overworld",
+      "fullyExplored": false,
+      "mapLocked": false,
+      "unlimitedTracking": false,
+      "inferredType": "standard",
+      "decorations": [
+        {
+          "rot": 0,
+          "type": 1,
+          "typeName": "frame",
+          "x": 86,
+          "y": -76,
+          "blockX": 691,
+          "blockY": 90,
+          "blockZ": -4701
+        }
+      ]
+    },
+    {
+      "id": -6944962113644,
+      "parentMapId": -1,
+      "file": "tiles/map_-6944962113644.png",
+      "xCenter": -2048,
+      "zCenter": -2048,
+      "scale": 4,
+      "width": 128,
+      "height": 128,
+      "bounds": {
+        "xMin": -3072,
+        "xMax": -1024,
+        "zMin": -3072,
+        "zMax": -1024,
+        "blocksWide": 2048
+      },
+      "dimension": 0,
+      "dimensionName": "overworld",
+      "fullyExplored": false,
+      "mapLocked": false,
+      "unlimitedTracking": false,
+      "inferredType": "standard",
+      "decorations": [
+        {
+          "rot": 4,
+          "type": 1,
+          "typeName": "frame",
+          "x": -28,
+          "y": 45,
+          "blockX": -2277,
+          "blockY": -1,
+          "blockZ": -1687
+        }
+      ]
+    },
+    {
+      "id": -6743098647350,
+      "parentMapId": -1,
+      "file": "tiles/map_-6743098647350.png",
+      "xCenter": -2048,
+      "zCenter": -4096,
+      "scale": 4,
+      "width": 128,
+      "height": 128,
+      "bounds": {
+        "xMin": -3072,
+        "xMax": -1024,
+        "zMin": -5120,
+        "zMax": -3072,
+        "blocksWide": 2048
+      },
+      "dimension": 0,
+      "dimensionName": "overworld",
+      "fullyExplored": false,
+      "mapLocked": false,
+      "unlimitedTracking": false,
+      "inferredType": "standard",
+      "decorations": [
+        {
+          "rot": 8,
+          "type": 1,
+          "typeName": "frame",
+          "x": 6,
+          "y": 18,
+          "blockX": -2006,
+          "blockY": 108,
+          "blockZ": -3955
+        }
+      ]
     },
     {
       "id": -6472515712276,
@@ -99,30 +526,6 @@
       "decorations": []
     },
     {
-      "id": -2628519978655,
-      "parentMapId": -1,
-      "file": "tiles/map_-2628519978655.png",
-      "xCenter": -2048,
-      "zCenter": -2048,
-      "scale": 4,
-      "width": 128,
-      "height": 128,
-      "bounds": {
-        "xMin": -3072,
-        "xMax": -1024,
-        "zMin": -3072,
-        "zMax": -1024,
-        "blocksWide": 2048
-      },
-      "dimension": 0,
-      "dimensionName": "overworld",
-      "fullyExplored": false,
-      "mapLocked": false,
-      "unlimitedTracking": false,
-      "inferredType": "standard",
-      "decorations": []
-    },
-    {
       "id": -2551210572884,
       "parentMapId": -1,
       "file": "tiles/map_-2551210572884.png",
@@ -150,7 +553,7 @@
           "type": 1,
           "typeName": "frame",
           "x": 30,
-          "y": 11,
+          "y": 12,
           "blockX": 237,
           "blockY": 72,
           "blockZ": 91
@@ -180,20 +583,10 @@
           "type": 1,
           "typeName": "frame",
           "x": 28,
-          "y": 49,
+          "y": 50,
           "blockX": 223,
           "blockY": 78,
           "blockZ": 395
-        },
-        {
-          "rot": 0,
-          "type": 1,
-          "typeName": "frame",
-          "x": 22,
-          "y": 124,
-          "blockX": 174,
-          "blockY": 70,
-          "blockZ": 994
         },
         {
           "rot": 0,
@@ -220,7 +613,7 @@
           "type": 1,
           "typeName": "frame",
           "x": -52,
-          "y": -59,
+          "y": -60,
           "blockX": -423,
           "blockY": 72,
           "blockZ": -482
@@ -229,11 +622,21 @@
           "rot": 0,
           "type": 1,
           "typeName": "frame",
-          "x": -66,
-          "y": 111,
-          "blockX": -539,
+          "x": -68,
+          "y": 110,
+          "blockX": -538,
           "blockY": 102,
           "blockZ": 887
+        },
+        {
+          "rot": 0,
+          "type": 1,
+          "typeName": "frame",
+          "x": 22,
+          "y": 124,
+          "blockX": 174,
+          "blockY": 70,
+          "blockZ": 994
         }
       ]
     },
@@ -251,30 +654,6 @@
         "xMax": -1024,
         "zMin": -1024,
         "zMax": 1024,
-        "blocksWide": 2048
-      },
-      "dimension": 0,
-      "dimensionName": "overworld",
-      "fullyExplored": false,
-      "mapLocked": false,
-      "unlimitedTracking": false,
-      "inferredType": "standard",
-      "decorations": []
-    },
-    {
-      "id": -1954210119573,
-      "parentMapId": -1,
-      "file": "tiles/map_-1954210119573.png",
-      "xCenter": 0,
-      "zCenter": -2048,
-      "scale": 4,
-      "width": 128,
-      "height": 128,
-      "bounds": {
-        "xMin": -1024,
-        "xMax": 1024,
-        "zMin": -3072,
-        "zMax": -1024,
         "blocksWide": 2048
       },
       "dimension": 0,
@@ -310,6 +689,30 @@
       "decorations": []
     },
     {
+      "id": -1017907247733,
+      "parentMapId": -1,
+      "file": "tiles/map_-1017907247733.png",
+      "xCenter": 0,
+      "zCenter": -2048,
+      "scale": 4,
+      "width": 128,
+      "height": 128,
+      "bounds": {
+        "xMin": -1024,
+        "xMax": 1024,
+        "zMin": -3072,
+        "zMax": -1024,
+        "blocksWide": 2048
+      },
+      "dimension": 0,
+      "dimensionName": "overworld",
+      "fullyExplored": false,
+      "mapLocked": false,
+      "unlimitedTracking": false,
+      "inferredType": "standard",
+      "decorations": []
+    },
+    {
       "id": -777389079974,
       "parentMapId": -1,
       "file": "tiles/map_-777389079974.png",
@@ -324,6 +727,196 @@
         "zMin": 5120,
         "zMax": 7168,
         "blocksWide": 2048
+      },
+      "dimension": 0,
+      "dimensionName": "overworld",
+      "fullyExplored": false,
+      "mapLocked": false,
+      "unlimitedTracking": false,
+      "inferredType": "standard",
+      "decorations": []
+    },
+    {
+      "id": -9706626076159,
+      "parentMapId": -9706626076158,
+      "file": "tiles/map_-9706626076159.png",
+      "xCenter": -3072,
+      "zCenter": 4096,
+      "scale": 3,
+      "width": 128,
+      "height": 128,
+      "bounds": {
+        "xMin": -3584,
+        "xMax": -2560,
+        "zMin": 3584,
+        "zMax": 4608,
+        "blocksWide": 1024
+      },
+      "dimension": 0,
+      "dimensionName": "overworld",
+      "fullyExplored": false,
+      "mapLocked": false,
+      "unlimitedTracking": false,
+      "inferredType": "standard",
+      "decorations": []
+    },
+    {
+      "id": -9560597190830,
+      "parentMapId": -9560597190829,
+      "file": "tiles/map_-9560597190830.png",
+      "xCenter": -3072,
+      "zCenter": 1024,
+      "scale": 3,
+      "width": 128,
+      "height": 128,
+      "bounds": {
+        "xMin": -3584,
+        "xMax": -2560,
+        "zMin": 512,
+        "zMax": 1536,
+        "blocksWide": 1024
+      },
+      "dimension": 0,
+      "dimensionName": "overworld",
+      "fullyExplored": false,
+      "mapLocked": false,
+      "unlimitedTracking": false,
+      "inferredType": "standard",
+      "decorations": [
+        {
+          "rot": 12,
+          "type": 1,
+          "typeName": "frame",
+          "x": -24,
+          "y": -82,
+          "blockX": -3168,
+          "blockY": 63,
+          "blockZ": 696
+        }
+      ]
+    },
+    {
+      "id": -9560597180944,
+      "parentMapId": -9560597180943,
+      "file": "tiles/map_-9560597180944.png",
+      "xCenter": -4096,
+      "zCenter": 1024,
+      "scale": 3,
+      "width": 128,
+      "height": 128,
+      "bounds": {
+        "xMin": -4608,
+        "xMax": -3584,
+        "zMin": 512,
+        "zMax": 1536,
+        "blocksWide": 1024
+      },
+      "dimension": 0,
+      "dimensionName": "overworld",
+      "fullyExplored": false,
+      "mapLocked": false,
+      "unlimitedTracking": false,
+      "inferredType": "standard",
+      "decorations": [
+        {
+          "rot": 4,
+          "type": 1,
+          "typeName": "frame",
+          "x": 48,
+          "y": -98,
+          "blockX": -3908,
+          "blockY": 111,
+          "blockZ": 631
+        }
+      ]
+    },
+    {
+      "id": -9436043143595,
+      "parentMapId": -9436043143594,
+      "file": "tiles/map_-9436043143595.png",
+      "xCenter": 0,
+      "zCenter": -5120,
+      "scale": 3,
+      "width": 128,
+      "height": 128,
+      "bounds": {
+        "xMin": -512,
+        "xMax": 512,
+        "zMin": -5632,
+        "zMax": -4608,
+        "blocksWide": 1024
+      },
+      "dimension": 0,
+      "dimensionName": "overworld",
+      "fullyExplored": false,
+      "mapLocked": false,
+      "unlimitedTracking": false,
+      "inferredType": "standard",
+      "decorations": []
+    },
+    {
+      "id": -9345848834188,
+      "parentMapId": -9345848834187,
+      "file": "tiles/map_-9345848834188.png",
+      "xCenter": -2048,
+      "zCenter": -7168,
+      "scale": 3,
+      "width": 128,
+      "height": 128,
+      "bounds": {
+        "xMin": -2560,
+        "xMax": -1536,
+        "zMin": -7680,
+        "zMax": -6656,
+        "blocksWide": 1024
+      },
+      "dimension": 0,
+      "dimensionName": "overworld",
+      "fullyExplored": false,
+      "mapLocked": false,
+      "unlimitedTracking": false,
+      "inferredType": "standard",
+      "decorations": []
+    },
+    {
+      "id": -9320079030900,
+      "parentMapId": -9320079030899,
+      "file": "tiles/map_-9320079030900.png",
+      "xCenter": -5120,
+      "zCenter": 3072,
+      "scale": 3,
+      "width": 128,
+      "height": 128,
+      "bounds": {
+        "xMin": -5632,
+        "xMax": -4608,
+        "zMin": 2560,
+        "zMax": 3584,
+        "blocksWide": 1024
+      },
+      "dimension": 0,
+      "dimensionName": "overworld",
+      "fullyExplored": false,
+      "mapLocked": false,
+      "unlimitedTracking": false,
+      "inferredType": "standard",
+      "decorations": []
+    },
+    {
+      "id": -9221294783396,
+      "parentMapId": -9221294783395,
+      "file": "tiles/map_-9221294783396.png",
+      "xCenter": -2048,
+      "zCenter": -5120,
+      "scale": 3,
+      "width": 128,
+      "height": 128,
+      "bounds": {
+        "xMin": -2560,
+        "xMax": -1536,
+        "zMin": -5632,
+        "zMax": -4608,
+        "blocksWide": 1024
       },
       "dimension": 0,
       "dimensionName": "overworld",
@@ -405,11 +998,21 @@
       "inferredType": "standard",
       "decorations": [
         {
+          "rot": 0,
+          "type": 1,
+          "typeName": "frame",
+          "x": -12,
+          "y": 80,
+          "blockX": -4147,
+          "blockY": 96,
+          "blockZ": 323
+        },
+        {
           "rot": 12,
           "type": 1,
           "typeName": "frame",
-          "x": 99,
-          "y": 57,
+          "x": 98,
+          "y": 58,
           "blockX": -3701,
           "blockY": 123,
           "blockZ": 228
@@ -561,57 +1164,9 @@
       "decorations": []
     },
     {
-      "id": -8546984911680,
-      "parentMapId": -8546984911679,
-      "file": "tiles/map_-8546984911680.png",
-      "xCenter": 1024,
-      "zCenter": 3072,
-      "scale": 3,
-      "width": 128,
-      "height": 128,
-      "bounds": {
-        "xMin": 512,
-        "xMax": 1536,
-        "zMin": 2560,
-        "zMax": 3584,
-        "blocksWide": 1024
-      },
-      "dimension": 0,
-      "dimensionName": "overworld",
-      "fullyExplored": false,
-      "mapLocked": false,
-      "unlimitedTracking": false,
-      "inferredType": "standard",
-      "decorations": []
-    },
-    {
-      "id": -8546984910357,
-      "parentMapId": -8546984910356,
-      "file": "tiles/map_-8546984910357.png",
-      "xCenter": 2048,
-      "zCenter": 3072,
-      "scale": 3,
-      "width": 128,
-      "height": 128,
-      "bounds": {
-        "xMin": 1536,
-        "xMax": 2560,
-        "zMin": 2560,
-        "zMax": 3584,
-        "blocksWide": 1024
-      },
-      "dimension": 0,
-      "dimensionName": "overworld",
-      "fullyExplored": false,
-      "mapLocked": false,
-      "unlimitedTracking": false,
-      "inferredType": "standard",
-      "decorations": []
-    },
-    {
-      "id": -8546984907304,
-      "parentMapId": -8546984907303,
-      "file": "tiles/map_-8546984907304.png",
+      "id": -8478265440329,
+      "parentMapId": -8478265440328,
+      "file": "tiles/map_-8478265440329.png",
       "xCenter": 0,
       "zCenter": 4096,
       "scale": 3,
@@ -630,31 +1185,18 @@
       "mapLocked": false,
       "unlimitedTracking": false,
       "inferredType": "standard",
-      "decorations": []
-    },
-    {
-      "id": -8418135900087,
-      "parentMapId": -8418135900086,
-      "file": "tiles/map_-8418135900087.png",
-      "xCenter": 0,
-      "zCenter": 0,
-      "scale": 3,
-      "width": 128,
-      "height": 128,
-      "bounds": {
-        "xMin": -512,
-        "xMax": 512,
-        "zMin": -512,
-        "zMax": 512,
-        "blocksWide": 1024
-      },
-      "dimension": 0,
-      "dimensionName": "overworld",
-      "fullyExplored": false,
-      "mapLocked": false,
-      "unlimitedTracking": false,
-      "inferredType": "standard",
-      "decorations": []
+      "decorations": [
+        {
+          "rot": 12,
+          "type": 1,
+          "typeName": "frame",
+          "x": 72,
+          "y": 34,
+          "blockX": 291,
+          "blockY": 64,
+          "blockZ": 4235
+        }
+      ]
     },
     {
       "id": -7056631267120,
@@ -705,65 +1247,6 @@
       "decorations": []
     },
     {
-      "id": -7056631262585,
-      "parentMapId": -7056631262584,
-      "file": "tiles/map_-7056631262585.png",
-      "xCenter": -3072,
-      "zCenter": 1024,
-      "scale": 3,
-      "width": 128,
-      "height": 128,
-      "bounds": {
-        "xMin": -3584,
-        "xMax": -2560,
-        "zMin": 512,
-        "zMax": 1536,
-        "blocksWide": 1024
-      },
-      "dimension": 0,
-      "dimensionName": "overworld",
-      "fullyExplored": false,
-      "mapLocked": false,
-      "unlimitedTracking": false,
-      "inferredType": "standard",
-      "decorations": [
-        {
-          "rot": 12,
-          "type": 1,
-          "typeName": "frame",
-          "x": -39,
-          "y": 55,
-          "blockX": -3233,
-          "blockY": 64,
-          "blockZ": 1243
-        }
-      ]
-    },
-    {
-      "id": -7056631261491,
-      "parentMapId": -7056631261490,
-      "file": "tiles/map_-7056631261491.png",
-      "xCenter": -4096,
-      "zCenter": 2048,
-      "scale": 3,
-      "width": 128,
-      "height": 128,
-      "bounds": {
-        "xMin": -4608,
-        "xMax": -3584,
-        "zMin": 1536,
-        "zMax": 2560,
-        "blocksWide": 1024
-      },
-      "dimension": 0,
-      "dimensionName": "overworld",
-      "fullyExplored": false,
-      "mapLocked": false,
-      "unlimitedTracking": false,
-      "inferredType": "standard",
-      "decorations": []
-    },
-    {
       "id": -7052336299536,
       "parentMapId": -7052336299535,
       "file": "tiles/map_-7052336299536.png",
@@ -791,7 +1274,7 @@
           "type": 1,
           "typeName": "frame",
           "x": -48,
-          "y": -2,
+          "y": -4,
           "blockX": -195,
           "blockY": 88,
           "blockZ": -3085
@@ -850,7 +1333,7 @@
           "type": 1,
           "typeName": "frame",
           "x": 98,
-          "y": 9,
+          "y": 8,
           "blockX": 3462,
           "blockY": 123,
           "blockZ": -3038
@@ -885,7 +1368,7 @@
           "type": 1,
           "typeName": "frame",
           "x": -28,
-          "y": -21,
+          "y": -22,
           "blockX": 1934,
           "blockY": 125,
           "blockZ": -3159
@@ -943,7 +1426,7 @@
           "rot": 4,
           "type": 1,
           "typeName": "frame",
-          "x": 9,
+          "x": 8,
           "y": -46,
           "blockX": -990,
           "blockY": 103,
@@ -973,18 +1456,7 @@
       "mapLocked": false,
       "unlimitedTracking": false,
       "inferredType": "standard",
-      "decorations": [
-        {
-          "rot": 8,
-          "type": 1,
-          "typeName": "frame",
-          "x": 11,
-          "y": 35,
-          "blockX": -2006,
-          "blockY": 108,
-          "blockZ": -3955
-        }
-      ]
+      "decorations": []
     },
     {
       "id": -6708738915077,
@@ -1004,7 +1476,7 @@
       },
       "dimension": 0,
       "dimensionName": "overworld",
-      "fullyExplored": false,
+      "fullyExplored": true,
       "mapLocked": false,
       "unlimitedTracking": false,
       "inferredType": "standard",
@@ -1023,8 +1495,8 @@
           "rot": 0,
           "type": 1,
           "typeName": "frame",
-          "x": 107,
-          "y": -27,
+          "x": 108,
+          "y": -28,
           "blockX": -2644,
           "blockY": 42,
           "blockZ": -1136
@@ -1045,54 +1517,6 @@
         "xMax": -2560,
         "zMin": -512,
         "zMax": 512,
-        "blocksWide": 1024
-      },
-      "dimension": 0,
-      "dimensionName": "overworld",
-      "fullyExplored": false,
-      "mapLocked": false,
-      "unlimitedTracking": false,
-      "inferredType": "standard",
-      "decorations": []
-    },
-    {
-      "id": -6687264078671,
-      "parentMapId": -6687264078670,
-      "file": "tiles/map_-6687264078671.png",
-      "xCenter": -2048,
-      "zCenter": 3072,
-      "scale": 3,
-      "width": 128,
-      "height": 128,
-      "bounds": {
-        "xMin": -2560,
-        "xMax": -1536,
-        "zMin": 2560,
-        "zMax": 3584,
-        "blocksWide": 1024
-      },
-      "dimension": 0,
-      "dimensionName": "overworld",
-      "fullyExplored": false,
-      "mapLocked": false,
-      "unlimitedTracking": false,
-      "inferredType": "standard",
-      "decorations": []
-    },
-    {
-      "id": -6687264076724,
-      "parentMapId": -6687264076723,
-      "file": "tiles/map_-6687264076724.png",
-      "xCenter": -1024,
-      "zCenter": 3072,
-      "scale": 3,
-      "width": 128,
-      "height": 128,
-      "bounds": {
-        "xMin": -1536,
-        "xMax": -512,
-        "zMin": 2560,
-        "zMax": 3584,
         "blocksWide": 1024
       },
       "dimension": 0,
@@ -1210,8 +1634,8 @@
           "rot": 0,
           "type": 1,
           "typeName": "frame",
-          "x": -57,
-          "y": -107,
+          "x": -58,
+          "y": -108,
           "blockX": 2841,
           "blockY": 66,
           "blockZ": -433
@@ -1266,16 +1690,6 @@
       "inferredType": "standard",
       "decorations": [
         {
-          "rot": 12,
-          "type": 1,
-          "typeName": "frame",
-          "x": -44,
-          "y": -52,
-          "blockX": 846,
-          "blockY": 55,
-          "blockZ": -3284
-        },
-        {
           "rot": 4,
           "type": 1,
           "typeName": "frame",
@@ -1289,11 +1703,21 @@
           "rot": 12,
           "type": 1,
           "typeName": "frame",
-          "x": 83,
-          "y": -53,
+          "x": 82,
+          "y": -54,
           "blockX": 1355,
           "blockY": 215,
           "blockZ": -3288
+        },
+        {
+          "rot": 12,
+          "type": 1,
+          "typeName": "frame",
+          "x": -44,
+          "y": -54,
+          "blockX": 846,
+          "blockY": 55,
+          "blockZ": -3284
         }
       ]
     },
@@ -1359,7 +1783,7 @@
           "rot": 4,
           "type": 1,
           "typeName": "frame",
-          "x": 63,
+          "x": 62,
           "y": -120,
           "blockX": -2822,
           "blockY": 67,
@@ -1403,30 +1827,6 @@
       ]
     },
     {
-      "id": -6472515712277,
-      "parentMapId": -6472515712276,
-      "file": "tiles/map_-6472515712277.png",
-      "xCenter": 2048,
-      "zCenter": 2048,
-      "scale": 3,
-      "width": 128,
-      "height": 128,
-      "bounds": {
-        "xMin": 1536,
-        "xMax": 2560,
-        "zMin": 1536,
-        "zMax": 2560,
-        "blocksWide": 1024
-      },
-      "dimension": 0,
-      "dimensionName": "overworld",
-      "fullyExplored": false,
-      "mapLocked": false,
-      "unlimitedTracking": false,
-      "inferredType": "standard",
-      "decorations": []
-    },
-    {
       "id": -3311419783806,
       "parentMapId": -3311419783805,
       "file": "tiles/map_-3311419783806.png",
@@ -1449,6 +1849,41 @@
       "unlimitedTracking": false,
       "inferredType": "standard",
       "decorations": []
+    },
+    {
+      "id": -3019362008392,
+      "parentMapId": -3019362008391,
+      "file": "tiles/map_-3019362008392.png",
+      "xCenter": -4096,
+      "zCenter": 2048,
+      "scale": 3,
+      "width": 128,
+      "height": 128,
+      "bounds": {
+        "xMin": -4608,
+        "xMax": -3584,
+        "zMin": 1536,
+        "zMax": 2560,
+        "blocksWide": 1024
+      },
+      "dimension": 0,
+      "dimensionName": "overworld",
+      "fullyExplored": false,
+      "mapLocked": false,
+      "unlimitedTracking": false,
+      "inferredType": "standard",
+      "decorations": [
+        {
+          "rot": 8,
+          "type": 1,
+          "typeName": "frame",
+          "x": 96,
+          "y": -64,
+          "blockX": -3713,
+          "blockY": 57,
+          "blockZ": 1789
+        }
+      ]
     },
     {
       "id": -2967822397886,
@@ -1496,6 +1931,135 @@
       ]
     },
     {
+      "id": -2907692849564,
+      "parentMapId": -2907692849563,
+      "file": "tiles/map_-2907692849564.png",
+      "xCenter": -1024,
+      "zCenter": 3072,
+      "scale": 3,
+      "width": 128,
+      "height": 128,
+      "bounds": {
+        "xMin": -1536,
+        "xMax": -512,
+        "zMin": 2560,
+        "zMax": 3584,
+        "blocksWide": 1024
+      },
+      "dimension": 0,
+      "dimensionName": "overworld",
+      "fullyExplored": false,
+      "mapLocked": false,
+      "unlimitedTracking": false,
+      "inferredType": "standard",
+      "decorations": [
+        {
+          "rot": 4,
+          "type": 1,
+          "typeName": "frame",
+          "x": 88,
+          "y": -114,
+          "blockX": -672,
+          "blockY": 75,
+          "blockZ": 2613
+        }
+      ]
+    },
+    {
+      "id": -2907692842944,
+      "parentMapId": -2907692842943,
+      "file": "tiles/map_-2907692842944.png",
+      "xCenter": -2048,
+      "zCenter": 3072,
+      "scale": 3,
+      "width": 128,
+      "height": 128,
+      "bounds": {
+        "xMin": -2560,
+        "xMax": -1536,
+        "zMin": 2560,
+        "zMax": 3584,
+        "blocksWide": 1024
+      },
+      "dimension": 0,
+      "dimensionName": "overworld",
+      "fullyExplored": false,
+      "mapLocked": false,
+      "unlimitedTracking": false,
+      "inferredType": "standard",
+      "decorations": [
+        {
+          "rot": 8,
+          "type": 1,
+          "typeName": "frame",
+          "x": 59,
+          "y": -3,
+          "blockX": -1813,
+          "blockY": 72,
+          "blockZ": 3058
+        }
+      ]
+    },
+    {
+      "id": -2907692829124,
+      "parentMapId": -2907692829123,
+      "file": "tiles/map_-2907692829124.png",
+      "xCenter": 2048,
+      "zCenter": 3072,
+      "scale": 3,
+      "width": 128,
+      "height": 128,
+      "bounds": {
+        "xMin": 1536,
+        "xMax": 2560,
+        "zMin": 2560,
+        "zMax": 3584,
+        "blocksWide": 1024
+      },
+      "dimension": 0,
+      "dimensionName": "overworld",
+      "fullyExplored": false,
+      "mapLocked": false,
+      "unlimitedTracking": false,
+      "inferredType": "standard",
+      "decorations": []
+    },
+    {
+      "id": -2894807952043,
+      "parentMapId": -2894807952042,
+      "file": "tiles/map_-2894807952043.png",
+      "xCenter": 2048,
+      "zCenter": 2048,
+      "scale": 3,
+      "width": 128,
+      "height": 128,
+      "bounds": {
+        "xMin": 1536,
+        "xMax": 2560,
+        "zMin": 1536,
+        "zMax": 2560,
+        "blocksWide": 1024
+      },
+      "dimension": 0,
+      "dimensionName": "overworld",
+      "fullyExplored": false,
+      "mapLocked": false,
+      "unlimitedTracking": false,
+      "inferredType": "standard",
+      "decorations": [
+        {
+          "rot": 0,
+          "type": 1,
+          "typeName": "frame",
+          "x": -38,
+          "y": 113,
+          "blockX": 1891,
+          "blockY": 65,
+          "blockZ": 2499
+        }
+      ]
+    },
+    {
       "id": -2894807942185,
       "parentMapId": -2894807942184,
       "file": "tiles/map_-2894807942185.png",
@@ -1522,8 +2086,8 @@
           "rot": 4,
           "type": 1,
           "typeName": "frame",
-          "x": -35,
-          "y": -63,
+          "x": -36,
+          "y": -64,
           "blockX": -2193,
           "blockY": 115,
           "blockZ": 1791
@@ -1621,30 +2185,6 @@
       ]
     },
     {
-      "id": -2894807922122,
-      "parentMapId": -2894807922121,
-      "file": "tiles/map_-2894807922122.png",
-      "xCenter": -1024,
-      "zCenter": -2048,
-      "scale": 3,
-      "width": 128,
-      "height": 128,
-      "bounds": {
-        "xMin": -1536,
-        "xMax": -512,
-        "zMin": -2560,
-        "zMax": -1536,
-        "blocksWide": 1024
-      },
-      "dimension": 0,
-      "dimensionName": "overworld",
-      "fullyExplored": false,
-      "mapLocked": false,
-      "unlimitedTracking": false,
-      "inferredType": "standard",
-      "decorations": []
-    },
-    {
       "id": -2894807921141,
       "parentMapId": -2894807921140,
       "file": "tiles/map_-2894807921141.png",
@@ -1725,9 +2265,9 @@
       ]
     },
     {
-      "id": -2890512984807,
-      "parentMapId": -2890512984806,
-      "file": "tiles/map_-2890512984807.png",
+      "id": -2813203570326,
+      "parentMapId": -2813203570325,
+      "file": "tiles/map_-2813203570326.png",
       "xCenter": 2048,
       "zCenter": 1024,
       "scale": 3,
@@ -1746,7 +2286,28 @@
       "mapLocked": false,
       "unlimitedTracking": false,
       "inferredType": "standard",
-      "decorations": []
+      "decorations": [
+        {
+          "rot": 8,
+          "type": 1,
+          "typeName": "frame",
+          "x": 124,
+          "y": -68,
+          "blockX": 2542,
+          "blockY": 74,
+          "blockZ": 748
+        },
+        {
+          "rot": 0,
+          "type": 1,
+          "typeName": "frame",
+          "x": 18,
+          "y": 96,
+          "blockX": 2116,
+          "blockY": 60,
+          "blockZ": 1405
+        }
+      ]
     },
     {
       "id": -2787433774903,
@@ -1775,8 +2336,8 @@
           "rot": 8,
           "type": 1,
           "typeName": "frame",
-          "x": 111,
-          "y": 31,
+          "x": 112,
+          "y": 30,
           "blockX": 2493,
           "blockY": 74,
           "blockZ": -1926
@@ -1855,8 +2416,8 @@
           "rot": 0,
           "type": 1,
           "typeName": "frame",
-          "x": -125,
-          "y": 19,
+          "x": -128,
+          "y": 20,
           "blockX": -503,
           "blockY": 64,
           "blockZ": 2125
@@ -1865,8 +2426,8 @@
           "rot": 4,
           "type": 1,
           "typeName": "frame",
-          "x": -90,
-          "y": -42,
+          "x": -92,
+          "y": -44,
           "blockX": -364,
           "blockY": 64,
           "blockZ": 1876
@@ -1911,7 +2472,7 @@
           "type": 1,
           "typeName": "frame",
           "x": 32,
-          "y": -1,
+          "y": -2,
           "blockX": 2175,
           "blockY": 83,
           "blockZ": -9
@@ -2002,54 +2563,6 @@
       "decorations": []
     },
     {
-      "id": -2628519978656,
-      "parentMapId": -2628519978655,
-      "file": "tiles/map_-2628519978656.png",
-      "xCenter": -1024,
-      "zCenter": -1024,
-      "scale": 3,
-      "width": 128,
-      "height": 128,
-      "bounds": {
-        "xMin": -1536,
-        "xMax": -512,
-        "zMin": -1536,
-        "zMax": -512,
-        "blocksWide": 1024
-      },
-      "dimension": 0,
-      "dimensionName": "overworld",
-      "fullyExplored": false,
-      "mapLocked": false,
-      "unlimitedTracking": false,
-      "inferredType": "standard",
-      "decorations": []
-    },
-    {
-      "id": -2551210572885,
-      "parentMapId": -2551210572884,
-      "file": "tiles/map_-2551210572885.png",
-      "xCenter": -1024,
-      "zCenter": 1024,
-      "scale": 3,
-      "width": 128,
-      "height": 128,
-      "bounds": {
-        "xMin": -1536,
-        "xMax": -512,
-        "zMin": 512,
-        "zMax": 1536,
-        "blocksWide": 1024
-      },
-      "dimension": 0,
-      "dimensionName": "overworld",
-      "fullyExplored": false,
-      "mapLocked": false,
-      "unlimitedTracking": false,
-      "inferredType": "standard",
-      "decorations": []
-    },
-    {
       "id": -2499670934709,
       "parentMapId": -2499670934708,
       "file": "tiles/map_-2499670934709.png",
@@ -2071,7 +2584,38 @@
       "mapLocked": false,
       "unlimitedTracking": false,
       "inferredType": "standard",
-      "decorations": []
+      "decorations": [
+        {
+          "rot": 0,
+          "type": 1,
+          "typeName": "frame",
+          "x": 110,
+          "y": 28,
+          "blockX": -1612,
+          "blockY": 64,
+          "blockZ": 113
+        },
+        {
+          "rot": 0,
+          "type": 1,
+          "typeName": "frame",
+          "x": 68,
+          "y": -28,
+          "blockX": -1775,
+          "blockY": 48,
+          "blockZ": -110
+        },
+        {
+          "rot": 12,
+          "type": 1,
+          "typeName": "frame",
+          "x": 22,
+          "y": 14,
+          "blockX": -1961,
+          "blockY": 104,
+          "blockZ": 52
+        }
+      ]
     },
     {
       "id": -2396591750624,
@@ -2087,30 +2631,6 @@
         "xMax": 4608,
         "zMin": -5632,
         "zMax": -4608,
-        "blocksWide": 1024
-      },
-      "dimension": 0,
-      "dimensionName": "overworld",
-      "fullyExplored": false,
-      "mapLocked": false,
-      "unlimitedTracking": false,
-      "inferredType": "standard",
-      "decorations": []
-    },
-    {
-      "id": -2375116913878,
-      "parentMapId": -2375116913877,
-      "file": "tiles/map_-2375116913878.png",
-      "xCenter": 2048,
-      "zCenter": -4096,
-      "scale": 3,
-      "width": 128,
-      "height": 128,
-      "bounds": {
-        "xMin": 1536,
-        "xMax": 2560,
-        "zMin": -4608,
-        "zMax": -3584,
         "blocksWide": 1024
       },
       "dimension": 0,
@@ -2146,9 +2666,124 @@
       "decorations": []
     },
     {
-      "id": -1017907247734,
-      "parentMapId": -1017907247733,
-      "file": "tiles/map_-1017907247734.png",
+      "id": -2267742730218,
+      "parentMapId": -2267742730217,
+      "file": "tiles/map_-2267742730218.png",
+      "xCenter": 2048,
+      "zCenter": -4096,
+      "scale": 3,
+      "width": 128,
+      "height": 128,
+      "bounds": {
+        "xMin": 1536,
+        "xMax": 2560,
+        "zMin": -4608,
+        "zMax": -3584,
+        "blocksWide": 1024
+      },
+      "dimension": 0,
+      "dimensionName": "overworld",
+      "fullyExplored": false,
+      "mapLocked": false,
+      "unlimitedTracking": false,
+      "inferredType": "standard",
+      "decorations": [
+        {
+          "rot": 12,
+          "type": 1,
+          "typeName": "frame",
+          "x": -102,
+          "y": 18,
+          "blockX": 1635,
+          "blockY": 65,
+          "blockZ": -4026
+        },
+        {
+          "rot": 12,
+          "type": 1,
+          "typeName": "frame",
+          "x": -102,
+          "y": 17,
+          "blockX": 1635,
+          "blockY": 65,
+          "blockZ": -4027
+        }
+      ]
+    },
+    {
+      "id": -1958505078484,
+      "parentMapId": -1958505078483,
+      "file": "tiles/map_-1958505078484.png",
+      "xCenter": -1024,
+      "zCenter": -2048,
+      "scale": 3,
+      "width": 128,
+      "height": 128,
+      "bounds": {
+        "xMin": -1536,
+        "xMax": -512,
+        "zMin": -2560,
+        "zMax": -1536,
+        "blocksWide": 1024
+      },
+      "dimension": 0,
+      "dimensionName": "overworld",
+      "fullyExplored": true,
+      "mapLocked": false,
+      "unlimitedTracking": false,
+      "inferredType": "standard",
+      "decorations": [
+        {
+          "rot": 8,
+          "type": 1,
+          "typeName": "frame",
+          "x": 4,
+          "y": -76,
+          "blockX": -1008,
+          "blockY": 75,
+          "blockZ": -2357
+        }
+      ]
+    },
+    {
+      "id": -1739461734675,
+      "parentMapId": -1739461734674,
+      "file": "tiles/map_-1739461734675.png",
+      "xCenter": -1024,
+      "zCenter": -1024,
+      "scale": 3,
+      "width": 128,
+      "height": 128,
+      "bounds": {
+        "xMin": -1536,
+        "xMax": -512,
+        "zMin": -1536,
+        "zMax": -512,
+        "blocksWide": 1024
+      },
+      "dimension": 0,
+      "dimensionName": "overworld",
+      "fullyExplored": false,
+      "mapLocked": false,
+      "unlimitedTracking": false,
+      "inferredType": "standard",
+      "decorations": [
+        {
+          "rot": 8,
+          "type": 1,
+          "typeName": "frame",
+          "x": -51,
+          "y": -36,
+          "blockX": -1232,
+          "blockY": 76,
+          "blockZ": -1172
+        }
+      ]
+    },
+    {
+      "id": -880468293723,
+      "parentMapId": -880468293722,
+      "file": "tiles/map_-880468293723.png",
       "xCenter": 1024,
       "zCenter": -1024,
       "scale": 3,
@@ -2167,7 +2802,28 @@
       "mapLocked": false,
       "unlimitedTracking": false,
       "inferredType": "standard",
-      "decorations": []
+      "decorations": [
+        {
+          "rot": 0,
+          "type": 1,
+          "typeName": "frame",
+          "x": -80,
+          "y": -40,
+          "blockX": 702,
+          "blockY": 97,
+          "blockZ": -1186
+        },
+        {
+          "rot": 8,
+          "type": 1,
+          "typeName": "frame",
+          "x": -50,
+          "y": 59,
+          "blockX": 819,
+          "blockY": 77,
+          "blockZ": -788
+        }
+      ]
     },
     {
       "id": -777389079975,
@@ -2192,6 +2848,41 @@
       "unlimitedTracking": false,
       "inferredType": "standard",
       "decorations": []
+    },
+    {
+      "id": -700079667845,
+      "parentMapId": -700079667844,
+      "file": "tiles/map_-700079667845.png",
+      "xCenter": 1024,
+      "zCenter": 3072,
+      "scale": 3,
+      "width": 128,
+      "height": 128,
+      "bounds": {
+        "xMin": 512,
+        "xMax": 1536,
+        "zMin": 2560,
+        "zMax": 3584,
+        "blocksWide": 1024
+      },
+      "dimension": 0,
+      "dimensionName": "overworld",
+      "fullyExplored": false,
+      "mapLocked": false,
+      "unlimitedTracking": false,
+      "inferredType": "standard",
+      "decorations": [
+        {
+          "rot": 8,
+          "type": 1,
+          "typeName": "frame",
+          "x": -27,
+          "y": 13,
+          "blockX": 913,
+          "blockY": 65,
+          "blockZ": 3125
+        }
+      ]
     },
     {
       "id": -588410517334,
@@ -2239,6 +2930,51 @@
       ]
     },
     {
+      "id": -588410516884,
+      "parentMapId": -588410516883,
+      "file": "tiles/map_-588410516884.png",
+      "xCenter": -1024,
+      "zCenter": 1024,
+      "scale": 3,
+      "width": 128,
+      "height": 128,
+      "bounds": {
+        "xMin": -1536,
+        "xMax": -512,
+        "zMin": 512,
+        "zMax": 1536,
+        "blocksWide": 1024
+      },
+      "dimension": 0,
+      "dimensionName": "overworld",
+      "fullyExplored": false,
+      "mapLocked": false,
+      "unlimitedTracking": false,
+      "inferredType": "standard",
+      "decorations": [
+        {
+          "rot": 8,
+          "type": 1,
+          "typeName": "frame",
+          "x": 15,
+          "y": 34,
+          "blockX": -966,
+          "blockY": 70,
+          "blockZ": 1160
+        },
+        {
+          "rot": 12,
+          "type": 1,
+          "typeName": "frame",
+          "x": 120,
+          "y": -34,
+          "blockX": -541,
+          "blockY": 102,
+          "blockZ": 891
+        }
+      ]
+    },
+    {
       "id": -532575944406,
       "parentMapId": -532575944405,
       "file": "tiles/map_-532575944406.png",
@@ -2260,7 +2996,18 @@
       "mapLocked": false,
       "unlimitedTracking": false,
       "inferredType": "standard",
-      "decorations": []
+      "decorations": [
+        {
+          "rot": 12,
+          "type": 1,
+          "typeName": "frame",
+          "x": 60,
+          "y": 12,
+          "blockX": -782,
+          "blockY": 67,
+          "blockZ": 51
+        }
+      ]
     },
     {
       "id": -485331302644,
@@ -2334,8 +3081,8 @@
           "rot": 0,
           "type": 1,
           "typeName": "frame",
-          "x": 45,
-          "y": -3,
+          "x": 44,
+          "y": -4,
           "blockX": 179,
           "blockY": 70,
           "blockZ": 1010
@@ -2388,6 +3135,1493 @@
       ]
     },
     {
+      "id": -4294967254,
+      "parentMapId": -4294967253,
+      "file": "tiles/map_-4294967254.png",
+      "xCenter": 0,
+      "zCenter": 0,
+      "scale": 3,
+      "width": 128,
+      "height": 128,
+      "bounds": {
+        "xMin": -512,
+        "xMax": 512,
+        "zMin": -512,
+        "zMax": 512,
+        "blocksWide": 1024
+      },
+      "dimension": 0,
+      "dimensionName": "overworld",
+      "fullyExplored": true,
+      "mapLocked": false,
+      "unlimitedTracking": false,
+      "inferredType": "standard",
+      "decorations": [
+        {
+          "rot": 0,
+          "type": 1,
+          "typeName": "frame",
+          "x": 12,
+          "y": 46,
+          "blockX": 48,
+          "blockY": 65,
+          "blockZ": 182
+        },
+        {
+          "rot": 0,
+          "type": 1,
+          "typeName": "frame",
+          "x": 124,
+          "y": 76,
+          "blockX": 497,
+          "blockY": 16,
+          "blockZ": 302
+        },
+        {
+          "rot": 4,
+          "type": 1,
+          "typeName": "frame",
+          "x": 44,
+          "y": 114,
+          "blockX": 174,
+          "blockY": 88,
+          "blockZ": 459
+        },
+        {
+          "rot": 0,
+          "type": 1,
+          "typeName": "frame",
+          "x": 58,
+          "y": 22,
+          "blockX": 235,
+          "blockY": 72,
+          "blockZ": 91
+        },
+        {
+          "rot": 12,
+          "type": 1,
+          "typeName": "frame",
+          "x": -106,
+          "y": -122,
+          "blockX": -420,
+          "blockY": 61,
+          "blockZ": -488
+        },
+        {
+          "rot": 0,
+          "type": 1,
+          "typeName": "frame",
+          "x": 8,
+          "y": -2,
+          "blockX": 28,
+          "blockY": 66,
+          "blockZ": -11
+        },
+        {
+          "rot": 0,
+          "type": 1,
+          "typeName": "frame",
+          "x": 56,
+          "y": 96,
+          "blockX": 223,
+          "blockY": 79,
+          "blockZ": 387
+        }
+      ]
+    },
+    {
+      "id": -9728100914117,
+      "parentMapId": -9728100914116,
+      "file": "tiles/map_-9728100914117.png",
+      "xCenter": -1024,
+      "zCenter": -5120,
+      "scale": 2,
+      "width": 128,
+      "height": 128,
+      "bounds": {
+        "xMin": -1280,
+        "xMax": -768,
+        "zMin": -5376,
+        "zMax": -4864,
+        "blocksWide": 512
+      },
+      "dimension": 0,
+      "dimensionName": "overworld",
+      "fullyExplored": false,
+      "mapLocked": false,
+      "unlimitedTracking": true,
+      "inferredType": "treasure",
+      "decorations": [
+        {
+          "rot": 8,
+          "type": 4,
+          "typeName": "red_x",
+          "x": -92,
+          "y": -60,
+          "blockX": -1208,
+          "blockY": 64,
+          "blockZ": -5240
+        }
+      ]
+    },
+    {
+      "id": -9728100914098,
+      "parentMapId": -9728100914097,
+      "file": "tiles/map_-9728100914098.png",
+      "xCenter": -1024,
+      "zCenter": -4096,
+      "scale": 2,
+      "width": 128,
+      "height": 128,
+      "bounds": {
+        "xMin": -1280,
+        "xMax": -768,
+        "zMin": -4352,
+        "zMax": -3840,
+        "blocksWide": 512
+      },
+      "dimension": 0,
+      "dimensionName": "overworld",
+      "fullyExplored": false,
+      "mapLocked": false,
+      "unlimitedTracking": true,
+      "inferredType": "treasure",
+      "decorations": [
+        {
+          "rot": 8,
+          "type": 4,
+          "typeName": "red_x",
+          "x": -60,
+          "y": -28,
+          "blockX": -1144,
+          "blockY": 64,
+          "blockZ": -4152
+        }
+      ]
+    },
+    {
+      "id": -9728100912926,
+      "parentMapId": -9728100912925,
+      "file": "tiles/map_-9728100912926.png",
+      "xCenter": -4608,
+      "zCenter": -14848,
+      "scale": 2,
+      "width": 128,
+      "height": 128,
+      "bounds": {
+        "xMin": -4864,
+        "xMax": -4352,
+        "zMin": -15104,
+        "zMax": -14592,
+        "blocksWide": 512
+      },
+      "dimension": 0,
+      "dimensionName": "overworld",
+      "fullyExplored": false,
+      "mapLocked": false,
+      "unlimitedTracking": true,
+      "inferredType": "woodland_explorer",
+      "decorations": [
+        {
+          "rot": 8,
+          "type": 14,
+          "typeName": "mansion",
+          "x": -76,
+          "y": -60,
+          "blockX": -4760,
+          "blockY": 64,
+          "blockZ": -14968
+        }
+      ]
+    },
+    {
+      "id": -9728100912921,
+      "parentMapId": -9728100912920,
+      "file": "tiles/map_-9728100912921.png",
+      "xCenter": -1536,
+      "zCenter": -4096,
+      "scale": 2,
+      "width": 128,
+      "height": 128,
+      "bounds": {
+        "xMin": -1792,
+        "xMax": -1280,
+        "zMin": -4352,
+        "zMax": -3840,
+        "blocksWide": 512
+      },
+      "dimension": 0,
+      "dimensionName": "overworld",
+      "fullyExplored": false,
+      "mapLocked": false,
+      "unlimitedTracking": true,
+      "inferredType": "trial_explorer",
+      "decorations": [
+        {
+          "rot": 8,
+          "type": 24,
+          "typeName": "trial_chambers",
+          "x": -40,
+          "y": -8,
+          "blockX": -1616,
+          "blockY": -64,
+          "blockZ": -4112
+        }
+      ]
+    },
+    {
+      "id": -9706626076160,
+      "parentMapId": -9706626076159,
+      "file": "tiles/map_-9706626076160.png",
+      "xCenter": -3072,
+      "zCenter": 4608,
+      "scale": 2,
+      "width": 128,
+      "height": 128,
+      "bounds": {
+        "xMin": -3328,
+        "xMax": -2816,
+        "zMin": 4352,
+        "zMax": 4864,
+        "blocksWide": 512
+      },
+      "dimension": 0,
+      "dimensionName": "overworld",
+      "fullyExplored": false,
+      "mapLocked": false,
+      "unlimitedTracking": false,
+      "inferredType": "standard",
+      "decorations": []
+    },
+    {
+      "id": -9650791512804,
+      "parentMapId": -9650791512803,
+      "file": "tiles/map_-9650791512804.png",
+      "xCenter": 0,
+      "zCenter": -4608,
+      "scale": 2,
+      "width": 128,
+      "height": 128,
+      "bounds": {
+        "xMin": -256,
+        "xMax": 256,
+        "zMin": -4864,
+        "zMax": -4352,
+        "blocksWide": 512
+      },
+      "dimension": 0,
+      "dimensionName": "overworld",
+      "fullyExplored": false,
+      "mapLocked": false,
+      "unlimitedTracking": true,
+      "inferredType": "ocean_explorer",
+      "decorations": [
+        {
+          "rot": 8,
+          "type": 15,
+          "typeName": "monument",
+          "x": -60,
+          "y": 108,
+          "blockX": -120,
+          "blockY": 64,
+          "blockZ": -4392
+        }
+      ]
+    },
+    {
+      "id": -9650791512794,
+      "parentMapId": -9650791512793,
+      "file": "tiles/map_-9650791512794.png",
+      "xCenter": -2048,
+      "zCenter": -3072,
+      "scale": 2,
+      "width": 128,
+      "height": 128,
+      "bounds": {
+        "xMin": -2304,
+        "xMax": -1792,
+        "zMin": -3328,
+        "zMax": -2816,
+        "blocksWide": 512
+      },
+      "dimension": 0,
+      "dimensionName": "overworld",
+      "fullyExplored": false,
+      "mapLocked": false,
+      "unlimitedTracking": true,
+      "inferredType": "trial_explorer",
+      "decorations": [
+        {
+          "rot": 8,
+          "type": 24,
+          "typeName": "trial_chambers",
+          "x": -32,
+          "y": -96,
+          "blockX": -2112,
+          "blockY": -64,
+          "blockZ": -3264
+        }
+      ]
+    },
+    {
+      "id": -9599251899752,
+      "parentMapId": -9599251899751,
+      "file": "tiles/map_-9599251899752.png",
+      "xCenter": -1024,
+      "zCenter": -9216,
+      "scale": 2,
+      "width": 128,
+      "height": 128,
+      "bounds": {
+        "xMin": -1280,
+        "xMax": -768,
+        "zMin": -9472,
+        "zMax": -8960,
+        "blocksWide": 512
+      },
+      "dimension": 0,
+      "dimensionName": "overworld",
+      "fullyExplored": false,
+      "mapLocked": false,
+      "unlimitedTracking": true,
+      "inferredType": "treasure",
+      "decorations": [
+        {
+          "rot": 8,
+          "type": 4,
+          "typeName": "red_x",
+          "x": 36,
+          "y": -28,
+          "blockX": -952,
+          "blockY": 64,
+          "blockZ": -9272
+        }
+      ]
+    },
+    {
+      "id": -9577777066967,
+      "parentMapId": -9577777066966,
+      "file": "tiles/map_-9577777066967.png",
+      "xCenter": 10752,
+      "zCenter": -3072,
+      "scale": 2,
+      "width": 128,
+      "height": 128,
+      "bounds": {
+        "xMin": 10496,
+        "xMax": 11008,
+        "zMin": -3328,
+        "zMax": -2816,
+        "blocksWide": 512
+      },
+      "dimension": 0,
+      "dimensionName": "overworld",
+      "fullyExplored": false,
+      "mapLocked": false,
+      "unlimitedTracking": true,
+      "inferredType": "woodland_explorer",
+      "decorations": [
+        {
+          "rot": 8,
+          "type": 14,
+          "typeName": "mansion",
+          "x": 28,
+          "y": -124,
+          "blockX": 10808,
+          "blockY": 64,
+          "blockZ": -3320
+        }
+      ]
+    },
+    {
+      "id": -9577777066962,
+      "parentMapId": -9577777066961,
+      "file": "tiles/map_-9577777066962.png",
+      "xCenter": 1536,
+      "zCenter": -3072,
+      "scale": 2,
+      "width": 128,
+      "height": 128,
+      "bounds": {
+        "xMin": 1280,
+        "xMax": 1792,
+        "zMin": -3328,
+        "zMax": -2816,
+        "blocksWide": 512
+      },
+      "dimension": 0,
+      "dimensionName": "overworld",
+      "fullyExplored": false,
+      "mapLocked": false,
+      "unlimitedTracking": true,
+      "inferredType": "trial_explorer",
+      "decorations": [
+        {
+          "rot": 8,
+          "type": 24,
+          "typeName": "trial_chambers",
+          "x": 64,
+          "y": -24,
+          "blockX": 1664,
+          "blockY": -64,
+          "blockZ": -3120
+        }
+      ]
+    },
+    {
+      "id": -9560597188034,
+      "parentMapId": -9560597188033,
+      "file": "tiles/map_-9560597188034.png",
+      "xCenter": -3072,
+      "zCenter": 1024,
+      "scale": 2,
+      "width": 128,
+      "height": 128,
+      "bounds": {
+        "xMin": -3328,
+        "xMax": -2816,
+        "zMin": 768,
+        "zMax": 1280,
+        "blocksWide": 512
+      },
+      "dimension": 0,
+      "dimensionName": "overworld",
+      "fullyExplored": false,
+      "mapLocked": false,
+      "unlimitedTracking": true,
+      "inferredType": "treasure",
+      "decorations": [
+        {
+          "rot": 8,
+          "type": 4,
+          "typeName": "red_x",
+          "x": 100,
+          "y": -28,
+          "blockX": -2872,
+          "blockY": 64,
+          "blockZ": 968
+        }
+      ]
+    },
+    {
+      "id": -9560597188028,
+      "parentMapId": -9560597188027,
+      "file": "tiles/map_-9560597188028.png",
+      "xCenter": -4096,
+      "zCenter": -512,
+      "scale": 2,
+      "width": 128,
+      "height": 128,
+      "bounds": {
+        "xMin": -4352,
+        "xMax": -3840,
+        "zMin": -768,
+        "zMax": -256,
+        "blocksWide": 512
+      },
+      "dimension": 0,
+      "dimensionName": "overworld",
+      "fullyExplored": false,
+      "mapLocked": false,
+      "unlimitedTracking": true,
+      "inferredType": "treasure",
+      "decorations": [
+        {
+          "rot": 8,
+          "type": 4,
+          "typeName": "red_x",
+          "x": -28,
+          "y": -28,
+          "blockX": -4152,
+          "blockY": 64,
+          "blockZ": -568
+        },
+        {
+          "rot": 0,
+          "type": 1,
+          "typeName": "frame",
+          "x": 127,
+          "y": 127,
+          "blockX": -1957,
+          "blockY": 102,
+          "blockZ": 50
+        }
+      ]
+    },
+    {
+      "id": -9560597180945,
+      "parentMapId": -9560597180944,
+      "file": "tiles/map_-9560597180945.png",
+      "xCenter": -3584,
+      "zCenter": 512,
+      "scale": 2,
+      "width": 128,
+      "height": 128,
+      "bounds": {
+        "xMin": -3840,
+        "xMax": -3328,
+        "zMin": 256,
+        "zMax": 768,
+        "blocksWide": 512
+      },
+      "dimension": 0,
+      "dimensionName": "overworld",
+      "fullyExplored": false,
+      "mapLocked": false,
+      "unlimitedTracking": false,
+      "inferredType": "standard",
+      "decorations": []
+    },
+    {
+      "id": -9556302227619,
+      "parentMapId": -9556302227618,
+      "file": "tiles/map_-9556302227619.png",
+      "xCenter": -3584,
+      "zCenter": 0,
+      "scale": 2,
+      "width": 128,
+      "height": 128,
+      "bounds": {
+        "xMin": -3840,
+        "xMax": -3328,
+        "zMin": -256,
+        "zMax": 256,
+        "blocksWide": 512
+      },
+      "dimension": 0,
+      "dimensionName": "overworld",
+      "fullyExplored": false,
+      "mapLocked": false,
+      "unlimitedTracking": false,
+      "inferredType": "standard",
+      "decorations": []
+    },
+    {
+      "id": -9556302215547,
+      "parentMapId": -9556302215546,
+      "file": "tiles/map_-9556302215547.png",
+      "xCenter": -2048,
+      "zCenter": -512,
+      "scale": 2,
+      "width": 128,
+      "height": 128,
+      "bounds": {
+        "xMin": -2304,
+        "xMax": -1792,
+        "zMin": -768,
+        "zMax": -256,
+        "blocksWide": 512
+      },
+      "dimension": 0,
+      "dimensionName": "overworld",
+      "fullyExplored": false,
+      "mapLocked": false,
+      "unlimitedTracking": true,
+      "inferredType": "treasure",
+      "decorations": [
+        {
+          "rot": 8,
+          "type": 4,
+          "typeName": "red_x",
+          "x": -52,
+          "y": 100,
+          "blockX": -2152,
+          "blockY": 64,
+          "blockZ": -312
+        }
+      ]
+    },
+    {
+      "id": -9530532407372,
+      "parentMapId": -9530532407371,
+      "file": "tiles/map_-9530532407372.png",
+      "xCenter": -2048,
+      "zCenter": -9728,
+      "scale": 2,
+      "width": 128,
+      "height": 128,
+      "bounds": {
+        "xMin": -2304,
+        "xMax": -1792,
+        "zMin": -9984,
+        "zMax": -9472,
+        "blocksWide": 512
+      },
+      "dimension": 0,
+      "dimensionName": "overworld",
+      "fullyExplored": false,
+      "mapLocked": false,
+      "unlimitedTracking": true,
+      "inferredType": "ocean_explorer",
+      "decorations": [
+        {
+          "rot": 8,
+          "type": 15,
+          "typeName": "monument",
+          "x": -116,
+          "y": 76,
+          "blockX": -2280,
+          "blockY": 64,
+          "blockZ": -9576
+        }
+      ]
+    },
+    {
+      "id": -9530532407362,
+      "parentMapId": -9530532407361,
+      "file": "tiles/map_-9530532407362.png",
+      "xCenter": -1024,
+      "zCenter": -7680,
+      "scale": 2,
+      "width": 128,
+      "height": 128,
+      "bounds": {
+        "xMin": -1280,
+        "xMax": -768,
+        "zMin": -7936,
+        "zMax": -7424,
+        "blocksWide": 512
+      },
+      "dimension": 0,
+      "dimensionName": "overworld",
+      "fullyExplored": false,
+      "mapLocked": false,
+      "unlimitedTracking": true,
+      "inferredType": "trial_explorer",
+      "decorations": [
+        {
+          "rot": 8,
+          "type": 24,
+          "typeName": "trial_chambers",
+          "x": 0,
+          "y": -104,
+          "blockX": -1024,
+          "blockY": -64,
+          "blockZ": -7888
+        }
+      ]
+    },
+    {
+      "id": -9517647523318,
+      "parentMapId": -9517647523317,
+      "file": "tiles/map_-9517647523318.png",
+      "xCenter": -5632,
+      "zCenter": -1536,
+      "scale": 2,
+      "width": 128,
+      "height": 128,
+      "bounds": {
+        "xMin": -5888,
+        "xMax": -5376,
+        "zMin": -1792,
+        "zMax": -1280,
+        "blocksWide": 512
+      },
+      "dimension": 0,
+      "dimensionName": "overworld",
+      "fullyExplored": false,
+      "mapLocked": false,
+      "unlimitedTracking": true,
+      "inferredType": "ocean_explorer",
+      "decorations": [
+        {
+          "rot": 8,
+          "type": 15,
+          "typeName": "monument",
+          "x": 92,
+          "y": 100,
+          "blockX": -5448,
+          "blockY": 64,
+          "blockZ": -1336
+        }
+      ]
+    },
+    {
+      "id": -9517647523308,
+      "parentMapId": -9517647523307,
+      "file": "tiles/map_-9517647523308.png",
+      "xCenter": -3584,
+      "zCenter": -3584,
+      "scale": 2,
+      "width": 128,
+      "height": 128,
+      "bounds": {
+        "xMin": -3840,
+        "xMax": -3328,
+        "zMin": -3840,
+        "zMax": -3328,
+        "blocksWide": 512
+      },
+      "dimension": 0,
+      "dimensionName": "overworld",
+      "fullyExplored": false,
+      "mapLocked": false,
+      "unlimitedTracking": true,
+      "inferredType": "trial_explorer",
+      "decorations": [
+        {
+          "rot": 8,
+          "type": 24,
+          "typeName": "trial_chambers",
+          "x": -88,
+          "y": -88,
+          "blockX": -3760,
+          "blockY": -64,
+          "blockZ": -3760
+        }
+      ]
+    },
+    {
+      "id": -9517647522623,
+      "parentMapId": -9517647522622,
+      "file": "tiles/map_-9517647522623.png",
+      "xCenter": 3584,
+      "zCenter": -8704,
+      "scale": 2,
+      "width": 128,
+      "height": 128,
+      "bounds": {
+        "xMin": 3328,
+        "xMax": 3840,
+        "zMin": -8960,
+        "zMax": -8448,
+        "blocksWide": 512
+      },
+      "dimension": 0,
+      "dimensionName": "overworld",
+      "fullyExplored": false,
+      "mapLocked": false,
+      "unlimitedTracking": true,
+      "inferredType": "ocean_explorer",
+      "decorations": [
+        {
+          "rot": 8,
+          "type": 15,
+          "typeName": "monument",
+          "x": -108,
+          "y": 92,
+          "blockX": 3368,
+          "blockY": 64,
+          "blockZ": -8520
+        }
+      ]
+    },
+    {
+      "id": -9517647522613,
+      "parentMapId": -9517647522612,
+      "file": "tiles/map_-9517647522613.png",
+      "xCenter": 3072,
+      "zCenter": -7168,
+      "scale": 2,
+      "width": 128,
+      "height": 128,
+      "bounds": {
+        "xMin": 2816,
+        "xMax": 3328,
+        "zMin": -7424,
+        "zMax": -6912,
+        "blocksWide": 512
+      },
+      "dimension": 0,
+      "dimensionName": "overworld",
+      "fullyExplored": false,
+      "mapLocked": false,
+      "unlimitedTracking": true,
+      "inferredType": "trial_explorer",
+      "decorations": [
+        {
+          "rot": 8,
+          "type": 24,
+          "typeName": "trial_chambers",
+          "x": -88,
+          "y": -56,
+          "blockX": 2896,
+          "blockY": -64,
+          "blockZ": -7280
+        }
+      ]
+    },
+    {
+      "id": -9517647520308,
+      "parentMapId": -9517647520307,
+      "file": "tiles/map_-9517647520308.png",
+      "xCenter": 1536,
+      "zCenter": -8704,
+      "scale": 2,
+      "width": 128,
+      "height": 128,
+      "bounds": {
+        "xMin": 1280,
+        "xMax": 1792,
+        "zMin": -8960,
+        "zMax": -8448,
+        "blocksWide": 512
+      },
+      "dimension": 0,
+      "dimensionName": "overworld",
+      "fullyExplored": false,
+      "mapLocked": false,
+      "unlimitedTracking": true,
+      "inferredType": "treasure",
+      "decorations": [
+        {
+          "rot": 8,
+          "type": 4,
+          "typeName": "red_x",
+          "x": -92,
+          "y": -60,
+          "blockX": 1352,
+          "blockY": 64,
+          "blockZ": -8824
+        }
+      ]
+    },
+    {
+      "id": -9517647520288,
+      "parentMapId": -9517647520287,
+      "file": "tiles/map_-9517647520288.png",
+      "xCenter": 1024,
+      "zCenter": -8192,
+      "scale": 2,
+      "width": 128,
+      "height": 128,
+      "bounds": {
+        "xMin": 768,
+        "xMax": 1280,
+        "zMin": -8448,
+        "zMax": -7936,
+        "blocksWide": 512
+      },
+      "dimension": 0,
+      "dimensionName": "overworld",
+      "fullyExplored": false,
+      "mapLocked": false,
+      "unlimitedTracking": true,
+      "inferredType": "treasure",
+      "decorations": [
+        {
+          "rot": 8,
+          "type": 4,
+          "typeName": "red_x",
+          "x": 68,
+          "y": -116,
+          "blockX": 1160,
+          "blockY": 64,
+          "blockZ": -8424
+        }
+      ]
+    },
+    {
+      "id": -9517647516727,
+      "parentMapId": -9517647516726,
+      "file": "tiles/map_-9517647516727.png",
+      "xCenter": 2560,
+      "zCenter": -7680,
+      "scale": 2,
+      "width": 128,
+      "height": 128,
+      "bounds": {
+        "xMin": 2304,
+        "xMax": 2816,
+        "zMin": -7936,
+        "zMax": -7424,
+        "blocksWide": 512
+      },
+      "dimension": 0,
+      "dimensionName": "overworld",
+      "fullyExplored": false,
+      "mapLocked": false,
+      "unlimitedTracking": true,
+      "inferredType": "treasure",
+      "decorations": [
+        {
+          "rot": 8,
+          "type": 4,
+          "typeName": "red_x",
+          "x": -60,
+          "y": -116,
+          "blockX": 2440,
+          "blockY": 64,
+          "blockZ": -7912
+        }
+      ]
+    },
+    {
+      "id": -9517647516701,
+      "parentMapId": -9517647516700,
+      "file": "tiles/map_-9517647516701.png",
+      "xCenter": 2560,
+      "zCenter": -8192,
+      "scale": 2,
+      "width": 128,
+      "height": 128,
+      "bounds": {
+        "xMin": 2304,
+        "xMax": 2816,
+        "zMin": -8448,
+        "zMax": -7936,
+        "blocksWide": 512
+      },
+      "dimension": 0,
+      "dimensionName": "overworld",
+      "fullyExplored": false,
+      "mapLocked": false,
+      "unlimitedTracking": true,
+      "inferredType": "treasure",
+      "decorations": [
+        {
+          "rot": 8,
+          "type": 4,
+          "typeName": "red_x",
+          "x": 36,
+          "y": 12,
+          "blockX": 2632,
+          "blockY": 64,
+          "blockZ": -8168
+        }
+      ]
+    },
+    {
+      "id": -9504762625199,
+      "parentMapId": -9504762625198,
+      "file": "tiles/map_-9504762625199.png",
+      "xCenter": -3584,
+      "zCenter": -3072,
+      "scale": 2,
+      "width": 128,
+      "height": 128,
+      "bounds": {
+        "xMin": -3840,
+        "xMax": -3328,
+        "zMin": -3328,
+        "zMax": -2816,
+        "blocksWide": 512
+      },
+      "dimension": 0,
+      "dimensionName": "overworld",
+      "fullyExplored": false,
+      "mapLocked": false,
+      "unlimitedTracking": false,
+      "inferredType": "standard",
+      "decorations": []
+    },
+    {
+      "id": -9487582754065,
+      "parentMapId": -9487582754064,
+      "file": "tiles/map_-9487582754065.png",
+      "xCenter": -3584,
+      "zCenter": -2560,
+      "scale": 2,
+      "width": 128,
+      "height": 128,
+      "bounds": {
+        "xMin": -3840,
+        "xMax": -3328,
+        "zMin": -2816,
+        "zMax": -2304,
+        "blocksWide": 512
+      },
+      "dimension": 0,
+      "dimensionName": "overworld",
+      "fullyExplored": false,
+      "mapLocked": false,
+      "unlimitedTracking": false,
+      "inferredType": "standard",
+      "decorations": []
+    },
+    {
+      "id": -9457517977410,
+      "parentMapId": -9457517977409,
+      "file": "tiles/map_-9457517977410.png",
+      "xCenter": -3072,
+      "zCenter": -512,
+      "scale": 2,
+      "width": 128,
+      "height": 128,
+      "bounds": {
+        "xMin": -3328,
+        "xMax": -2816,
+        "zMin": -768,
+        "zMax": -256,
+        "blocksWide": 512
+      },
+      "dimension": 0,
+      "dimensionName": "overworld",
+      "fullyExplored": false,
+      "mapLocked": false,
+      "unlimitedTracking": false,
+      "inferredType": "standard",
+      "decorations": []
+    },
+    {
+      "id": -9436043147785,
+      "parentMapId": -9436043147784,
+      "file": "tiles/map_-9436043147785.png",
+      "xCenter": 1024,
+      "zCenter": -6144,
+      "scale": 2,
+      "width": 128,
+      "height": 128,
+      "bounds": {
+        "xMin": 768,
+        "xMax": 1280,
+        "zMin": -6400,
+        "zMax": -5888,
+        "blocksWide": 512
+      },
+      "dimension": 0,
+      "dimensionName": "overworld",
+      "fullyExplored": false,
+      "mapLocked": false,
+      "unlimitedTracking": false,
+      "inferredType": "standard",
+      "decorations": []
+    },
+    {
+      "id": -9423158246108,
+      "parentMapId": -9423158246107,
+      "file": "tiles/map_-9423158246108.png",
+      "xCenter": 512,
+      "zCenter": 4608,
+      "scale": 2,
+      "width": 128,
+      "height": 128,
+      "bounds": {
+        "xMin": 256,
+        "xMax": 768,
+        "zMin": 4352,
+        "zMax": 4864,
+        "blocksWide": 512
+      },
+      "dimension": 0,
+      "dimensionName": "overworld",
+      "fullyExplored": false,
+      "mapLocked": false,
+      "unlimitedTracking": false,
+      "inferredType": "standard",
+      "decorations": []
+    },
+    {
+      "id": -9384503539852,
+      "parentMapId": -9384503539851,
+      "file": "tiles/map_-9384503539852.png",
+      "xCenter": -1024,
+      "zCenter": -5632,
+      "scale": 2,
+      "width": 128,
+      "height": 128,
+      "bounds": {
+        "xMin": -1280,
+        "xMax": -768,
+        "zMin": -5888,
+        "zMax": -5376,
+        "blocksWide": 512
+      },
+      "dimension": 0,
+      "dimensionName": "overworld",
+      "fullyExplored": false,
+      "mapLocked": false,
+      "unlimitedTracking": true,
+      "inferredType": "treasure",
+      "decorations": [
+        {
+          "rot": 8,
+          "type": 4,
+          "typeName": "red_x",
+          "x": -92,
+          "y": -60,
+          "blockX": -1208,
+          "blockY": 64,
+          "blockZ": -5752
+        }
+      ]
+    },
+    {
+      "id": -9324373998435,
+      "parentMapId": -9324373998434,
+      "file": "tiles/map_-9324373998435.png",
+      "xCenter": -512,
+      "zCenter": -6144,
+      "scale": 2,
+      "width": 128,
+      "height": 128,
+      "bounds": {
+        "xMin": -768,
+        "xMax": -256,
+        "zMin": -6400,
+        "zMax": -5888,
+        "blocksWide": 512
+      },
+      "dimension": 0,
+      "dimensionName": "overworld",
+      "fullyExplored": false,
+      "mapLocked": false,
+      "unlimitedTracking": true,
+      "inferredType": "ocean_explorer",
+      "decorations": [
+        {
+          "rot": 8,
+          "type": 15,
+          "typeName": "monument",
+          "x": -67,
+          "y": -99,
+          "blockX": -648,
+          "blockY": 64,
+          "blockZ": -6344
+        }
+      ]
+    },
+    {
+      "id": -9324373998425,
+      "parentMapId": -9324373998424,
+      "file": "tiles/map_-9324373998425.png",
+      "xCenter": -2048,
+      "zCenter": -7168,
+      "scale": 2,
+      "width": 128,
+      "height": 128,
+      "bounds": {
+        "xMin": -2304,
+        "xMax": -1792,
+        "zMin": -7424,
+        "zMax": -6912,
+        "blocksWide": 512
+      },
+      "dimension": 0,
+      "dimensionName": "overworld",
+      "fullyExplored": false,
+      "mapLocked": false,
+      "unlimitedTracking": true,
+      "inferredType": "trial_explorer",
+      "decorations": [
+        {
+          "rot": 8,
+          "type": 24,
+          "typeName": "trial_chambers",
+          "x": -55,
+          "y": 80,
+          "blockX": -2160,
+          "blockY": -64,
+          "blockZ": -7008
+        }
+      ]
+    },
+    {
+      "id": -9324373997600,
+      "parentMapId": -9324373997599,
+      "file": "tiles/map_-9324373997600.png",
+      "xCenter": -2560,
+      "zCenter": -7680,
+      "scale": 2,
+      "width": 128,
+      "height": 128,
+      "bounds": {
+        "xMin": -2816,
+        "xMax": -2304,
+        "zMin": -7936,
+        "zMax": -7424,
+        "blocksWide": 512
+      },
+      "dimension": 0,
+      "dimensionName": "overworld",
+      "fullyExplored": false,
+      "mapLocked": false,
+      "unlimitedTracking": true,
+      "inferredType": "trial_explorer",
+      "decorations": [
+        {
+          "rot": 8,
+          "type": 24,
+          "typeName": "trial_chambers",
+          "x": -71,
+          "y": 112,
+          "blockX": -2704,
+          "blockY": -64,
+          "blockZ": -7456
+        }
+      ]
+    },
+    {
+      "id": -9320079028517,
+      "parentMapId": -9320079028516,
+      "file": "tiles/map_-9320079028517.png",
+      "xCenter": -7168,
+      "zCenter": 7168,
+      "scale": 2,
+      "width": 128,
+      "height": 128,
+      "bounds": {
+        "xMin": -7424,
+        "xMax": -6912,
+        "zMin": 6912,
+        "zMax": 7424,
+        "blocksWide": 512
+      },
+      "dimension": 0,
+      "dimensionName": "overworld",
+      "fullyExplored": false,
+      "mapLocked": false,
+      "unlimitedTracking": true,
+      "inferredType": "treasure",
+      "decorations": [
+        {
+          "rot": 8,
+          "type": 4,
+          "typeName": "red_x",
+          "x": 36,
+          "y": 44,
+          "blockX": -7096,
+          "blockY": 64,
+          "blockZ": 7256
+        }
+      ]
+    },
+    {
+      "id": -9320079028505,
+      "parentMapId": -9320079028504,
+      "file": "tiles/map_-9320079028505.png",
+      "xCenter": -7168,
+      "zCenter": 7680,
+      "scale": 2,
+      "width": 128,
+      "height": 128,
+      "bounds": {
+        "xMin": -7424,
+        "xMax": -6912,
+        "zMin": 7424,
+        "zMax": 7936,
+        "blocksWide": 512
+      },
+      "dimension": 0,
+      "dimensionName": "overworld",
+      "fullyExplored": false,
+      "mapLocked": false,
+      "unlimitedTracking": true,
+      "inferredType": "treasure",
+      "decorations": [
+        {
+          "rot": 8,
+          "type": 4,
+          "typeName": "red_x",
+          "x": 4,
+          "y": -91,
+          "blockX": -7160,
+          "blockY": 64,
+          "blockZ": 7496
+        }
+      ]
+    },
+    {
+      "id": -9320079025746,
+      "parentMapId": -9320079025745,
+      "file": "tiles/map_-9320079025746.png",
+      "xCenter": -10752,
+      "zCenter": 13824,
+      "scale": 2,
+      "width": 128,
+      "height": 128,
+      "bounds": {
+        "xMin": -11008,
+        "xMax": -10496,
+        "zMin": 13568,
+        "zMax": 14080,
+        "blocksWide": 512
+      },
+      "dimension": 0,
+      "dimensionName": "overworld",
+      "fullyExplored": false,
+      "mapLocked": false,
+      "unlimitedTracking": true,
+      "inferredType": "ocean_explorer",
+      "decorations": [
+        {
+          "rot": 8,
+          "type": 15,
+          "typeName": "monument",
+          "x": 76,
+          "y": -83,
+          "blockX": -10600,
+          "blockY": 64,
+          "blockZ": 13656
+        }
+      ]
+    },
+    {
+      "id": -9320079025736,
+      "parentMapId": -9320079025735,
+      "file": "tiles/map_-9320079025736.png",
+      "xCenter": -7680,
+      "zCenter": 12800,
+      "scale": 2,
+      "width": 128,
+      "height": 128,
+      "bounds": {
+        "xMin": -7936,
+        "xMax": -7424,
+        "zMin": 12544,
+        "zMax": 13056,
+        "blocksWide": 512
+      },
+      "dimension": 0,
+      "dimensionName": "overworld",
+      "fullyExplored": false,
+      "mapLocked": false,
+      "unlimitedTracking": true,
+      "inferredType": "trial_explorer",
+      "decorations": [
+        {
+          "rot": 8,
+          "type": 24,
+          "typeName": "trial_chambers",
+          "x": 64,
+          "y": -63,
+          "blockX": -7552,
+          "blockY": -64,
+          "blockZ": 12672
+        }
+      ]
+    },
+    {
+      "id": -9315784060770,
+      "parentMapId": -9315784060769,
+      "file": "tiles/map_-9315784060770.png",
+      "xCenter": -7168,
+      "zCenter": 14848,
+      "scale": 2,
+      "width": 128,
+      "height": 128,
+      "bounds": {
+        "xMin": -7424,
+        "xMax": -6912,
+        "zMin": 14592,
+        "zMax": 15104,
+        "blocksWide": 512
+      },
+      "dimension": 0,
+      "dimensionName": "overworld",
+      "fullyExplored": false,
+      "mapLocked": false,
+      "unlimitedTracking": true,
+      "inferredType": "woodland_explorer",
+      "decorations": [
+        {
+          "rot": 8,
+          "type": 14,
+          "typeName": "mansion",
+          "x": -123,
+          "y": 4,
+          "blockX": -7416,
+          "blockY": 64,
+          "blockZ": 14856
+        }
+      ]
+    },
+    {
+      "id": -9268539420915,
+      "parentMapId": -9268539420914,
+      "file": "tiles/map_-9268539420915.png",
+      "xCenter": -1536,
+      "zCenter": -6656,
+      "scale": 2,
+      "width": 128,
+      "height": 128,
+      "bounds": {
+        "xMin": -1792,
+        "xMax": -1280,
+        "zMin": -6912,
+        "zMax": -6400,
+        "blocksWide": 512
+      },
+      "dimension": 0,
+      "dimensionName": "overworld",
+      "fullyExplored": false,
+      "mapLocked": false,
+      "unlimitedTracking": true,
+      "inferredType": "trial_explorer",
+      "decorations": [
+        {
+          "rot": 8,
+          "type": 24,
+          "typeName": "trial_chambers",
+          "x": 120,
+          "y": -55,
+          "blockX": -1296,
+          "blockY": -64,
+          "blockZ": -6768
+        }
+      ]
+    },
+    {
+      "id": -9234179685086,
+      "parentMapId": -9234179685085,
+      "file": "tiles/map_-9234179685086.png",
+      "xCenter": -3584,
+      "zCenter": -6144,
+      "scale": 2,
+      "width": 128,
+      "height": 128,
+      "bounds": {
+        "xMin": -3840,
+        "xMax": -3328,
+        "zMin": -6400,
+        "zMax": -5888,
+        "blocksWide": 512
+      },
+      "dimension": 0,
+      "dimensionName": "overworld",
+      "fullyExplored": false,
+      "mapLocked": false,
+      "unlimitedTracking": true,
+      "inferredType": "ocean_explorer",
+      "decorations": [
+        {
+          "rot": 8,
+          "type": 15,
+          "typeName": "monument",
+          "x": 68,
+          "y": -123,
+          "blockX": -3448,
+          "blockY": 64,
+          "blockZ": -6392
+        }
+      ]
+    },
+    {
+      "id": -9234179685076,
+      "parentMapId": -9234179685075,
+      "file": "tiles/map_-9234179685076.png",
+      "xCenter": -2560,
+      "zCenter": -6656,
+      "scale": 2,
+      "width": 128,
+      "height": 128,
+      "bounds": {
+        "xMin": -2816,
+        "xMax": -2304,
+        "zMin": -6912,
+        "zMax": -6400,
+        "blocksWide": 512
+      },
+      "dimension": 0,
+      "dimensionName": "overworld",
+      "fullyExplored": false,
+      "mapLocked": false,
+      "unlimitedTracking": true,
+      "inferredType": "trial_explorer",
+      "decorations": [
+        {
+          "rot": 8,
+          "type": 24,
+          "typeName": "trial_chambers",
+          "x": -31,
+          "y": -79,
+          "blockX": -2624,
+          "blockY": -64,
+          "blockZ": -6816
+        }
+      ]
+    },
+    {
       "id": -9156870274931,
       "parentMapId": -9156870274930,
       "file": "tiles/map_-9156870274931.png",
@@ -2419,41 +4653,6 @@
           "blockX": -4328,
           "blockY": 64,
           "blockZ": 1832
-        }
-      ]
-    },
-    {
-      "id": -9156870274926,
-      "parentMapId": -9156870274925,
-      "file": "tiles/map_-9156870274926.png",
-      "xCenter": -7168,
-      "zCenter": 14848,
-      "scale": 2,
-      "width": 128,
-      "height": 128,
-      "bounds": {
-        "xMin": -7424,
-        "xMax": -6912,
-        "zMin": 14592,
-        "zMax": 15104,
-        "blocksWide": 512
-      },
-      "dimension": 0,
-      "dimensionName": "overworld",
-      "fullyExplored": false,
-      "mapLocked": false,
-      "unlimitedTracking": true,
-      "inferredType": "woodland_explorer",
-      "decorations": [
-        {
-          "rot": 8,
-          "type": 14,
-          "typeName": "mansion",
-          "x": -123,
-          "y": 4,
-          "blockX": -7416,
-          "blockY": 64,
-          "blockZ": 14856
         }
       ]
     },
@@ -2493,30 +4692,6 @@
       ]
     },
     {
-      "id": -9088150797335,
-      "parentMapId": -9088150797334,
-      "file": "tiles/map_-9088150797335.png",
-      "xCenter": -3584,
-      "zCenter": 0,
-      "scale": 2,
-      "width": 128,
-      "height": 128,
-      "bounds": {
-        "xMin": -3840,
-        "xMax": -3328,
-        "zMin": -256,
-        "zMax": 256,
-        "blocksWide": 512
-      },
-      "dimension": 0,
-      "dimensionName": "overworld",
-      "fullyExplored": false,
-      "mapLocked": false,
-      "unlimitedTracking": false,
-      "inferredType": "standard",
-      "decorations": []
-    },
-    {
       "id": -9028021249962,
       "parentMapId": -9028021249961,
       "file": "tiles/map_-9028021249962.png",
@@ -2548,41 +4723,6 @@
           "blockX": -3560,
           "blockY": 64,
           "blockZ": -504
-        }
-      ]
-    },
-    {
-      "id": -9028021249927,
-      "parentMapId": -9028021249926,
-      "file": "tiles/map_-9028021249927.png",
-      "xCenter": -4096,
-      "zCenter": -512,
-      "scale": 2,
-      "width": 128,
-      "height": 128,
-      "bounds": {
-        "xMin": -4352,
-        "xMax": -3840,
-        "zMin": -768,
-        "zMax": -256,
-        "blocksWide": 512
-      },
-      "dimension": 0,
-      "dimensionName": "overworld",
-      "fullyExplored": false,
-      "mapLocked": false,
-      "unlimitedTracking": true,
-      "inferredType": "treasure",
-      "decorations": [
-        {
-          "rot": 8,
-          "type": 4,
-          "typeName": "red_x",
-          "x": 108,
-          "y": -123,
-          "blockX": -3880,
-          "blockY": 64,
-          "blockZ": -760
         }
       ]
     },
@@ -2797,41 +4937,6 @@
       ]
     },
     {
-      "id": -8851927594758,
-      "parentMapId": -8851927594757,
-      "file": "tiles/map_-8851927594758.png",
-      "xCenter": 10752,
-      "zCenter": -3072,
-      "scale": 2,
-      "width": 128,
-      "height": 128,
-      "bounds": {
-        "xMin": 10496,
-        "xMax": 11008,
-        "zMin": -3328,
-        "zMax": -2816,
-        "blocksWide": 512
-      },
-      "dimension": 0,
-      "dimensionName": "overworld",
-      "fullyExplored": false,
-      "mapLocked": false,
-      "unlimitedTracking": true,
-      "inferredType": "woodland_explorer",
-      "decorations": [
-        {
-          "rot": 8,
-          "type": 14,
-          "typeName": "mansion",
-          "x": 28,
-          "y": -123,
-          "blockX": 10808,
-          "blockY": 64,
-          "blockZ": -3320
-        }
-      ]
-    },
-    {
       "id": -8847632627824,
       "parentMapId": -8847632627823,
       "file": "tiles/map_-8847632627824.png",
@@ -2928,30 +5033,6 @@
       "decorations": []
     },
     {
-      "id": -8546984910358,
-      "parentMapId": -8546984910357,
-      "file": "tiles/map_-8546984910358.png",
-      "xCenter": 2048,
-      "zCenter": 2560,
-      "scale": 2,
-      "width": 128,
-      "height": 128,
-      "bounds": {
-        "xMin": 1792,
-        "xMax": 2304,
-        "zMin": 2304,
-        "zMax": 2816,
-        "blocksWide": 512
-      },
-      "dimension": 0,
-      "dimensionName": "overworld",
-      "fullyExplored": false,
-      "mapLocked": false,
-      "unlimitedTracking": false,
-      "inferredType": "standard",
-      "decorations": []
-    },
-    {
       "id": -8546984907305,
       "parentMapId": -8546984907304,
       "file": "tiles/map_-8546984907305.png",
@@ -3000,149 +5081,9 @@
       "decorations": []
     },
     {
-      "id": -7730941132610,
-      "parentMapId": -7730941132609,
-      "file": "tiles/map_-7730941132610.png",
-      "xCenter": 0,
-      "zCenter": -4608,
-      "scale": 2,
-      "width": 128,
-      "height": 128,
-      "bounds": {
-        "xMin": -256,
-        "xMax": 256,
-        "zMin": -4864,
-        "zMax": -4352,
-        "blocksWide": 512
-      },
-      "dimension": 0,
-      "dimensionName": "overworld",
-      "fullyExplored": false,
-      "mapLocked": false,
-      "unlimitedTracking": true,
-      "inferredType": "ocean_explorer",
-      "decorations": [
-        {
-          "rot": 8,
-          "type": 15,
-          "typeName": "monument",
-          "x": -59,
-          "y": 108,
-          "blockX": -120,
-          "blockY": 64,
-          "blockZ": -4392
-        }
-      ]
-    },
-    {
-      "id": -7666516622945,
-      "parentMapId": -7666516622944,
-      "file": "tiles/map_-7666516622945.png",
-      "xCenter": 512,
-      "zCenter": -1536,
-      "scale": 2,
-      "width": 128,
-      "height": 128,
-      "bounds": {
-        "xMin": 256,
-        "xMax": 768,
-        "zMin": -1792,
-        "zMax": -1280,
-        "blocksWide": 512
-      },
-      "dimension": 0,
-      "dimensionName": "overworld",
-      "fullyExplored": false,
-      "mapLocked": false,
-      "unlimitedTracking": true,
-      "inferredType": "ocean_explorer",
-      "decorations": [
-        {
-          "rot": 8,
-          "type": 15,
-          "typeName": "monument",
-          "x": 84,
-          "y": 68,
-          "blockX": 680,
-          "blockY": 64,
-          "blockZ": -1400
-        }
-      ]
-    },
-    {
-      "id": -6884832566517,
-      "parentMapId": -6884832566516,
-      "file": "tiles/map_-6884832566517.png",
-      "xCenter": -5632,
-      "zCenter": -1536,
-      "scale": 2,
-      "width": 128,
-      "height": 128,
-      "bounds": {
-        "xMin": -5888,
-        "xMax": -5376,
-        "zMin": -1792,
-        "zMax": -1280,
-        "blocksWide": 512
-      },
-      "dimension": 0,
-      "dimensionName": "overworld",
-      "fullyExplored": false,
-      "mapLocked": false,
-      "unlimitedTracking": true,
-      "inferredType": "ocean_explorer",
-      "decorations": [
-        {
-          "rot": 8,
-          "type": 15,
-          "typeName": "monument",
-          "x": 92,
-          "y": 100,
-          "blockX": -5448,
-          "blockY": 64,
-          "blockZ": -1336
-        }
-      ]
-    },
-    {
-      "id": -6884832566512,
-      "parentMapId": -6884832566511,
-      "file": "tiles/map_-6884832566512.png",
-      "xCenter": -4608,
-      "zCenter": -14848,
-      "scale": 2,
-      "width": 128,
-      "height": 128,
-      "bounds": {
-        "xMin": -4864,
-        "xMax": -4352,
-        "zMin": -15104,
-        "zMax": -14592,
-        "blocksWide": 512
-      },
-      "dimension": 0,
-      "dimensionName": "overworld",
-      "fullyExplored": false,
-      "mapLocked": false,
-      "unlimitedTracking": true,
-      "inferredType": "woodland_explorer",
-      "decorations": [
-        {
-          "rot": 8,
-          "type": 14,
-          "typeName": "mansion",
-          "x": -75,
-          "y": -59,
-          "blockX": -4760,
-          "blockY": 64,
-          "blockZ": -14968
-        }
-      ]
-    },
-    {
-      "id": -6803228195890,
-      "parentMapId": -6803228195889,
-      "file": "tiles/map_-6803228195890.png",
+      "id": -6803228195830,
+      "parentMapId": -6803228195829,
+      "file": "tiles/map_-6803228195830.png",
       "xCenter": 2048,
       "zCenter": 1024,
       "scale": 2,
@@ -3171,41 +5112,6 @@
           "blockX": 2184,
           "blockY": 64,
           "blockZ": 1096
-        }
-      ]
-    },
-    {
-      "id": -6803228194320,
-      "parentMapId": -6803228194319,
-      "file": "tiles/map_-6803228194320.png",
-      "xCenter": -2048,
-      "zCenter": 512,
-      "scale": 2,
-      "width": 128,
-      "height": 128,
-      "bounds": {
-        "xMin": -2304,
-        "xMax": -1792,
-        "zMin": 256,
-        "zMax": 768,
-        "blocksWide": 512
-      },
-      "dimension": 0,
-      "dimensionName": "overworld",
-      "fullyExplored": false,
-      "mapLocked": false,
-      "unlimitedTracking": true,
-      "inferredType": "ocean_explorer",
-      "decorations": [
-        {
-          "rot": 8,
-          "type": 15,
-          "typeName": "monument",
-          "x": 92,
-          "y": 36,
-          "blockX": -1864,
-          "blockY": 64,
-          "blockZ": 584
         }
       ]
     },
@@ -3241,41 +5147,6 @@
           "blockX": -696,
           "blockY": 64,
           "blockZ": -3912
-        }
-      ]
-    },
-    {
-      "id": -6562710026140,
-      "parentMapId": -6562710026139,
-      "file": "tiles/map_-6562710026140.png",
-      "xCenter": 2048,
-      "zCenter": 512,
-      "scale": 2,
-      "width": 128,
-      "height": 128,
-      "bounds": {
-        "xMin": 1792,
-        "xMax": 2304,
-        "zMin": 256,
-        "zMax": 768,
-        "blocksWide": 512
-      },
-      "dimension": 0,
-      "dimensionName": "overworld",
-      "fullyExplored": false,
-      "mapLocked": false,
-      "unlimitedTracking": true,
-      "inferredType": "ocean_explorer",
-      "decorations": [
-        {
-          "rot": 8,
-          "type": 15,
-          "typeName": "monument",
-          "x": -99,
-          "y": -107,
-          "blockX": 1848,
-          "blockY": 64,
-          "blockZ": 296
         }
       ]
     },
@@ -3492,6 +5363,41 @@
       "decorations": []
     },
     {
+      "id": -3049426769829,
+      "parentMapId": -3049426769828,
+      "file": "tiles/map_-3049426769829.png",
+      "xCenter": 2048,
+      "zCenter": 512,
+      "scale": 2,
+      "width": 128,
+      "height": 128,
+      "bounds": {
+        "xMin": 1792,
+        "xMax": 2304,
+        "zMin": 256,
+        "zMax": 768,
+        "blocksWide": 512
+      },
+      "dimension": 0,
+      "dimensionName": "overworld",
+      "fullyExplored": false,
+      "mapLocked": false,
+      "unlimitedTracking": true,
+      "inferredType": "ocean_explorer",
+      "decorations": [
+        {
+          "rot": 8,
+          "type": 15,
+          "typeName": "monument",
+          "x": -99,
+          "y": -107,
+          "blockX": 1848,
+          "blockY": 64,
+          "blockZ": 296
+        }
+      ]
+    },
+    {
       "id": -2972117365629,
       "parentMapId": -2972117365628,
       "file": "tiles/map_-2972117365629.png",
@@ -3525,54 +5431,6 @@
           "blockZ": 1608
         }
       ]
-    },
-    {
-      "id": -2907692849565,
-      "parentMapId": -2907692849564,
-      "file": "tiles/map_-2907692849565.png",
-      "xCenter": -512,
-      "zCenter": 2560,
-      "scale": 2,
-      "width": 128,
-      "height": 128,
-      "bounds": {
-        "xMin": -768,
-        "xMax": -256,
-        "zMin": 2304,
-        "zMax": 2816,
-        "blocksWide": 512
-      },
-      "dimension": 0,
-      "dimensionName": "overworld",
-      "fullyExplored": false,
-      "mapLocked": false,
-      "unlimitedTracking": false,
-      "inferredType": "standard",
-      "decorations": []
-    },
-    {
-      "id": -2907692842945,
-      "parentMapId": -2907692842944,
-      "file": "tiles/map_-2907692842945.png",
-      "xCenter": -2048,
-      "zCenter": 3072,
-      "scale": 2,
-      "width": 128,
-      "height": 128,
-      "bounds": {
-        "xMin": -2304,
-        "xMax": -1792,
-        "zMin": 2816,
-        "zMax": 3328,
-        "blocksWide": 512
-      },
-      "dimension": 0,
-      "dimensionName": "overworld",
-      "fullyExplored": false,
-      "mapLocked": false,
-      "unlimitedTracking": false,
-      "inferredType": "standard",
-      "decorations": []
     },
     {
       "id": -2894807947752,
@@ -3656,6 +5514,41 @@
       "unlimitedTracking": false,
       "inferredType": "standard",
       "decorations": []
+    },
+    {
+      "id": -2894807932691,
+      "parentMapId": -2894807932690,
+      "file": "tiles/map_-2894807932691.png",
+      "xCenter": -512,
+      "zCenter": 2560,
+      "scale": 2,
+      "width": 128,
+      "height": 128,
+      "bounds": {
+        "xMin": -768,
+        "xMax": -256,
+        "zMin": 2304,
+        "zMax": 2816,
+        "blocksWide": 512
+      },
+      "dimension": 0,
+      "dimensionName": "overworld",
+      "fullyExplored": false,
+      "mapLocked": false,
+      "unlimitedTracking": true,
+      "inferredType": "treasure",
+      "decorations": [
+        {
+          "rot": 8,
+          "type": 4,
+          "typeName": "red_x",
+          "x": 36,
+          "y": 68,
+          "blockX": -440,
+          "blockY": 64,
+          "blockZ": 2696
+        }
+      ]
     },
     {
       "id": -2894807921142,
@@ -3837,9 +5730,44 @@
       "decorations": []
     },
     {
-      "id": -2499670932690,
-      "parentMapId": -2499670932689,
-      "file": "tiles/map_-2499670932690.png",
+      "id": -2499670963644,
+      "parentMapId": -2499670963643,
+      "file": "tiles/map_-2499670963644.png",
+      "xCenter": -2048,
+      "zCenter": 512,
+      "scale": 2,
+      "width": 128,
+      "height": 128,
+      "bounds": {
+        "xMin": -2304,
+        "xMax": -1792,
+        "zMin": 256,
+        "zMax": 768,
+        "blocksWide": 512
+      },
+      "dimension": 0,
+      "dimensionName": "overworld",
+      "fullyExplored": false,
+      "mapLocked": false,
+      "unlimitedTracking": true,
+      "inferredType": "treasure",
+      "decorations": [
+        {
+          "rot": 8,
+          "type": 4,
+          "typeName": "red_x",
+          "x": 100,
+          "y": -123,
+          "blockX": -1848,
+          "blockY": 64,
+          "blockZ": 264
+        }
+      ]
+    },
+    {
+      "id": -2452426325944,
+      "parentMapId": -2452426325943,
+      "file": "tiles/map_-2452426325944.png",
       "xCenter": -1536,
       "zCenter": 0,
       "scale": 2,
@@ -4217,9 +6145,33 @@
       "decorations": []
     },
     {
-      "id": -1739461734676,
-      "parentMapId": -1739461734675,
-      "file": "tiles/map_-1739461734676.png",
+      "id": -1099511623126,
+      "parentMapId": -1099511623125,
+      "file": "tiles/map_-1099511623126.png",
+      "xCenter": 512,
+      "zCenter": -1536,
+      "scale": 2,
+      "width": 128,
+      "height": 128,
+      "bounds": {
+        "xMin": 256,
+        "xMax": 768,
+        "zMin": -1792,
+        "zMax": -1280,
+        "blocksWide": 512
+      },
+      "dimension": 0,
+      "dimensionName": "overworld",
+      "fullyExplored": false,
+      "mapLocked": false,
+      "unlimitedTracking": false,
+      "inferredType": "standard",
+      "decorations": []
+    },
+    {
+      "id": -974957570622,
+      "parentMapId": -974957570621,
+      "file": "tiles/map_-974957570622.png",
       "xCenter": -512,
       "zCenter": -512,
       "scale": 2,
@@ -4239,6 +6191,41 @@
       "unlimitedTracking": false,
       "inferredType": "standard",
       "decorations": []
+    },
+    {
+      "id": -820338750007,
+      "parentMapId": -820338750006,
+      "file": "tiles/map_-820338750007.png",
+      "xCenter": -2048,
+      "zCenter": 3072,
+      "scale": 2,
+      "width": 128,
+      "height": 128,
+      "bounds": {
+        "xMin": -2304,
+        "xMax": -1792,
+        "zMin": 2816,
+        "zMax": 3328,
+        "blocksWide": 512
+      },
+      "dimension": 0,
+      "dimensionName": "overworld",
+      "fullyExplored": false,
+      "mapLocked": false,
+      "unlimitedTracking": true,
+      "inferredType": "ocean_explorer",
+      "decorations": [
+        {
+          "rot": 8,
+          "type": 15,
+          "typeName": "monument",
+          "x": -115,
+          "y": -83,
+          "blockX": -2280,
+          "blockY": 64,
+          "blockZ": 2904
+        }
+      ]
     },
     {
       "id": -798863914573,
@@ -4359,44 +6346,9 @@
       "decorations": []
     },
     {
-      "id": -764504177777,
-      "parentMapId": -764504177776,
-      "file": "tiles/map_-764504177777.png",
-      "xCenter": -512,
-      "zCenter": 6144,
-      "scale": 2,
-      "width": 128,
-      "height": 128,
-      "bounds": {
-        "xMin": -768,
-        "xMax": -256,
-        "zMin": 5888,
-        "zMax": 6400,
-        "blocksWide": 512
-      },
-      "dimension": 0,
-      "dimensionName": "overworld",
-      "fullyExplored": false,
-      "mapLocked": false,
-      "unlimitedTracking": true,
-      "inferredType": "treasure",
-      "decorations": [
-        {
-          "rot": 8,
-          "type": 4,
-          "typeName": "red_x",
-          "x": -59,
-          "y": -83,
-          "blockX": -632,
-          "blockY": 64,
-          "blockZ": 5976
-        }
-      ]
-    },
-    {
-      "id": -751619273817,
-      "parentMapId": -751619273816,
-      "file": "tiles/map_-751619273817.png",
+      "id": -734439407569,
+      "parentMapId": -734439407568,
+      "file": "tiles/map_-734439407569.png",
       "xCenter": -512,
       "zCenter": 5632,
       "scale": 2,
@@ -4420,11 +6372,11 @@
           "rot": 8,
           "type": 4,
           "typeName": "red_x",
-          "x": 100,
-          "y": 100,
-          "blockX": -312,
+          "x": -59,
+          "y": -27,
+          "blockX": -632,
           "blockY": 64,
-          "blockZ": 5832
+          "blockZ": 5576
         },
         {
           "rot": 4,
@@ -4434,7 +6386,42 @@
           "y": -53,
           "blockX": -657,
           "blockY": 64,
-          "blockZ": 5524
+          "blockZ": 5525
+        }
+      ]
+    },
+    {
+      "id": -721554505649,
+      "parentMapId": -721554505648,
+      "file": "tiles/map_-721554505649.png",
+      "xCenter": -512,
+      "zCenter": 6144,
+      "scale": 2,
+      "width": 128,
+      "height": 128,
+      "bounds": {
+        "xMin": -768,
+        "xMax": -256,
+        "zMin": 5888,
+        "zMax": 6400,
+        "blocksWide": 512
+      },
+      "dimension": 0,
+      "dimensionName": "overworld",
+      "fullyExplored": false,
+      "mapLocked": false,
+      "unlimitedTracking": false,
+      "inferredType": "standard",
+      "decorations": [
+        {
+          "rot": 0,
+          "type": 1,
+          "typeName": "frame",
+          "x": 88,
+          "y": 89,
+          "blockX": -337,
+          "blockY": 69,
+          "blockZ": 6321
         }
       ]
     },
@@ -4498,6 +6485,30 @@
       ]
     },
     {
+      "id": -652835026505,
+      "parentMapId": -652835026504,
+      "file": "tiles/map_-652835026505.png",
+      "xCenter": 2048,
+      "zCenter": 2560,
+      "scale": 2,
+      "width": 128,
+      "height": 128,
+      "bounds": {
+        "xMin": 1792,
+        "xMax": 2304,
+        "zMin": 2304,
+        "zMax": 2816,
+        "blocksWide": 512
+      },
+      "dimension": 0,
+      "dimensionName": "overworld",
+      "fullyExplored": false,
+      "mapLocked": false,
+      "unlimitedTracking": false,
+      "inferredType": "standard",
+      "decorations": []
+    },
+    {
       "id": -532575943806,
       "parentMapId": -532575943805,
       "file": "tiles/map_-532575943806.png",
@@ -4547,6 +6558,246 @@
         "zMin": 256,
         "zMax": 768,
         "blocksWide": 512
+      },
+      "dimension": 0,
+      "dimensionName": "overworld",
+      "fullyExplored": false,
+      "mapLocked": false,
+      "unlimitedTracking": false,
+      "inferredType": "standard",
+      "decorations": []
+    },
+    {
+      "id": -9706626076161,
+      "parentMapId": -9706626076160,
+      "file": "tiles/map_-9706626076161.png",
+      "xCenter": -3072,
+      "zCenter": 4608,
+      "scale": 1,
+      "width": 128,
+      "height": 128,
+      "bounds": {
+        "xMin": -3200,
+        "xMax": -2944,
+        "zMin": 4480,
+        "zMax": 4736,
+        "blocksWide": 256
+      },
+      "dimension": 0,
+      "dimensionName": "overworld",
+      "fullyExplored": false,
+      "mapLocked": false,
+      "unlimitedTracking": false,
+      "inferredType": "standard",
+      "decorations": []
+    },
+    {
+      "id": -9693741146503,
+      "parentMapId": -9693741146502,
+      "file": "tiles/map_-9693741146503.png",
+      "xCenter": -3328,
+      "zCenter": -768,
+      "scale": 1,
+      "width": 128,
+      "height": 128,
+      "bounds": {
+        "xMin": -3456,
+        "xMax": -3200,
+        "zMin": -896,
+        "zMax": -640,
+        "blocksWide": 256
+      },
+      "dimension": 0,
+      "dimensionName": "overworld",
+      "fullyExplored": false,
+      "mapLocked": false,
+      "unlimitedTracking": false,
+      "inferredType": "standard",
+      "decorations": []
+    },
+    {
+      "id": -9693741145765,
+      "parentMapId": -9693741145764,
+      "file": "tiles/map_-9693741145765.png",
+      "xCenter": -3584,
+      "zCenter": 768,
+      "scale": 1,
+      "width": 128,
+      "height": 128,
+      "bounds": {
+        "xMin": -3712,
+        "xMax": -3456,
+        "zMin": 640,
+        "zMax": 896,
+        "blocksWide": 256
+      },
+      "dimension": 0,
+      "dimensionName": "overworld",
+      "fullyExplored": false,
+      "mapLocked": false,
+      "unlimitedTracking": false,
+      "inferredType": "standard",
+      "decorations": []
+    },
+    {
+      "id": -9659381446691,
+      "parentMapId": -9659381446690,
+      "file": "tiles/map_-9659381446691.png",
+      "xCenter": -2048,
+      "zCenter": -3072,
+      "scale": 1,
+      "width": 128,
+      "height": 128,
+      "bounds": {
+        "xMin": -2176,
+        "xMax": -1920,
+        "zMin": -3200,
+        "zMax": -2944,
+        "blocksWide": 256
+      },
+      "dimension": 0,
+      "dimensionName": "overworld",
+      "fullyExplored": false,
+      "mapLocked": false,
+      "unlimitedTracking": false,
+      "inferredType": "standard",
+      "decorations": []
+    },
+    {
+      "id": -9594956938187,
+      "parentMapId": -9594956938186,
+      "file": "tiles/map_-9594956938187.png",
+      "xCenter": -2048,
+      "zCenter": 0,
+      "scale": 1,
+      "width": 128,
+      "height": 128,
+      "bounds": {
+        "xMin": -2176,
+        "xMax": -1920,
+        "zMin": -128,
+        "zMax": 128,
+        "blocksWide": 256
+      },
+      "dimension": 0,
+      "dimensionName": "overworld",
+      "fullyExplored": false,
+      "mapLocked": false,
+      "unlimitedTracking": false,
+      "inferredType": "standard",
+      "decorations": []
+    },
+    {
+      "id": -9556302227620,
+      "parentMapId": -9556302227619,
+      "file": "tiles/map_-9556302227620.png",
+      "xCenter": -3840,
+      "zCenter": -256,
+      "scale": 1,
+      "width": 128,
+      "height": 128,
+      "bounds": {
+        "xMin": -3968,
+        "xMax": -3712,
+        "zMin": -384,
+        "zMax": -128,
+        "blocksWide": 256
+      },
+      "dimension": 0,
+      "dimensionName": "overworld",
+      "fullyExplored": false,
+      "mapLocked": false,
+      "unlimitedTracking": false,
+      "inferredType": "standard",
+      "decorations": []
+    },
+    {
+      "id": -9504762625200,
+      "parentMapId": -9504762625199,
+      "file": "tiles/map_-9504762625200.png",
+      "xCenter": -3584,
+      "zCenter": -3072,
+      "scale": 1,
+      "width": 128,
+      "height": 128,
+      "bounds": {
+        "xMin": -3712,
+        "xMax": -3456,
+        "zMin": -3200,
+        "zMax": -2944,
+        "blocksWide": 256
+      },
+      "dimension": 0,
+      "dimensionName": "overworld",
+      "fullyExplored": false,
+      "mapLocked": false,
+      "unlimitedTracking": false,
+      "inferredType": "standard",
+      "decorations": []
+    },
+    {
+      "id": -9487582754066,
+      "parentMapId": -9487582754065,
+      "file": "tiles/map_-9487582754066.png",
+      "xCenter": -3584,
+      "zCenter": -2304,
+      "scale": 1,
+      "width": 128,
+      "height": 128,
+      "bounds": {
+        "xMin": -3712,
+        "xMax": -3456,
+        "zMin": -2432,
+        "zMax": -2176,
+        "blocksWide": 256
+      },
+      "dimension": 0,
+      "dimensionName": "overworld",
+      "fullyExplored": false,
+      "mapLocked": false,
+      "unlimitedTracking": false,
+      "inferredType": "standard",
+      "decorations": []
+    },
+    {
+      "id": -9436043147786,
+      "parentMapId": -9436043147785,
+      "file": "tiles/map_-9436043147786.png",
+      "xCenter": 1280,
+      "zCenter": -6144,
+      "scale": 1,
+      "width": 128,
+      "height": 128,
+      "bounds": {
+        "xMin": 1152,
+        "xMax": 1408,
+        "zMin": -6272,
+        "zMax": -6016,
+        "blocksWide": 256
+      },
+      "dimension": 0,
+      "dimensionName": "overworld",
+      "fullyExplored": false,
+      "mapLocked": false,
+      "unlimitedTracking": false,
+      "inferredType": "standard",
+      "decorations": []
+    },
+    {
+      "id": -9423158246109,
+      "parentMapId": -9423158246108,
+      "file": "tiles/map_-9423158246109.png",
+      "xCenter": 512,
+      "zCenter": 4608,
+      "scale": 1,
+      "width": 128,
+      "height": 128,
+      "bounds": {
+        "xMin": 384,
+        "xMax": 640,
+        "zMin": 4480,
+        "zMax": 4736,
+        "blocksWide": 256
       },
       "dimension": 0,
       "dimensionName": "overworld",
@@ -4701,9 +6952,9 @@
       "decorations": []
     },
     {
-      "id": -8478265440800,
-      "parentMapId": -8478265440799,
-      "file": "tiles/map_-8478265440800.png",
+      "id": -8478265440331,
+      "parentMapId": -8478265440330,
+      "file": "tiles/map_-8478265440331.png",
       "xCenter": 256,
       "zCenter": 4352,
       "scale": 1,
@@ -5466,30 +7717,6 @@
       "decorations": []
     },
     {
-      "id": -2022929588151,
-      "parentMapId": -2022929588150,
-      "file": "tiles/map_-2022929588151.png",
-      "xCenter": 768,
-      "zCenter": -1792,
-      "scale": 1,
-      "width": 128,
-      "height": 128,
-      "bounds": {
-        "xMin": 640,
-        "xMax": 896,
-        "zMin": -1920,
-        "zMax": -1664,
-        "blocksWide": 256
-      },
-      "dimension": 0,
-      "dimensionName": "overworld",
-      "fullyExplored": false,
-      "mapLocked": false,
-      "unlimitedTracking": false,
-      "inferredType": "standard",
-      "decorations": []
-    },
-    {
       "id": -1958505084705,
       "parentMapId": -1958505084704,
       "file": "tiles/map_-1958505084705.png",
@@ -5586,19 +7813,19 @@
       "decorations": []
     },
     {
-      "id": -1327144892052,
-      "parentMapId": -1327144892051,
-      "file": "tiles/map_-1327144892052.png",
-      "xCenter": -512,
-      "zCenter": -512,
+      "id": -1099511623127,
+      "parentMapId": -1099511623126,
+      "file": "tiles/map_-1099511623127.png",
+      "xCenter": 768,
+      "zCenter": -1792,
       "scale": 1,
       "width": 128,
       "height": 128,
       "bounds": {
-        "xMin": -640,
-        "xMax": -384,
-        "zMin": -640,
-        "zMax": -384,
+        "xMin": 640,
+        "xMax": 896,
+        "zMin": -1920,
+        "zMax": -1664,
         "blocksWide": 256
       },
       "dimension": 0,
@@ -5623,6 +7850,30 @@
         "xMax": 896,
         "zMin": -1408,
         "zMax": -1152,
+        "blocksWide": 256
+      },
+      "dimension": 0,
+      "dimensionName": "overworld",
+      "fullyExplored": false,
+      "mapLocked": false,
+      "unlimitedTracking": false,
+      "inferredType": "standard",
+      "decorations": []
+    },
+    {
+      "id": -974957570623,
+      "parentMapId": -974957570622,
+      "file": "tiles/map_-974957570623.png",
+      "xCenter": -512,
+      "zCenter": -512,
+      "scale": 1,
+      "width": 128,
+      "height": 128,
+      "bounds": {
+        "xMin": -640,
+        "xMax": -384,
+        "zMin": -640,
+        "zMax": -384,
         "blocksWide": 256
       },
       "dimension": 0,
@@ -5813,6 +8064,1108 @@
       "decorations": []
     },
     {
+      "id": -9745280790268,
+      "parentMapId": -9745280790267,
+      "file": "tiles/map_-9745280790268.png",
+      "xCenter": 0,
+      "zCenter": -128,
+      "scale": 0,
+      "width": 128,
+      "height": 128,
+      "bounds": {
+        "xMin": -64,
+        "xMax": 64,
+        "zMin": -192,
+        "zMax": -64,
+        "blocksWide": 128
+      },
+      "dimension": 0,
+      "dimensionName": "overworld",
+      "fullyExplored": false,
+      "mapLocked": false,
+      "unlimitedTracking": false,
+      "inferredType": "standard",
+      "decorations": []
+    },
+    {
+      "id": -9745280790214,
+      "parentMapId": -9745280790213,
+      "file": "tiles/map_-9745280790214.png",
+      "xCenter": 128,
+      "zCenter": 0,
+      "scale": 0,
+      "width": 128,
+      "height": 128,
+      "bounds": {
+        "xMin": 64,
+        "xMax": 192,
+        "zMin": -64,
+        "zMax": 64,
+        "blocksWide": 128
+      },
+      "dimension": 0,
+      "dimensionName": "overworld",
+      "fullyExplored": false,
+      "mapLocked": false,
+      "unlimitedTracking": false,
+      "inferredType": "standard",
+      "decorations": []
+    },
+    {
+      "id": -9745280789973,
+      "parentMapId": -9745280789972,
+      "file": "tiles/map_-9745280789973.png",
+      "xCenter": 0,
+      "zCenter": 0,
+      "scale": 0,
+      "width": 128,
+      "height": 128,
+      "bounds": {
+        "xMin": -64,
+        "xMax": 64,
+        "zMin": -64,
+        "zMax": 64,
+        "blocksWide": 128
+      },
+      "dimension": 0,
+      "dimensionName": "overworld",
+      "fullyExplored": false,
+      "mapLocked": false,
+      "unlimitedTracking": false,
+      "inferredType": "standard",
+      "decorations": [
+        {
+          "rot": 0,
+          "type": 1,
+          "typeName": "frame",
+          "x": 50,
+          "y": 8,
+          "blockX": 25,
+          "blockY": 67,
+          "blockZ": 4
+        }
+      ]
+    },
+    {
+      "id": -9745280789943,
+      "parentMapId": -9745280789942,
+      "file": "tiles/map_-9745280789943.png",
+      "xCenter": 0,
+      "zCenter": 128,
+      "scale": 0,
+      "width": 128,
+      "height": 128,
+      "bounds": {
+        "xMin": -64,
+        "xMax": 64,
+        "zMin": 64,
+        "zMax": 192,
+        "blocksWide": 128
+      },
+      "dimension": 0,
+      "dimensionName": "overworld",
+      "fullyExplored": false,
+      "mapLocked": false,
+      "unlimitedTracking": false,
+      "inferredType": "standard",
+      "decorations": []
+    },
+    {
+      "id": -9745280789892,
+      "parentMapId": -9745280789891,
+      "file": "tiles/map_-9745280789892.png",
+      "xCenter": -128,
+      "zCenter": 0,
+      "scale": 0,
+      "width": 128,
+      "height": 128,
+      "bounds": {
+        "xMin": -192,
+        "xMax": -64,
+        "zMin": -64,
+        "zMax": 64,
+        "blocksWide": 128
+      },
+      "dimension": 0,
+      "dimensionName": "overworld",
+      "fullyExplored": false,
+      "mapLocked": false,
+      "unlimitedTracking": false,
+      "inferredType": "standard",
+      "decorations": []
+    },
+    {
+      "id": -9728100912834,
+      "parentMapId": -9728100912833,
+      "file": "tiles/map_-9728100912834.png",
+      "xCenter": -1536,
+      "zCenter": -3968,
+      "scale": 0,
+      "width": 128,
+      "height": 128,
+      "bounds": {
+        "xMin": -1600,
+        "xMax": -1472,
+        "zMin": -4032,
+        "zMax": -3904,
+        "blocksWide": 128
+      },
+      "dimension": 0,
+      "dimensionName": "overworld",
+      "fullyExplored": false,
+      "mapLocked": false,
+      "unlimitedTracking": false,
+      "inferredType": "standard",
+      "decorations": []
+    },
+    {
+      "id": -9706626080686,
+      "parentMapId": -9706626080685,
+      "file": "tiles/map_-9706626080686.png",
+      "xCenter": -3200,
+      "zCenter": 2688,
+      "scale": 0,
+      "width": 128,
+      "height": 128,
+      "bounds": {
+        "xMin": -3264,
+        "xMax": -3136,
+        "zMin": 2624,
+        "zMax": 2752,
+        "blocksWide": 128
+      },
+      "dimension": 0,
+      "dimensionName": "overworld",
+      "fullyExplored": false,
+      "mapLocked": false,
+      "unlimitedTracking": false,
+      "inferredType": "standard",
+      "decorations": []
+    },
+    {
+      "id": -9706626076162,
+      "parentMapId": -9706626076161,
+      "file": "tiles/map_-9706626076162.png",
+      "xCenter": -2944,
+      "zCenter": 4480,
+      "scale": 0,
+      "width": 128,
+      "height": 128,
+      "bounds": {
+        "xMin": -3008,
+        "xMax": -2880,
+        "zMin": 4416,
+        "zMax": 4544,
+        "blocksWide": 128
+      },
+      "dimension": 0,
+      "dimensionName": "overworld",
+      "fullyExplored": false,
+      "mapLocked": false,
+      "unlimitedTracking": false,
+      "inferredType": "standard",
+      "decorations": []
+    },
+    {
+      "id": -9693741159919,
+      "parentMapId": -9693741159918,
+      "file": "tiles/map_-9693741159919.png",
+      "xCenter": -2048,
+      "zCenter": -2944,
+      "scale": 0,
+      "width": 128,
+      "height": 128,
+      "bounds": {
+        "xMin": -2112,
+        "xMax": -1984,
+        "zMin": -3008,
+        "zMax": -2880,
+        "blocksWide": 128
+      },
+      "dimension": 0,
+      "dimensionName": "overworld",
+      "fullyExplored": false,
+      "mapLocked": false,
+      "unlimitedTracking": false,
+      "inferredType": "standard",
+      "decorations": []
+    },
+    {
+      "id": -9693741155075,
+      "parentMapId": -9693741155074,
+      "file": "tiles/map_-9693741155075.png",
+      "xCenter": -2048,
+      "zCenter": -2816,
+      "scale": 0,
+      "width": 128,
+      "height": 128,
+      "bounds": {
+        "xMin": -2112,
+        "xMax": -1984,
+        "zMin": -2880,
+        "zMax": -2752,
+        "blocksWide": 128
+      },
+      "dimension": 0,
+      "dimensionName": "overworld",
+      "fullyExplored": false,
+      "mapLocked": false,
+      "unlimitedTracking": false,
+      "inferredType": "standard",
+      "decorations": []
+    },
+    {
+      "id": -9693741145766,
+      "parentMapId": -9693741145765,
+      "file": "tiles/map_-9693741145766.png",
+      "xCenter": -3584,
+      "zCenter": 640,
+      "scale": 0,
+      "width": 128,
+      "height": 128,
+      "bounds": {
+        "xMin": -3648,
+        "xMax": -3520,
+        "zMin": 576,
+        "zMax": 704,
+        "blocksWide": 128
+      },
+      "dimension": 0,
+      "dimensionName": "overworld",
+      "fullyExplored": false,
+      "mapLocked": false,
+      "unlimitedTracking": false,
+      "inferredType": "standard",
+      "decorations": []
+    },
+    {
+      "id": -9599251906062,
+      "parentMapId": -9599251906061,
+      "file": "tiles/map_-9599251906062.png",
+      "xCenter": -1152,
+      "zCenter": -8576,
+      "scale": 0,
+      "width": 128,
+      "height": 128,
+      "bounds": {
+        "xMin": -1216,
+        "xMax": -1088,
+        "zMin": -8640,
+        "zMax": -8512,
+        "blocksWide": 128
+      },
+      "dimension": 0,
+      "dimensionName": "overworld",
+      "fullyExplored": false,
+      "mapLocked": false,
+      "unlimitedTracking": false,
+      "inferredType": "standard",
+      "decorations": []
+    },
+    {
+      "id": -9594956938188,
+      "parentMapId": -9594956938187,
+      "file": "tiles/map_-9594956938188.png",
+      "xCenter": -1920,
+      "zCenter": 0,
+      "scale": 0,
+      "width": 128,
+      "height": 128,
+      "bounds": {
+        "xMin": -1984,
+        "xMax": -1856,
+        "zMin": -64,
+        "zMax": 64,
+        "blocksWide": 128
+      },
+      "dimension": 0,
+      "dimensionName": "overworld",
+      "fullyExplored": false,
+      "mapLocked": false,
+      "unlimitedTracking": false,
+      "inferredType": "standard",
+      "decorations": []
+    },
+    {
+      "id": -9594956938132,
+      "parentMapId": -9594956938131,
+      "file": "tiles/map_-9594956938132.png",
+      "xCenter": -1920,
+      "zCenter": 128,
+      "scale": 0,
+      "width": 128,
+      "height": 128,
+      "bounds": {
+        "xMin": -1984,
+        "xMax": -1856,
+        "zMin": 64,
+        "zMax": 192,
+        "blocksWide": 128
+      },
+      "dimension": 0,
+      "dimensionName": "overworld",
+      "fullyExplored": false,
+      "mapLocked": false,
+      "unlimitedTracking": false,
+      "inferredType": "standard",
+      "decorations": [
+        {
+          "rot": 0,
+          "type": 1,
+          "typeName": "frame",
+          "x": -58,
+          "y": 4,
+          "blockX": -1949,
+          "blockY": 65,
+          "blockZ": 130
+        }
+      ]
+    },
+    {
+      "id": -9560597190833,
+      "parentMapId": -9560597190832,
+      "file": "tiles/map_-9560597190833.png",
+      "xCenter": -3200,
+      "zCenter": 640,
+      "scale": 0,
+      "width": 128,
+      "height": 128,
+      "bounds": {
+        "xMin": -3264,
+        "xMax": -3136,
+        "zMin": 576,
+        "zMax": 704,
+        "blocksWide": 128
+      },
+      "dimension": 0,
+      "dimensionName": "overworld",
+      "fullyExplored": false,
+      "mapLocked": false,
+      "unlimitedTracking": false,
+      "inferredType": "standard",
+      "decorations": []
+    },
+    {
+      "id": -9560597171836,
+      "parentMapId": -9560597171835,
+      "file": "tiles/map_-9560597171836.png",
+      "xCenter": -2560,
+      "zCenter": 2048,
+      "scale": 0,
+      "width": 128,
+      "height": 128,
+      "bounds": {
+        "xMin": -2624,
+        "xMax": -2496,
+        "zMin": 1984,
+        "zMax": 2112,
+        "blocksWide": 128
+      },
+      "dimension": 0,
+      "dimensionName": "overworld",
+      "fullyExplored": false,
+      "mapLocked": false,
+      "unlimitedTracking": false,
+      "inferredType": "standard",
+      "decorations": []
+    },
+    {
+      "id": -9556302227621,
+      "parentMapId": -9556302227620,
+      "file": "tiles/map_-9556302227621.png",
+      "xCenter": -3712,
+      "zCenter": -128,
+      "scale": 0,
+      "width": 128,
+      "height": 128,
+      "bounds": {
+        "xMin": -3776,
+        "xMax": -3648,
+        "zMin": -192,
+        "zMax": -64,
+        "blocksWide": 128
+      },
+      "dimension": 0,
+      "dimensionName": "overworld",
+      "fullyExplored": false,
+      "mapLocked": false,
+      "unlimitedTracking": false,
+      "inferredType": "standard",
+      "decorations": []
+    },
+    {
+      "id": -9530532429314,
+      "parentMapId": -9530532429313,
+      "file": "tiles/map_-9530532429314.png",
+      "xCenter": -1024,
+      "zCenter": 2304,
+      "scale": 0,
+      "width": 128,
+      "height": 128,
+      "bounds": {
+        "xMin": -1088,
+        "xMax": -960,
+        "zMin": 2240,
+        "zMax": 2368,
+        "blocksWide": 128
+      },
+      "dimension": 0,
+      "dimensionName": "overworld",
+      "fullyExplored": false,
+      "mapLocked": false,
+      "unlimitedTracking": false,
+      "inferredType": "standard",
+      "decorations": []
+    },
+    {
+      "id": -9530532420366,
+      "parentMapId": -9530532420365,
+      "file": "tiles/map_-9530532420366.png",
+      "xCenter": 768,
+      "zCenter": -7680,
+      "scale": 0,
+      "width": 128,
+      "height": 128,
+      "bounds": {
+        "xMin": 704,
+        "xMax": 832,
+        "zMin": -7744,
+        "zMax": -7616,
+        "blocksWide": 128
+      },
+      "dimension": 0,
+      "dimensionName": "overworld",
+      "fullyExplored": false,
+      "mapLocked": false,
+      "unlimitedTracking": false,
+      "inferredType": "standard",
+      "decorations": []
+    },
+    {
+      "id": -9530532401421,
+      "parentMapId": -9530532401420,
+      "file": "tiles/map_-9530532401421.png",
+      "xCenter": -2688,
+      "zCenter": 0,
+      "scale": 0,
+      "width": 128,
+      "height": 128,
+      "bounds": {
+        "xMin": -2752,
+        "xMax": -2624,
+        "zMin": -64,
+        "zMax": 64,
+        "blocksWide": 128
+      },
+      "dimension": 0,
+      "dimensionName": "overworld",
+      "fullyExplored": false,
+      "mapLocked": false,
+      "unlimitedTracking": false,
+      "inferredType": "standard",
+      "decorations": []
+    },
+    {
+      "id": -9530532398942,
+      "parentMapId": -9530532398941,
+      "file": "tiles/map_-9530532398942.png",
+      "xCenter": -3328,
+      "zCenter": -768,
+      "scale": 0,
+      "width": 128,
+      "height": 128,
+      "bounds": {
+        "xMin": -3392,
+        "xMax": -3264,
+        "zMin": -832,
+        "zMax": -704,
+        "blocksWide": 128
+      },
+      "dimension": 0,
+      "dimensionName": "overworld",
+      "fullyExplored": false,
+      "mapLocked": false,
+      "unlimitedTracking": false,
+      "inferredType": "standard",
+      "decorations": []
+    },
+    {
+      "id": -9517647522735,
+      "parentMapId": -9517647522734,
+      "file": "tiles/map_-9517647522735.png",
+      "xCenter": 2944,
+      "zCenter": -7424,
+      "scale": 0,
+      "width": 128,
+      "height": 128,
+      "bounds": {
+        "xMin": 2880,
+        "xMax": 3008,
+        "zMin": -7488,
+        "zMax": -7360,
+        "blocksWide": 128
+      },
+      "dimension": 0,
+      "dimensionName": "overworld",
+      "fullyExplored": false,
+      "mapLocked": false,
+      "unlimitedTracking": false,
+      "inferredType": "standard",
+      "decorations": []
+    },
+    {
+      "id": -9504762625201,
+      "parentMapId": -9504762625200,
+      "file": "tiles/map_-9504762625201.png",
+      "xCenter": -3456,
+      "zCenter": -3072,
+      "scale": 0,
+      "width": 128,
+      "height": 128,
+      "bounds": {
+        "xMin": -3520,
+        "xMax": -3392,
+        "zMin": -3136,
+        "zMax": -3008,
+        "blocksWide": 128
+      },
+      "dimension": 0,
+      "dimensionName": "overworld",
+      "fullyExplored": false,
+      "mapLocked": false,
+      "unlimitedTracking": false,
+      "inferredType": "standard",
+      "decorations": []
+    },
+    {
+      "id": -9491877716018,
+      "parentMapId": -9491877716017,
+      "file": "tiles/map_-9491877716018.png",
+      "xCenter": -3584,
+      "zCenter": -2816,
+      "scale": 0,
+      "width": 128,
+      "height": 128,
+      "bounds": {
+        "xMin": -3648,
+        "xMax": -3520,
+        "zMin": -2880,
+        "zMax": -2752,
+        "blocksWide": 128
+      },
+      "dimension": 0,
+      "dimensionName": "overworld",
+      "fullyExplored": false,
+      "mapLocked": false,
+      "unlimitedTracking": false,
+      "inferredType": "standard",
+      "decorations": []
+    },
+    {
+      "id": -9487582754067,
+      "parentMapId": -9487582754066,
+      "file": "tiles/map_-9487582754067.png",
+      "xCenter": -3584,
+      "zCenter": -2304,
+      "scale": 0,
+      "width": 128,
+      "height": 128,
+      "bounds": {
+        "xMin": -3648,
+        "xMax": -3520,
+        "zMin": -2368,
+        "zMax": -2240,
+        "blocksWide": 128
+      },
+      "dimension": 0,
+      "dimensionName": "overworld",
+      "fullyExplored": false,
+      "mapLocked": false,
+      "unlimitedTracking": false,
+      "inferredType": "standard",
+      "decorations": []
+    },
+    {
+      "id": -9457517977412,
+      "parentMapId": -9457517977411,
+      "file": "tiles/map_-9457517977412.png",
+      "xCenter": -3200,
+      "zCenter": -640,
+      "scale": 0,
+      "width": 128,
+      "height": 128,
+      "bounds": {
+        "xMin": -3264,
+        "xMax": -3136,
+        "zMin": -704,
+        "zMax": -576,
+        "blocksWide": 128
+      },
+      "dimension": 0,
+      "dimensionName": "overworld",
+      "fullyExplored": false,
+      "mapLocked": false,
+      "unlimitedTracking": false,
+      "inferredType": "standard",
+      "decorations": []
+    },
+    {
+      "id": -9440338113608,
+      "parentMapId": -9440338113607,
+      "file": "tiles/map_-9440338113608.png",
+      "xCenter": -3328,
+      "zCenter": -3072,
+      "scale": 0,
+      "width": 128,
+      "height": 128,
+      "bounds": {
+        "xMin": -3392,
+        "xMax": -3264,
+        "zMin": -3136,
+        "zMax": -3008,
+        "blocksWide": 128
+      },
+      "dimension": 0,
+      "dimensionName": "overworld",
+      "fullyExplored": false,
+      "mapLocked": false,
+      "unlimitedTracking": false,
+      "inferredType": "standard",
+      "decorations": []
+    },
+    {
+      "id": -9436043147787,
+      "parentMapId": -9436043147786,
+      "file": "tiles/map_-9436043147787.png",
+      "xCenter": 1152,
+      "zCenter": -6016,
+      "scale": 0,
+      "width": 128,
+      "height": 128,
+      "bounds": {
+        "xMin": 1088,
+        "xMax": 1216,
+        "zMin": -6080,
+        "zMax": -5952,
+        "blocksWide": 128
+      },
+      "dimension": 0,
+      "dimensionName": "overworld",
+      "fullyExplored": false,
+      "mapLocked": false,
+      "unlimitedTracking": false,
+      "inferredType": "standard",
+      "decorations": []
+    },
+    {
+      "id": -9436043143598,
+      "parentMapId": -9436043143597,
+      "file": "tiles/map_-9436043143598.png",
+      "xCenter": 128,
+      "zCenter": -4992,
+      "scale": 0,
+      "width": 128,
+      "height": 128,
+      "bounds": {
+        "xMin": 64,
+        "xMax": 192,
+        "zMin": -5056,
+        "zMax": -4928,
+        "blocksWide": 128
+      },
+      "dimension": 0,
+      "dimensionName": "overworld",
+      "fullyExplored": false,
+      "mapLocked": false,
+      "unlimitedTracking": false,
+      "inferredType": "standard",
+      "decorations": []
+    },
+    {
+      "id": -9436043143355,
+      "parentMapId": -9436043143354,
+      "file": "tiles/map_-9436043143355.png",
+      "xCenter": -128,
+      "zCenter": -5248,
+      "scale": 0,
+      "width": 128,
+      "height": 128,
+      "bounds": {
+        "xMin": -192,
+        "xMax": -64,
+        "zMin": -5312,
+        "zMax": -5184,
+        "blocksWide": 128
+      },
+      "dimension": 0,
+      "dimensionName": "overworld",
+      "fullyExplored": false,
+      "mapLocked": false,
+      "unlimitedTracking": false,
+      "inferredType": "standard",
+      "decorations": []
+    },
+    {
+      "id": -9436043140954,
+      "parentMapId": -9436043140953,
+      "file": "tiles/map_-9436043140954.png",
+      "xCenter": -1152,
+      "zCenter": -5504,
+      "scale": 0,
+      "width": 128,
+      "height": 128,
+      "bounds": {
+        "xMin": -1216,
+        "xMax": -1088,
+        "zMin": -5568,
+        "zMax": -5440,
+        "blocksWide": 128
+      },
+      "dimension": 0,
+      "dimensionName": "overworld",
+      "fullyExplored": false,
+      "mapLocked": false,
+      "unlimitedTracking": false,
+      "inferredType": "standard",
+      "decorations": []
+    },
+    {
+      "id": -9436043139481,
+      "parentMapId": -9436043139480,
+      "file": "tiles/map_-9436043139481.png",
+      "xCenter": -2432,
+      "zCenter": -7296,
+      "scale": 0,
+      "width": 128,
+      "height": 128,
+      "bounds": {
+        "xMin": -2496,
+        "xMax": -2368,
+        "zMin": -7360,
+        "zMax": -7232,
+        "blocksWide": 128
+      },
+      "dimension": 0,
+      "dimensionName": "overworld",
+      "fullyExplored": false,
+      "mapLocked": false,
+      "unlimitedTracking": false,
+      "inferredType": "standard",
+      "decorations": []
+    },
+    {
+      "id": -9436043138608,
+      "parentMapId": -9436043138607,
+      "file": "tiles/map_-9436043138608.png",
+      "xCenter": -3200,
+      "zCenter": -6272,
+      "scale": 0,
+      "width": 128,
+      "height": 128,
+      "bounds": {
+        "xMin": -3264,
+        "xMax": -3136,
+        "zMin": -6336,
+        "zMax": -6208,
+        "blocksWide": 128
+      },
+      "dimension": 0,
+      "dimensionName": "overworld",
+      "fullyExplored": false,
+      "mapLocked": false,
+      "unlimitedTracking": false,
+      "inferredType": "standard",
+      "decorations": []
+    },
+    {
+      "id": -9436043136434,
+      "parentMapId": -9436043136433,
+      "file": "tiles/map_-9436043136434.png",
+      "xCenter": -3328,
+      "zCenter": -4736,
+      "scale": 0,
+      "width": 128,
+      "height": 128,
+      "bounds": {
+        "xMin": -3392,
+        "xMax": -3264,
+        "zMin": -4800,
+        "zMax": -4672,
+        "blocksWide": 128
+      },
+      "dimension": 0,
+      "dimensionName": "overworld",
+      "fullyExplored": false,
+      "mapLocked": false,
+      "unlimitedTracking": false,
+      "inferredType": "standard",
+      "decorations": []
+    },
+    {
+      "id": -9423158246110,
+      "parentMapId": -9423158246109,
+      "file": "tiles/map_-9423158246110.png",
+      "xCenter": 384,
+      "zCenter": 4608,
+      "scale": 0,
+      "width": 128,
+      "height": 128,
+      "bounds": {
+        "xMin": 320,
+        "xMax": 448,
+        "zMin": 4544,
+        "zMax": 4672,
+        "blocksWide": 128
+      },
+      "dimension": 0,
+      "dimensionName": "overworld",
+      "fullyExplored": false,
+      "mapLocked": false,
+      "unlimitedTracking": false,
+      "inferredType": "standard",
+      "decorations": []
+    },
+    {
+      "id": -9423158239068,
+      "parentMapId": -9423158239067,
+      "file": "tiles/map_-9423158239068.png",
+      "xCenter": -2560,
+      "zCenter": 0,
+      "scale": 0,
+      "width": 128,
+      "height": 128,
+      "bounds": {
+        "xMin": -2624,
+        "xMax": -2496,
+        "zMin": -64,
+        "zMax": 64,
+        "blocksWide": 128
+      },
+      "dimension": 0,
+      "dimensionName": "overworld",
+      "fullyExplored": false,
+      "mapLocked": false,
+      "unlimitedTracking": false,
+      "inferredType": "standard",
+      "decorations": []
+    },
+    {
+      "id": -9384503540370,
+      "parentMapId": -9384503540369,
+      "file": "tiles/map_-9384503540370.png",
+      "xCenter": -640,
+      "zCenter": -6528,
+      "scale": 0,
+      "width": 128,
+      "height": 128,
+      "bounds": {
+        "xMin": -704,
+        "xMax": -576,
+        "zMin": -6592,
+        "zMax": -6464,
+        "blocksWide": 128
+      },
+      "dimension": 0,
+      "dimensionName": "overworld",
+      "fullyExplored": false,
+      "mapLocked": false,
+      "unlimitedTracking": false,
+      "inferredType": "standard",
+      "decorations": []
+    },
+    {
+      "id": -9345848834191,
+      "parentMapId": -9345848834190,
+      "file": "tiles/map_-9345848834191.png",
+      "xCenter": -1920,
+      "zCenter": -7296,
+      "scale": 0,
+      "width": 128,
+      "height": 128,
+      "bounds": {
+        "xMin": -1984,
+        "xMax": -1856,
+        "zMin": -7360,
+        "zMax": -7232,
+        "blocksWide": 128
+      },
+      "dimension": 0,
+      "dimensionName": "overworld",
+      "fullyExplored": false,
+      "mapLocked": false,
+      "unlimitedTracking": false,
+      "inferredType": "standard",
+      "decorations": []
+    },
+    {
+      "id": -9320079031692,
+      "parentMapId": -9320079031691,
+      "file": "tiles/map_-9320079031692.png",
+      "xCenter": -4224,
+      "zCenter": 2304,
+      "scale": 0,
+      "width": 128,
+      "height": 128,
+      "bounds": {
+        "xMin": -4288,
+        "xMax": -4160,
+        "zMin": 2240,
+        "zMax": 2368,
+        "blocksWide": 128
+      },
+      "dimension": 0,
+      "dimensionName": "overworld",
+      "fullyExplored": false,
+      "mapLocked": false,
+      "unlimitedTracking": false,
+      "inferredType": "standard",
+      "decorations": []
+    },
+    {
+      "id": -9320079030903,
+      "parentMapId": -9320079030902,
+      "file": "tiles/map_-9320079030903.png",
+      "xCenter": -5120,
+      "zCenter": 3456,
+      "scale": 0,
+      "width": 128,
+      "height": 128,
+      "bounds": {
+        "xMin": -5184,
+        "xMax": -5056,
+        "zMin": 3392,
+        "zMax": 3520,
+        "blocksWide": 128
+      },
+      "dimension": 0,
+      "dimensionName": "overworld",
+      "fullyExplored": false,
+      "mapLocked": false,
+      "unlimitedTracking": false,
+      "inferredType": "standard",
+      "decorations": []
+    },
+    {
+      "id": -9320079028498,
+      "parentMapId": -9320079028497,
+      "file": "tiles/map_-9320079028498.png",
+      "xCenter": -7040,
+      "zCenter": 7168,
+      "scale": 0,
+      "width": 128,
+      "height": 128,
+      "bounds": {
+        "xMin": -7104,
+        "xMax": -6976,
+        "zMin": 7104,
+        "zMax": 7232,
+        "blocksWide": 128
+      },
+      "dimension": 0,
+      "dimensionName": "overworld",
+      "fullyExplored": false,
+      "mapLocked": false,
+      "unlimitedTracking": false,
+      "inferredType": "standard",
+      "decorations": []
+    },
+    {
+      "id": -9311489093464,
+      "parentMapId": -9311489093463,
+      "file": "tiles/map_-9311489093464.png",
+      "xCenter": -1792,
+      "zCenter": -512,
+      "scale": 0,
+      "width": 128,
+      "height": 128,
+      "bounds": {
+        "xMin": -1856,
+        "xMax": -1728,
+        "zMin": -576,
+        "zMax": -448,
+        "blocksWide": 128
+      },
+      "dimension": 0,
+      "dimensionName": "overworld",
+      "fullyExplored": false,
+      "mapLocked": false,
+      "unlimitedTracking": false,
+      "inferredType": "standard",
+      "decorations": []
+    },
+    {
+      "id": -9259949487392,
+      "parentMapId": -9259949487391,
+      "file": "tiles/map_-9259949487392.png",
+      "xCenter": -1024,
+      "zCenter": -2304,
+      "scale": 0,
+      "width": 128,
+      "height": 128,
+      "bounds": {
+        "xMin": -1088,
+        "xMax": -960,
+        "zMin": -2368,
+        "zMax": -2240,
+        "blocksWide": 128
+      },
+      "dimension": 0,
+      "dimensionName": "overworld",
+      "fullyExplored": false,
+      "mapLocked": false,
+      "unlimitedTracking": false,
+      "inferredType": "standard",
+      "decorations": []
+    },
+    {
+      "id": -9221294783553,
+      "parentMapId": -9221294783552,
+      "file": "tiles/map_-9221294783553.png",
+      "xCenter": -1536,
+      "zCenter": -5248,
+      "scale": 0,
+      "width": 128,
+      "height": 128,
+      "bounds": {
+        "xMin": -1600,
+        "xMax": -1472,
+        "zMin": -5312,
+        "zMax": -5184,
+        "blocksWide": 128
+      },
+      "dimension": 0,
+      "dimensionName": "overworld",
+      "fullyExplored": false,
+      "mapLocked": false,
+      "unlimitedTracking": false,
+      "inferredType": "standard",
+      "decorations": []
+    },
+    {
+      "id": -9221294783399,
+      "parentMapId": -9221294783398,
+      "file": "tiles/map_-9221294783399.png",
+      "xCenter": -1536,
+      "zCenter": -5120,
+      "scale": 0,
+      "width": 128,
+      "height": 128,
+      "bounds": {
+        "xMin": -1600,
+        "xMax": -1472,
+        "zMin": -5184,
+        "zMax": -5056,
+        "blocksWide": 128
+      },
+      "dimension": 0,
+      "dimensionName": "overworld",
+      "fullyExplored": false,
+      "mapLocked": false,
+      "unlimitedTracking": false,
+      "inferredType": "standard",
+      "decorations": []
+    },
+    {
       "id": -9199819947721,
       "parentMapId": -9199819947720,
       "file": "tiles/map_-9199819947721.png",
@@ -5874,30 +9227,6 @@
         "xMax": -3648,
         "zMin": 192,
         "zMax": 320,
-        "blocksWide": 128
-      },
-      "dimension": 0,
-      "dimensionName": "overworld",
-      "fullyExplored": false,
-      "mapLocked": false,
-      "unlimitedTracking": false,
-      "inferredType": "standard",
-      "decorations": []
-    },
-    {
-      "id": -9143985369399,
-      "parentMapId": -9143985369398,
-      "file": "tiles/map_-9143985369399.png",
-      "xCenter": -3584,
-      "zCenter": 640,
-      "scale": 0,
-      "width": 128,
-      "height": 128,
-      "bounds": {
-        "xMin": -3648,
-        "xMax": -3520,
-        "zMin": 576,
-        "zMax": 704,
         "blocksWide": 128
       },
       "dimension": 0,
@@ -6694,7 +10023,7 @@
       },
       "dimension": 0,
       "dimensionName": "overworld",
-      "fullyExplored": false,
+      "fullyExplored": true,
       "mapLocked": false,
       "unlimitedTracking": false,
       "inferredType": "standard",
@@ -7443,9 +10772,9 @@
       "decorations": []
     },
     {
-      "id": -3393024152314,
-      "parentMapId": -3393024152313,
-      "file": "tiles/map_-3393024152314.png",
+      "id": -3393024152308,
+      "parentMapId": -3393024152307,
+      "file": "tiles/map_-3393024152308.png",
       "xCenter": 2816,
       "zCenter": 384,
       "scale": 0,
@@ -7464,18 +10793,7 @@
       "mapLocked": false,
       "unlimitedTracking": false,
       "inferredType": "standard",
-      "decorations": [
-        {
-          "rot": 8,
-          "type": 1,
-          "typeName": "frame",
-          "x": 126,
-          "y": -25,
-          "blockX": 2879,
-          "blockY": 112,
-          "blockZ": 371
-        }
-      ]
+      "decorations": []
     },
     {
       "id": -3311419783809,
@@ -7635,30 +10953,6 @@
         "xMax": -1088,
         "zMin": 1344,
         "zMax": 1472,
-        "blocksWide": 128
-      },
-      "dimension": 0,
-      "dimensionName": "overworld",
-      "fullyExplored": false,
-      "mapLocked": false,
-      "unlimitedTracking": false,
-      "inferredType": "standard",
-      "decorations": []
-    },
-    {
-      "id": -2980707290845,
-      "parentMapId": -2980707290844,
-      "file": "tiles/map_-2980707290845.png",
-      "xCenter": 640,
-      "zCenter": -1792,
-      "scale": 0,
-      "width": 128,
-      "height": 128,
-      "bounds": {
-        "xMin": 576,
-        "xMax": 704,
-        "zMin": -1856,
-        "zMax": -1728,
         "blocksWide": 128
       },
       "dimension": 0,
@@ -7971,30 +11265,6 @@
         "xMax": 1728,
         "zMin": 1344,
         "zMax": 1472,
-        "blocksWide": 128
-      },
-      "dimension": 0,
-      "dimensionName": "overworld",
-      "fullyExplored": false,
-      "mapLocked": false,
-      "unlimitedTracking": false,
-      "inferredType": "standard",
-      "decorations": []
-    },
-    {
-      "id": -2873333119411,
-      "parentMapId": -2873333119410,
-      "file": "tiles/map_-2873333119411.png",
-      "xCenter": 0,
-      "zCenter": 0,
-      "scale": 0,
-      "width": 128,
-      "height": 128,
-      "bounds": {
-        "xMin": -64,
-        "xMax": 64,
-        "zMin": -64,
-        "zMax": 64,
         "blocksWide": 128
       },
       "dimension": 0,
@@ -8366,30 +11636,6 @@
       "decorations": []
     },
     {
-      "id": -2512555856203,
-      "parentMapId": -2512555856202,
-      "file": "tiles/map_-2512555856203.png",
-      "xCenter": 256,
-      "zCenter": 128,
-      "scale": 0,
-      "width": 128,
-      "height": 128,
-      "bounds": {
-        "xMin": 192,
-        "xMax": 320,
-        "zMin": 64,
-        "zMax": 192,
-        "blocksWide": 128
-      },
-      "dimension": 0,
-      "dimensionName": "overworld",
-      "fullyExplored": false,
-      "mapLocked": false,
-      "unlimitedTracking": false,
-      "inferredType": "standard",
-      "decorations": []
-    },
-    {
       "id": -2499670937536,
       "parentMapId": -2499670937535,
       "file": "tiles/map_-2499670937536.png",
@@ -8414,9 +11660,9 @@
       "decorations": []
     },
     {
-      "id": -2499670934712,
-      "parentMapId": -2499670934711,
-      "file": "tiles/map_-2499670934712.png",
+      "id": -2452426325946,
+      "parentMapId": -2452426325945,
+      "file": "tiles/map_-2452426325946.png",
       "xCenter": -1664,
       "zCenter": 128,
       "scale": 0,
@@ -8702,33 +11948,9 @@
       "decorations": []
     },
     {
-      "id": -1958505078487,
-      "parentMapId": -1958505078486,
-      "file": "tiles/map_-1958505078487.png",
-      "xCenter": -1024,
-      "zCenter": -2304,
-      "scale": 0,
-      "width": 128,
-      "height": 128,
-      "bounds": {
-        "xMin": -1088,
-        "xMax": -960,
-        "zMin": -2368,
-        "zMax": -2240,
-        "blocksWide": 128
-      },
-      "dimension": 0,
-      "dimensionName": "overworld",
-      "fullyExplored": false,
-      "mapLocked": false,
-      "unlimitedTracking": false,
-      "inferredType": "standard",
-      "decorations": []
-    },
-    {
-      "id": -1760936584968,
-      "parentMapId": -1760936584967,
-      "file": "tiles/map_-1760936584968.png",
+      "id": -1760936582500,
+      "parentMapId": -1760936582499,
+      "file": "tiles/map_-1760936582500.png",
       "xCenter": 128,
       "zCenter": -1536,
       "scale": 0,
@@ -8798,6 +12020,30 @@
       "decorations": []
     },
     {
+      "id": -1099511623128,
+      "parentMapId": -1099511623127,
+      "file": "tiles/map_-1099511623128.png",
+      "xCenter": 640,
+      "zCenter": -1792,
+      "scale": 0,
+      "width": 128,
+      "height": 128,
+      "bounds": {
+        "xMin": 576,
+        "xMax": 704,
+        "zMin": -1856,
+        "zMax": -1728,
+        "blocksWide": 128
+      },
+      "dimension": 0,
+      "dimensionName": "overworld",
+      "fullyExplored": false,
+      "mapLocked": false,
+      "unlimitedTracking": false,
+      "inferredType": "standard",
+      "decorations": []
+    },
+    {
       "id": -1017907248880,
       "parentMapId": -1017907248879,
       "file": "tiles/map_-1017907248880.png",
@@ -8822,9 +12068,9 @@
       "decorations": []
     },
     {
-      "id": -1017907247737,
-      "parentMapId": -1017907247736,
-      "file": "tiles/map_-1017907247737.png",
+      "id": -1017907247616,
+      "parentMapId": -1017907247615,
+      "file": "tiles/map_-1017907247616.png",
       "xCenter": 640,
       "zCenter": -1152,
       "scale": 0,
@@ -8843,7 +12089,18 @@
       "mapLocked": false,
       "unlimitedTracking": false,
       "inferredType": "standard",
-      "decorations": []
+      "decorations": [
+        {
+          "rot": 8,
+          "type": 1,
+          "typeName": "frame",
+          "x": 120,
+          "y": -41,
+          "blockX": 700,
+          "blockY": 97,
+          "blockZ": -1173
+        }
+      ]
     },
     {
       "id": -1017907247596,
@@ -9171,6 +12428,30 @@
         "xMax": 64,
         "zMin": -960,
         "zMax": -832,
+        "blocksWide": 128
+      },
+      "dimension": 0,
+      "dimensionName": "overworld",
+      "fullyExplored": false,
+      "mapLocked": false,
+      "unlimitedTracking": false,
+      "inferredType": "standard",
+      "decorations": []
+    },
+    {
+      "id": -442381629622,
+      "parentMapId": -442381629621,
+      "file": "tiles/map_-442381629622.png",
+      "xCenter": 256,
+      "zCenter": 128,
+      "scale": 0,
+      "width": 128,
+      "height": 128,
+      "bounds": {
+        "xMin": 192,
+        "xMax": 320,
+        "zMin": 64,
+        "zMax": 192,
         "blocksWide": 128
       },
       "dimension": 0,
